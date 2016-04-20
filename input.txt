@@ -1,0 +1,525 @@
+Title: 1BR, 1BA at West 43rd Street	Price: $2,995	Address:Hell's Kitchen, Midtown Manhattan, Manhattan
+Title: 1BR, 1BA at 540 East 20th Street	Price: $3,312	Address:Stuyvesant Town - Peter Cooper Village, Midtown Manhattan, Manhattan, Gramercy Park, East Village
+Title: 1BR, 1BA at 626 East 20th Street	Price: $3,315	Address:Stuyvesant Town - Peter Cooper Village, Midtown Manhattan, Manhattan, Gramercy Park, East Village
+Title: 3BR, 1BA at 179 Ave B	Price: $4,550	Address:Alphabet City, East Village, Downtown Manhattan, Manhattan
+Title: 3BR, 1BA at 264 W 19th St	Price: $4,900	Address:Chelsea, Midtown Manhattan, Manhattan
+Title: 2BR, 2BA at W 86th St	Price: $7,000	Address:Upper West Side, Upper Manhattan, Manhattan
+Title: 2BR, 1BA at East 95th Street	Price: $3,595	Address:Upper East Side, Upper Manhattan, Manhattan
+Title: 4BR, 1BA at East 22nd Street	Price: $5,795	Address:Flatiron District, Midtown Manhattan, Manhattan
+Title: 1BR, 1BA at W 86th St	Price: $4,579	Address:Upper West Side, Upper Manhattan, Manhattan
+Title: 2BR, 2BA at West 25th Street	Price: $7,400	Address:NoMad, Midtown Manhattan, Manhattan
+Title: 1BR, 1BA at 2620 21st Street	Price: $2,400	Address:Astoria, Northwestern Queens, Queens
+Title: 3BR, 1BA at West 105th Street	Price: $3,795	Address:Manhattan Valley, Upper West Side, Upper Manhattan, Manhattan
+Title: 2BR, 1BA at Avenue C	Price: $3,650	Address:Alphabet City, East Village, Downtown Manhattan, Manhattan
+Title: 3BR, 2BA at 135 William Street	Price: $6,995	Address:Financial District, Downtown Manhattan, Manhattan
+Title: 2BR, 2BA at River Terrace	Price: $5,100	Address:Battery Park City, Downtown Manhattan, Manhattan
+Title: 1BR, 1BA at 429 West 46th Street #6D	Price: $2,034	Address:Hell's Kitchen, Midtown Manhattan, Manhattan
+Title: Studio, 1BA at E 15 Street	Price: $2,700	Address:Gramercy Park, Midtown Manhattan, Manhattan
+Title: 2BR, 1BA at 299 East 8th Street	Price: $3,195	Address:Alphabet City, East Village, Downtown Manhattan, Manhattan
+Title: 3BR, 1BA at 28th Ave	Price: $2,750	Address:Astoria, Northwestern Queens, Queens
+Title: 2BR, 1BA at W 21st St.	Price: $4,000	Address:Chelsea, Midtown Manhattan, Manhattan
+# 200  listings in Manhattan      $   ()                  
+URI   $Price   (Neighborhood)   Address   ZIP   Sqft   Bedrooms   Baths   
+http://streeteasy.com/sale/1200525   $65000   (Murray Hill)   250 East 40th Street   10016   707   1   1   
+http://streeteasy.com/sale/1209261   $115000   (Central Harlem)   167 West 129th Street   10027      1   1   
+http://streeteasy.com/sale/1149973   $125000   (Washington Heights)   512 West 156th Street   10032      3   1   
+http://streeteasy.com/sale/1149976   $150000   (Washington Heights)   512 West 156th Street   10032      4   1   
+http://streeteasy.com/sale/1177001   $150000   (Washington Heights)   1993 Amsterdam Avenue   10032      3   1   
+http://streeteasy.com/sale/1205943   $165000   (East Harlem)   2159 1st Avenue    10029   430   1   1   
+http://streeteasy.com/sale/1205455   $165000   (South Harlem)   50 West 112th St   10026   500   1   1   
+http://streeteasy.com/sale/1205460   $175000   (South Harlem)   50 West 112th St   10026   500   1   1   
+http://streeteasy.com/sale/1216979   $175000   (South Harlem)   50 West 112th St   10026      1   1   
+http://streeteasy.com/sale/1167877   $179771   (Inwood)   50 Park Terrace East   10034      1   1   
+http://streeteasy.com/sale/1188917   $180000   (Hamilton Heights)   270 Convent Avenue   10031      1   1   
+http://streeteasy.com/sale/1186667   $182000   (Lincoln Square)   155 West 66 Street   10023   625      1   
+http://streeteasy.com/sale/1204237   $189000   (Inwood)   675 Academy Street   10034      0   1   
+http://streeteasy.com/sale/1211768   $195000   (Hamilton Heights)   524 West 151ST Street   10031      2   1   
+http://streeteasy.com/sale/1190581   $199000   (Hamilton Heights)   409 EDGECOMBE AVE   10031      1   1   
+http://streeteasy.com/sale/1202094   $199000   (West Harlem)   537 W. 133rd Street   10027      2   1   
+http://streeteasy.com/sale/1209188   $199000   (Inwood)   420 West 206   10034      1   1   
+http://streeteasy.com/sale/1217915   $199000   (Central Harlem)   229 West 144th Street   10030      3   1   
+http://streeteasy.com/sale/1200935   $199500   (West Harlem)   537 WEST 133RD STREET   10027      2   1   
+http://streeteasy.com/sale/1205454   $200000   (South Harlem)   50 West 112th St   10026   500   1   1   
+http://streeteasy.com/sale/1211648   $205000   (Upper East Side)   103 East 84th Street   10028      0   1   
+http://streeteasy.com/sale/1219958   $205000   (Lincoln Square)   155 West 66th Street   10023   650   1   1   
+http://streeteasy.com/sale/1219605   $210000   (Hudson Heights)   4523 Broadway   10040   600   1   1   
+http://streeteasy.com/sale/1201844   $214999   (Central Harlem)   219 W 144 Street   10030      3   1   
+http://streeteasy.com/sale/1186669   $215000   (Lincoln Square)   155 West 66 Street   10023   600   1   1   
+http://streeteasy.com/sale/1211724   $215000   (West Harlem)   537 West 133rd Street   10027      2   1   
+http://streeteasy.com/sale/1202415   $215000   (Central Harlem)   219 West 144th Street   10030      2   1   
+http://streeteasy.com/sale/1204238   $215000   (Hudson Heights)   330 Haven Ave.   10033      0   1   
+http://streeteasy.com/sale/1209275   $215000   (Hamilton Heights)   660 St Nicholas Avenue   10030   675   1   1   
+http://streeteasy.com/sale/1212191   $215000   (East Harlem)   342 E 100TH ST.   10029      3   1   
+http://streeteasy.com/sale/1167873   $216857   (Inwood)   50 Park Terrace East   10034      2   1   
+http://streeteasy.com/sale/1167874   $216857   (Inwood)   50 Park Terrace East   10034      2   1   
+http://streeteasy.com/sale/1200698   $219000   (Hudson Heights)   120 BENNETT AVE   10033      0   1   
+http://streeteasy.com/sale/1202491   $224997   (Hamilton Heights)   270 Convent   10031      1   1   
+http://streeteasy.com/sale/1191534   $225000   (Lenox Hill)   301 East 63rd Street   10065      0   1   
+http://streeteasy.com/sale/1207730   $229000   (Upper East Side)   311 East 75th Street   10021   485   0   1   
+http://streeteasy.com/sale/1203430   $230000   (Carnegie Hill)   154 East 97th Street   10029   310   0   0   
+http://streeteasy.com/sale/1206899   $230000   (Turtle Bay)   45 Tudor City Place   10017      0   0   
+http://streeteasy.com/sale/1197921   $235000   (Midtown West)   342 West 56TH Street   10019      0   1   
+http://streeteasy.com/sale/1210496   $235000   (Hamilton Heights)   464 West 152nd Street   10031      1   1   
+http://streeteasy.com/sale/1137505   $235000   (Fort George)   2440 AMSTERDAM AVE   10033   625   1   1   
+http://streeteasy.com/sale/1191119   $239000   (Inwood)   100 Park Terrace West   10034   550   0   1   
+http://streeteasy.com/sale/1207886   $239000   (Manhattan Valley)   2790 Broadway   10025      0   1   
+http://streeteasy.com/sale/1203411   $241990   (Turtle Bay)   321 East 43rd Street   10017      0   1   
+http://streeteasy.com/sale/1167875   $243257   (Inwood)   50 Park Terrace East   10034      2   2   
+http://streeteasy.com/sale/1206157   $249000   (Hudson Heights)   360 Cabrini Boulevard   10040      0   1   
+http://streeteasy.com/sale/1207510   $249000   (Hudson Heights)   225 Bennett Avenue   10040      0   1   
+http://streeteasy.com/sale/1209183   $249000   (Turtle Bay)   321 East 43rd Street   10017      0   1   
+http://streeteasy.com/sale/1212941   $249000   (Morningside Heights)   90 La Salle Street   10027      0   1   
+http://streeteasy.com/sale/1215245   $249000   (Lenox Hill)   301 East 63RD Street   10065      0   1   
+http://streeteasy.com/sale/1214798   $250000   (Turtle Bay)   321 East 43rd St   10017      0   1   
+http://streeteasy.com/sale/1215529   $250000   (Hamilton Heights)   849 St Nicholas Avenue   10031      1   1   
+http://streeteasy.com/sale/1220609   $250000   (Midtown)   111 East 56th Street   10022      0   1   
+http://streeteasy.com/sale/1206774   $250000   (South Harlem)   208 West 119th Street   10026      1   1   
+http://streeteasy.com/sale/1208948   $255000   (Washington Heights)   15 FT. WASHINGTON AVE.   10032   500   1   1   
+http://streeteasy.com/sale/1213335   $259000   (Fort George)   14 Bogardus Place   10040      1   1   
+http://streeteasy.com/sale/1209237   $260000   (Central Harlem)   42 West 138th Street   10037      2   1   
+http://streeteasy.com/sale/1218133   $262000   (Turtle Bay)   321 East 43rd Street   10017      0   1   
+http://streeteasy.com/sale/1220570   $265000   (Washington Heights)   478 W 158th St   10032      2   1   
+http://streeteasy.com/sale/1176601   $265000   (Inwood)   251 Seaman Ave.   10034      1   1   
+http://streeteasy.com/sale/1191381   $265000   (Morningside Heights)   549 West 123rd Street   10027      0   1   
+http://streeteasy.com/sale/1205981   $265000   (South Harlem)   258 West 117th Street   10026   738   2   1   
+http://streeteasy.com/sale/1208537   $269000   (Fort George)   37 Nagle Ave (#4D)    10040   725   1   1   
+http://streeteasy.com/sale/1208743   $269000   (Chelsea)   310 West 18th Street   10011      0   1   
+http://streeteasy.com/sale/1220471   $270000   (South Harlem)   303 West 122nd street   10027      2   1   
+http://streeteasy.com/sale/1220473   $270000   (South Harlem)   303 West 122nd Street   10027      2   1   
+http://streeteasy.com/sale/1208321   $270000   (Turtle Bay)   336 East 50th Street   10022      0   1   
+http://streeteasy.com/sale/1171128   $273000   (Yorkville)   515 East 88th Street   10128   425   0   1   
+http://streeteasy.com/sale/1216894   $274000   (Murray Hill)   5 Tudor City Pl   10017      0   1   
+http://streeteasy.com/sale/967039   $275000   (Central Harlem)   448 St. Nicholas Avenue   10027   700   2   1   
+http://streeteasy.com/sale/1143549   $275000   (Upper West Side)   355 Riverside Drive   10025   700   1   1   
+http://streeteasy.com/sale/1196827   $275000   (Washington Heights)   478 West 158th Street   10032      2   1   
+http://streeteasy.com/sale/1203040   $275000   (Central Harlem)   214 Bradhurst Avenue   10039      2   1   
+http://streeteasy.com/sale/1208053   $275000   (Midtown)   111 East 56th Street   10022      1   1   
+http://streeteasy.com/sale/1209382   $275000   (Hamilton Heights)   345 W 145th Street 10031   10031      0   1   
+http://streeteasy.com/sale/1215600   $275000   (Hudson Heights)   340 Haven Avenue   10033      1   1   
+http://streeteasy.com/sale/1206149   $278000   (West Harlem)   541 west 133rd.street   10027      2   1   
+http://streeteasy.com/sale/1208254   $279000   (Inwood)   675 Academy St.   10034   675   1   1   
+http://streeteasy.com/sale/1209335   $279000   (Morningside Heights)   70 La Salle Street   10027   500   0   1   
+http://streeteasy.com/sale/1214991   $279000   (Fort George)   30 Bogardus Place   10040      1   1   
+http://streeteasy.com/sale/1106050   $279000   (Murray Hill)   304 East 41st Street   10017   275   0   1   
+http://streeteasy.com/sale/1209812   $285000   (Morningside Heights)   549 West 123rd Street   10027      0   1   
+http://streeteasy.com/sale/1219503   $285000   (Midtown West)   877 Tenth Avenue   10019   750   0   0   
+http://streeteasy.com/sale/1204961   $285000   (Morningside Heights)   80 LaSalle Street   10027   500   0   1   
+http://streeteasy.com/sale/1216298   $285000   (Sutton Place)   303 East 57th Street   10022      0   1   
+http://streeteasy.com/sale/1134369   $289000   (West Chelsea)   408 West 25th Street   10001      0   1   
+http://streeteasy.com/sale/1213870   $289000   (South Harlem)   208 West 119th Street   10026      1   1   
+http://streeteasy.com/sale/1219890   $289000   (Inwood)   57 Park Terrace East   10034      1   1   
+http://streeteasy.com/sale/1203172   $289000   (Murray Hill)   5 Tudor City Place   10017      0   1   
+http://streeteasy.com/sale/1205958   $289000   (Gramercy Park)   210 East 21st Street   10010   300   0   1   
+http://streeteasy.com/sale/1212785   $289000   (East Harlem)   152 East 118th Street   10035   470   0   1   
+http://streeteasy.com/sale/1216032   $289000   (Murray Hill)   25 Tudor City Place   10017   300   0   1   
+http://streeteasy.com/sale/1212488   $289500   (Murray Hill)   5 Tudor City Place   10017      0   1   
+http://streeteasy.com/sale/1208103   $289900   (Hudson Heights)   360 Cabrini Blvd   10040   475   0   1   
+http://streeteasy.com/sale/1208087   $290000   (South Harlem)   258 West 117th Street   10026   515   1   1   
+http://streeteasy.com/sale/1210696   $290000   (Lenox Hill)   345 EAST 61ST STREET   10065      0   1   
+http://streeteasy.com/sale/1184905   $290000   (Washington Heights)   566 West 159th Street   10032   650   2   1   
+http://streeteasy.com/sale/1173582   $295000   (Morningside Heights)   80 La Salle Street   10027   500   0   1   
+http://streeteasy.com/sale/1213112   $295000   (Sutton Place)   321 East 54th Street   10022      0   1   
+http://streeteasy.com/sale/1212100   $295000   (Gramercy Park)   210 East 21st Street   10010   400   0   1   
+http://streeteasy.com/sale/1207807   $296000   (South Harlem)   16 West 119th Street   10026      1   1   
+http://streeteasy.com/sale/1200623   $297000   (Inwood)   675 Academy St. #6A   10034      1   1   
+http://streeteasy.com/sale/1199492   $299000   (Morningside Heights)   510 West 123rd Street   10027   550   1   1   
+http://streeteasy.com/sale/1200457   $299000   (Upper East Side)   345 East 77th Street   10075      0   1   
+http://streeteasy.com/sale/1210543   $299000   (Yorkville)   237 East 79th Street   10075      0   1   
+http://streeteasy.com/sale/1215679   $299000   (Fort George)   4 Bogardus Place   10040      1   1   
+http://streeteasy.com/sale/1216236   $299000   (Murray Hill)   5 Tudor City Place   10017   300   0   1   
+http://streeteasy.com/sale/1217276   $299000   (Carnegie Hill)   175 East 93rd Street   10128      0   1   
+http://streeteasy.com/sale/1217774   $299000   (Murray Hill)   25 Tudor City Place   10017   300   0   1   
+http://streeteasy.com/sale/582181   $299000   (Upper East Side)   509 East 77th Street   10075   0   1   1   
+http://streeteasy.com/sale/1148277   $299000   (Central Harlem)   1 West 126th Street   10035   800   2   1   
+http://streeteasy.com/sale/1180859   $299000   (Central Harlem)   100 West 141st Street   10037   1080   3   1   
+http://streeteasy.com/sale/1192874   $299000   (Washington Heights)   474 W 158TH ST.   10032   600   2   1   
+http://streeteasy.com/sale/1201724   $299000   (Hamilton Heights)   409 EDGECOMBE AVE   10031   550   1   1   
+http://streeteasy.com/sale/1203129   $299000   (Turtle Bay)   45 Tudor City Place   10017   300   0   1   
+http://streeteasy.com/sale/1210789   $299000   (Hudson Heights)   804 West 180th Street   10033      1   1   
+http://streeteasy.com/sale/1211670   $299000   (Murray Hill)   211 East 35th Street   10016      0   1   
+http://streeteasy.com/sale/1211808   $299000   (Lenox Hill)   301 East 63rd Street   10065      1   1   
+http://streeteasy.com/sale/1214271   $299000   (Upper East Side)   425 East 78th Street   10075   400   0   1   
+http://streeteasy.com/sale/1202175   $300000   (Hamilton Heights)   601 w. 138TH   10031      2   1   
+http://streeteasy.com/sale/1219999   $300000   (Murray Hill)   25 Tudor City Place   10017      0   1   
+http://streeteasy.com/sale/1103802   $300000   (Fort George)   160 Wadsworth Avenue   10033   715   2   1   
+http://streeteasy.com/sale/1201727   $300000   (Murray Hill)   649 Second Avenue   10016      0   1   
+http://streeteasy.com/sale/1204064   $300000   (South Harlem)   1864 Adam C Powell Boulevard   10026      2   1   
+http://streeteasy.com/sale/1207610   $300000   (Hamilton Heights)   470 Convent Avenue   10031      1   1   
+http://streeteasy.com/sale/1206658   $305000   (Murray Hill)   5 Tudor City PL   10017      0   1   
+http://streeteasy.com/sale/1197095   $305000   (Murray Hill)   5 Tudor City Pl   10017   300   0   1   
+http://streeteasy.com/sale/1211261   $305000   (Hudson Heights)   340 Haven Avenue   10033      1   1   
+http://streeteasy.com/sale/1213653   $305000   (Murray Hill)   649 Second Avenue   10016      0   1   
+http://streeteasy.com/sale/1198747   $309000   (Hudson Heights)   340 HAVEN AVE   10033      1   1   
+http://streeteasy.com/sale/1215393   $309000   (Upper West Side)   235 West 102nd Street   10025      0   1   
+http://streeteasy.com/sale/1204834   $310000   (Yorkville)   448 East 88th Street   10128   450   0   1   
+http://streeteasy.com/sale/1214919   $310000   (Yorkville)   312 e 89   10128      0   1   
+http://streeteasy.com/sale/1190763   $310000   (Inwood)   72 Park Terrace West   10034   700   1   1   
+http://streeteasy.com/sale/1218719   $311000   (Hudson Heights)   854 West 181st Street   10033      1   1   
+http://streeteasy.com/sale/1193243   $312500   (Inwood)   585 West 214th Street     10034   790   1   1   
+http://streeteasy.com/sale/1129961   $315000   (Midtown West)   415 West 57th Street   10019      0   1   
+http://streeteasy.com/sale/1206339   $315000   (Fort George)   2440 Amsterdam Avenue   10033      2   1   
+http://streeteasy.com/sale/1210486   $315000   (Yorkville)   205 East 89th Street   10128   500   0   1   
+http://streeteasy.com/sale/1215047   $315000   (Yorkville)   435 East 85th Street   10028   400   0   1   
+http://streeteasy.com/sale/1210423   $318000   (Hudson Heights)   225 Bennett ave    10040      1   1   
+http://streeteasy.com/sale/1216083   $319000   (Turtle Bay)   342 EAST 53RD STREET   10022      0   1   
+http://streeteasy.com/sale/1216247   $319000   (Murray Hill)   5 Tudor City Place   10017      0   1   
+http://streeteasy.com/sale/1206729   $319000   (Midtown West)   457 West 57th Street   10019      0   1   
+http://streeteasy.com/sale/1186475   $320000   (Manhattan Valley)   58 West 105 Street   10025      1   1   
+http://streeteasy.com/sale/1200494   $320000   (Upper East Side)   328 East 73rd Street   10021   460   1   1   
+http://streeteasy.com/sale/1208478   $320000   (Upper East Side)   332 East 77th Street   10075      0   1   
+http://streeteasy.com/sale/1212427   $320000   (Murray Hill)   25 Tudor City Place   10017      0   1   
+http://streeteasy.com/sale/1167876   $321000   (Inwood)   50 Park Terrace East   10034      2   2   
+http://streeteasy.com/sale/1198480   $324850   (Upper East Side)   223 East 78th Street   10075      0   1   
+http://streeteasy.com/sale/1183563   $325000   (Morningside Heights)   80 LaSalle Street   10027   500   0   1   
+http://streeteasy.com/sale/1191230   $325000   (Sutton Place)   321 East 54th Street   10022      0   1   
+http://streeteasy.com/sale/1202968   $325000   (Hudson Heights)   187 Pinehurst Avenue   10033      1   1   
+http://streeteasy.com/sale/1217546   $325000   (Hudson Heights)   870 West 181st Street   10033   650   1   1   
+http://streeteasy.com/sale/1218007   $325000   (Gramercy Park)   210 East 21st Street   10010      0   1   
+http://streeteasy.com/sale/1219824   $325000   (Turtle Bay)   155 East 49th Street   10017      0   1   
+http://streeteasy.com/sale/1124974   $325000   (Central Harlem)   448 St. Nicholas Avenue   10027      3   1   
+http://streeteasy.com/sale/1206457   $325000   (Hudson Heights)   24 BENNETT AVE   10033   706   1   1   
+http://streeteasy.com/sale/1206960   $325000   (Hamilton Heights)   601 West 138th Street   10031      2   1   
+http://streeteasy.com/sale/1214422   $325000   (Washington Heights)   159-34 RIVERSIDE DRIVE WEST   10032   540   0   1   
+http://streeteasy.com/sale/1214641   $325000   (Murray Hill)   320 East 42nd Street   10017      0   1   
+http://streeteasy.com/sale/1215264   $325000   (Yorkville)   330 East 90th Street   10128      0   1   
+http://streeteasy.com/sale/1203519   $329000   (Upper East Side)   328 East 73rd Street   10021      1   1   
+http://streeteasy.com/sale/1216715   $329000   (Lincoln Square)   40 West 72nd Street   10023      0   1   
+http://streeteasy.com/sale/1219137   $329000   (Yorkville)   417 East 90th Street   10128   425   0   1   
+http://streeteasy.com/sale/1213276   $329000   (Midtown West)   715 ninth avenue   10019      0   1   
+http://streeteasy.com/sale/1215176   $329000   (Murray Hill)   25 Tudor City Place   10017      0   1   
+http://streeteasy.com/sale/1215201   $329000   (Inwood)   75 Park Terrace East    10034   700   1   1   
+http://streeteasy.com/sale/1212571   $329900   (Carnegie Hill)   160 East 91st Street   10128      0   1   
+http://streeteasy.com/sale/1163134   $330000   (South Harlem)   50 West 112th St   10026      2   1   
+http://streeteasy.com/sale/1212989   $330000   (Hamilton Heights)   409 Edgecombe Avenue   10031   822   1   1   
+http://streeteasy.com/sale/1194988   $330000   (Upper East Side)   311 East 75th Street   10021   400   0   1   
+http://streeteasy.com/sale/1203364   $330000   (Upper East Side)   236 East 78th Street   10075      0   1   
+http://streeteasy.com/sale/1208809   $330000   (Yorkville)   417-421 East 90 street   10128   450   0   1   
+http://streeteasy.com/sale/1210156   $330000   (Turtle Bay)   342 East 53rd Street   10022      0   1   
+http://streeteasy.com/sale/1210963   $335000   (Yorkville)   215 East 89th Street   10128      0   1   
+http://streeteasy.com/sale/1220093   $335000   (Hudson Heights)   187 Pinehurst Avenue   10033      1   1   
+http://streeteasy.com/sale/1198802   $335000   (Inwood)   1825 Riverside Dr.    10034   775   1   1   
+http://streeteasy.com/sale/1198987   $335000   (Lincoln Square)   243 West End Avenue   10023      0   1   
+http://streeteasy.com/sale/1207740   $335000   (Turtle Bay)   321 East 45th Street   10017   400   0   1   
+http://streeteasy.com/sale/1101951   $339000   (Hamilton Heights)   79 Hamilton Place   10031      3   1   
+http://streeteasy.com/sale/1206919   $339000   (Midtown West)   352 west 56th street   10019   600   1   1   
+http://streeteasy.com/sale/1212836   $339000   (Inwood)   251 Seaman Ave.   10034   750   1   1   
+http://streeteasy.com/sale/1212866   $339000   (Inwood)   675 Academy St.   10034   725   1   1   
+http://streeteasy.com/sale/1216944   $339000   (Carnegie Hill)   170  East 92nd street   10128      0   1   
+http://streeteasy.com/sale/1217233   $339000   (Yorkville)   224 East 95th Street   10128      1   1   
+http://streeteasy.com/sale/1219862   $339000   (Murray Hill)   5 Tudor City Pl   10017      0   1   
+http://streeteasy.com/sale/1220412   $339000   (Inwood)   50 Park Terrace West   10034      1   1   
+http://streeteasy.com/sale/1140408   $339000   (Lincoln Square)   140 West 69th Street   10023   375   0   1   
+http://streeteasy.com/sale/1185944   $339000   (Inwood)   1793 RSD   10034   700   1   1   
+http://streeteasy.com/sale/1185517   $340000   (Turtle Bay)   45 Tudor City Place   10017      0   1   
+http://streeteasy.com/sale/1204753   $340000   (Carnegie Hill)   160 East 91st Street   10128      0   1   
+http://streeteasy.com/sale/1210105   $340000   (Gramercy Park)   317 East 18th Street   10003      0   1   
+http://streeteasy.com/sale/1216749   $340000   (Turtle Bay)   321 East 45th Street   10017      0   1   
+http://streeteasy.com/sale/1128835   $340000   (Central Harlem)   1 West 126th Street   10035      2   1   
+http://streeteasy.com/sale/1189030   $340000   (South Harlem)   1901 Madison Avenue   10035      2   1   
+http://streeteasy.com/sale/1192609   $340000   (Hudson Heights)   245 Bennett    10040   700   1   1   
+http://streeteasy.com/sale/1194896   $340000   (Yorkville)   252 East 89th Street   10128      0   1   
+http://streeteasy.com/sale/1216576   $340000   (Hamilton Heights)   96 Hamilton Place   10031   1000   2   1   
+http://streeteasy.com/sale/1201871   $344000   (Murray Hill)   25 Tudor City Place   10017   300   0   1   
+Apr 20 Yes, it's a Fireplace! 2BR-exposed brick-separate kitchen-May 1st $3200 / 2br - 850ft2 - (Upper West Side)
+Apr 20 VERY LARGE STUDIO-ELEV BLDG-E 80S $1925 (Upper East Side)
+Apr 20 Fully renovated 1 bedroom $2450 / 1br - (Kips Bay)
+Apr 20 Central Harlem's Newest Luxury Rental Building $2800 / 2br - (East Harlem)
+Apr 20 ***Super Hot Deal!!! SoHo Flex 2 BR, ONLY $2795!!! ~~~ Hurry!!!*** $2795 / 2br - (SoHo)
+Apr 20 Lovely 2 Bedroom on Broadway $2350 / 2br - 900ft2 - (Inwood / Wash Hts)
+Apr 20 Gorgeous 2 Bedroom Apt. On The East River $2400 / 2br - (East Harlem)
+Apr 20 True 2 Bedroom in Hudson Heights**New Kitchen and Bath**Elev/Laundry $2600 / 2br - (Inwood / Wash Hts)
+Apr 20 RENT LOWERED//RENOVATED 1 BEDROOM NOW AVAILABLE//ACROSS FROM GRAM. PK $2750 / 1br - (Gramercy)
+Apr 20 Amazing flex 3 BED, STUNNING VIEWS 38th fl, luxury high-rise bldg $5067 / 3br - (Midtown West)
+Apr 20 West 12th Street & Greenwich Avenue! $2800 / 2br - (West Village)
+Apr 20 SUPER DEAL---NO FEE CONVERTIBLE 3! $3895 / 3br - (Financial District)
+Apr 20 2_ROOM STUDIO-NEW RENO W/SHARED PATIO!!!! 1ST AVE&74ST $1625 / 400ft2 - (Upper East Side)
+Apr 20 Upper West Side Apartment Renovated One Bedroom Apartment, Located in a Well Kep $2000 / 1br - (Upper West Side)
+Apr 20 AMAZING 1BR APT! PRIME LOCATINO! HUGE LAYOUT! ALL NEW!! $2500 / 1br - (Nolita / Bowery)
+Apr 20 Extra large sun-drench one bedroom home $2800 / 1br - (Greenwich Village)
+Apr 20 3 Bedrooms 929 Amsterdam Ave $4000 / 3br - (Upper West Side)
+Apr 20 West Village Apartment Home For Rent 1 Bdrm $2525 / 1br - (West Village)
+Apr 20 Charming quiet apartment in Heart of Yorkville $2020 / 1br - (Upper East Side)
+Apr 20 INCREDIBLE NEW 2BR APT! PRIME SPOT! BRAND NEW RENO~BREAKFAST BAR!! $3200 / 2br - (Gramercy)
+Apr 20 Exposed brick Lower East Side Studio $2150 (Lower East Side)
+Apr 20 3 NO FEE & 1 MONTH FREE!! SPACIOUS GREAT 3BDR !! W/D IN UNIT!! $5000 / 3br - (Gramercy)
+Apr 20 !!!2_RM STUDIO-BEST DEAL IN THE NEIGHBORHOOD!!! 74&1ST AVE $1600 (Upper East Side)
+Apr 20 Not on market yet... available after June 21 2016 $3000 / 300ft2 - (Upper West Side)
+Apr 20 HUGE LUXURY 1BR (EXACT FLOORPLAN) WEST 66TH & COLUMBUS + 1 MONTH FREE! $3700 / 1br - (Upper West Side)
+Apr 20 SUNNY LARGE STUDIO-ELEV-E80s $1925 (Upper East Side)
+Apr 20 Oversized One Bedroom Delivered furnished or unfurnished $2525 / 1br - (Upper West Side)
+Apr 20 NO FEE!!!!***(((W/D IN UNIT)))~~35TH N 2ND~~ $3295 / 2br - (Murray Hill)
+Apr 20 Low Fee!! Big 2 Bedroom Dishwasher! $2750 917-807-8169 $2750 / 2br - (Upper East Side)
+Apr 20 LUXURY 1-BR (EXACT FLOORPLAN!) W 64TH & BROADWAY (POOL, GYM, LOUNGE) $3915 / 1br - (Upper West Side)
+Apr 20 Elizabeth St! Condo 1 Bedroom Elevator Private Balcony $3750 / 1br - (Nolita / Bowery)
+Apr 20 BEST PRICE HIGH FLR 3 bed/2baths!ALL amenities included!PRIVATEbalcony $4853 / 3br - 1300ft2 - (Midtown West)
+Apr 20 Prime Nolita 1 Bedroom $4000 / 1br - (Nolita / Bowery)
+Apr 20 BEAUTIFUL++UNBEATABLE LOCATION $2800 / 1br - (East Village)
+Apr 20 CLINTON ST BEST DEAL ROOF ACCESS EXPOSED BRICK DW LAUNDRY BEST DEAL GO $3595 / 2br - 800ft2 - (Lower East Side)
+Apr 20 AMAZING BARGAIN_BEST DEAL IN KIPS BAY.....1ST AVE&34ST $1600 / 325ft2 - (Murray Hill)
+Apr 20 2 bedroom | 1 bath | IMMEDIATE MOVE IN $2875 / 2br - 650ft2 - (Chelsea)
+Apr 20 Lovely One Bedroom Near One World Trade Center $3770 / 1br -
+Apr 20 2 bedroom perfect for roommates renovated apt. - 94th st. must see $2595 / 2br - (Upper East Side)
+Apr 20 STUNNING TRUE 2BR APT! QUEEN BEDS! ELEVATOR! WASHER/DRYER! PRIME SPOT! $3500 / 2br - (Gramercy)
+Apr 20 2 Bedroom Apt $2525 / 2br - (Upper East Side)
+Apr 20 Amazing 2 bedroom with big livingroom - 94th st. must see $2595 / 2br - (Upper East Side)
+Apr 20 super nice 2 bedrooms upper east completely renovated $2575 / 2br - (Upper East Side)
+Apr 20 1 bath unfurnished with May 1st move in $1775 / 1br - (Harlem / Morningside)
+Apr 20 Half a month free!! Amazing 2 bedroom on 94th st. Perfect for shares $2600 / 2br - (Upper East Side)
+Apr 20 Real 2 bedroom Renovated apartment - Perfect for shares 94th St. $2550 / 2br - (Upper East Side)
+Apr 20 Rare 2 bedroom on 94th st. Perfect for shares $2600 / 2br - (Upper East Side)
+Apr 20 100% NO FEE 2 MTHS FREE // NEW NEW STUDIO/W&D // ULTRA LUXURY // GYM // POOL // $2600 (Midtown West)
+Apr 20 BRAND NEW FULLY RENO 2BR APT! SPACIOUS LAYOUT! VERY BRIGHT! PRIME SPOT $3200 / 2br - (Gramercy)
+Apr 20 AMAZING TRUE 2BR APT! BIG BEDROOMS! HIGH CEILINGS! BRAND NEW RENO! $3200 / 2br - (Gramercy)
+Apr 20 Next Day Go In - Come Check Us Out Today $2950 / 1br - 636ft2 - (Upper West Side)
+Apr 20 STUNNING 1BR APT! KING BEDROOM! BRICK EXPOSED! VERY BRIGHT LAYOUT!! $2500 / 1br - (Nolita / Bowery)
+Apr 20 Large Gramercy Doorman One Bed Triplex $2250 / 1br - (Gramercy Park)
+Apr 20 Sunny Townhouse Studio/West Village 12th St/Dogs Ok! $2095 (West Village)
+Apr 20 2 Bedrooms 230 W 107th St $3600 / 2br - (Upper West Side)
+Apr 20 Exposed brick, huge living-room, 2 full bedrooms! Avail late MAY $2895 / 2br - 850ft2 - (Upper West Side)
+Apr 20 Nice location one block from train Studio $1975 / 375ft2 - (Midtown)
+Apr 20 NO FEE**E.70's**Massive1BD/1BA *Doormen*Elevator*Stainless steel***Gym $3125 / 1br - (Upper East Side)
+Apr 20 BRAND NEW 1BR APT! BRICK EXPOSED! PRIME SPOT! ALL NEW RENO!! $2500 / 1br - (Nolita / Bowery)
+Apr 20 This is a rarely available one bedroom $1725 / 1br - (Upper East Side)
+Apr 20 Fine 2 Bed, Large Rooms, Modern Features, Near A Train $2375 / 2br - 900ft2 - (Inwood / Wash Hts)
+Apr 20 Duplex 3 bedroom - Stainless, hardwood floors, FULL living room $3500 / 3br - 850ft2 - (Upper West Side)
+Apr 20 BEST PRICE,NOFEE HUGE luxury APT in great Hell's Kitchen loc!balcony! $2550 / 550ft2 - (Midtown West)
+Apr 20 BRAND NEW 2BR APT! WASHER/DRYER! QUEEN BEDS! ELEVATOR BLDG!! $3500 / 2br - (Gramercy)
+Apr 20 2 Bedroom on Manhattan Ave*Steps to Morningside Park*Elev/Laundry $2600 / 2br - (Harlem / Morningside)
+Apr 20 525 E83st #2E- 2BD, tile Bthrm,2 closets $2925 / 2br - (Upper East Side)
+Apr 20 Sunny studio. Quiet pre-war building facing Park. May 1st $1450 / 450ft2 - (Upper East Side)
+Apr 20 30'S STUDIO PRIM LOCATION ELEVATOR LAUNDRY BUILDING $2100 (Midtown East)
+Apr 20 50's ELEVATOR LAUNDRY NEAR BY SUBWAY STATION, $2000 (Midtown East)
+Apr 20 4 Bedrooms 225 W 109th St $5500 / 4br - (Upper West Side)
+Apr 20 NOFee Amazing luxury high floor 4bed/2bath, amazing views, amenities! $6600 / 4br - (Gramercy)
+Apr 20 1-BR-RENOVATED + SUNNY & SPACIOUS + OPEN KITCHEN + GREAT NEIGHBORHOOD $2095 / 1br - (Upper East Side)
+Apr 20 FULL RENO - 2BR/BA- ELEV/DOORMAN- BALCONY - STEPS TO PARK/SHOPPING $4995 / 2br - (Upper West Side)
+Apr 20 RAVISHING 2 bed 1 bath, w/ Washer&Dryer in Unit, PRIVATE ROOF DECK!!! $3195 / 2br - (Upper West Side)
+Apr 20 Large Real 3 Bedroom on Prime Convent Ave $3300 / 3br - (Harlem / Morningside)
+Apr 20 Wow location studio one block from train E 60st $1950 / 375ft2 - (Midtown East)
+Apr 20 STOP LOOKING!!! LOVABLE 1bd 1bath w/ Washer&Dryer! Stainless Steel! $2695 / 1br - (Gramercy)
+Apr 20 PRISTINE Studio 1 bath w/ Sun Drenched and Amenity Packed Building!! $2353 (Midtown West)
+Apr 20 Park and River Views - Large Corner Two Bedroom at truffles $6695 / 2br - (TriBeCa)
+Apr 20 RAVISHING 1 bed 1 bath, w/ Cherry Wood Cabinet, S.S!! $2750 / 1br - (Upper West Side)
+Apr 20 Huge One Bedroom ? Newly Renovated? Amazing Location $3595 / 1br - (West Village)
+Apr 20 NO MORE LOOKING! 1 bed 1 bath Gut Renovated, Super Sunny $2650 / 1br - (Upper East Side)
+Apr 20 RAVISHING 2 bed 1 bath, w/ Washer&Dryer in Unit, Stainless Steel!! $3400 / 2br - (East Village)
+Apr 20 LIKE 2 STUDIOS IN 1 APT! DUPLEX CONVERTIBLE 2/2 OUTDOOR SPACE DW VIRTU $3195 / 2br - (East Village)
+Apr 20 Kips Bay Apartment East 27th & Park Ave Elevator Brand New Kitchen Dishwashe $1925 / 1br - (Kips Bay)
+Apr 20 Oversize Studio Loft in prime Location * Priced To Move $2750 (Union Square)
+Apr 20 *MUST SEE* GUT RENO STUDIO W/ LOTS OF SUNLIGHT ON E 89TH *LAUNDRY* $1750 (Upper East Side)
+Apr 20 Stay in Midtown East in this Urban NYC Getaway! $2600 / 1br - (Midtown East)
+Apr 20 Prime Chelsea Townhouse $2650 / 1br - (Chelsea)
+Apr 20 Monster 5 Bedroom Loft Prime Tribeca $15750 / 5br - 4800ft2 - (TriBeCa)
+Apr 20 ~Lovely~Studio~East Harlem~NO FEE $1495 (East Harlem)
+Apr 20 Lease 1 Bdrm - Full kitchen Clean bathroom Lots of closets and storage Large liv $1625 / 1br - (East Village)
+Apr 20 LUXURY DOORMAN BUILDING HUGE STUDIO IN 70'S $2300 (Upper East Side)
+Apr 20 Beautiful Midtown Apartment! $2100 (Midtown West)
+Apr 20 STUNNING STUDIO! PRIME SPOT! BIG LAYOUT! VERY BRIGHT! ALL NEW!! $1800 (East Village)
+Apr 20 Amazing share in the hottest location in town! $4700 / 3br - (Lower East Side)
+image 1 of 20
+<
+>
+Apr 20 Modern One-Bedroom On E.100th Street $2050 / 1br - (Upper East Side)
+Apr 20 STOP LOOKING!! AMAZING 2bd, 1bath w/ Washer&Dryer in Unit!! $2500 / 2br - (Upper East Side)
+Apr 20 Skyline and Hudson River Views ... Studio at truffles, No Fee $3495 (TriBeCa)
+Apr 20 Old World Tribeca View... One Bedroom at truffles, No Fee $3995 / 1br - (TriBeCa)
+Apr 20 BELIEVE IT!! AMAZING 1bd, 1bath w/ Washer&Dryer in Unit!! $2500 / 1br - (Upper East Side)
+Apr 20 BELIEVE IT!! AMAZING 1bd, 1bath w/ Washer&Dryer in Unit!! $2253 / 1br - (Upper East Side)
+Apr 20 3 Bedrooms 203 W 108th St $4250 / 3br - (Upper West Side)
+Apr 20 One Block From the Beautiful Carl Schurz Park! $2539 / 1br - (Upper East Side)
+Apr 20 BREATHTAKING Studio,1bath w/ Sunlight, Stainless Steel Kitchen!! $2238 (Financial District)
+Apr 20 NEWLY RENO<>NEXT TO 6 LINE $1650 / 1br - (East Harlem)
+Apr 20 SCORCHING 3bed, 2bath Newly Renovated w/ Washer&Dryer, Stainless Steel $3595 / 3br - (Upper East Side)
+Apr 20 BREATHTAKING 3bd,2bath w/ Washer&Dryer, PRIVATE ROOF DECK!! $4095 / 3br - (Upper East Side)
+Apr 20 Enjoy Some Great Updates! $2099 (Upper East Side)
+Apr 20 SPECTACULAR!! 2 bed 1 Bath, Great Sun Exposure/ SPACIOUS!!! $2295 / 2br - (East Harlem)
+Apr 20 FULLY renovated one bedroom apartment! $3479 / 1br - (Upper East Side)
+Apr 20 Amazing share in the hottest location in town! $3200 / 2br - (Lower East Side)
+Apr 20 application pending, check back this page later for updates $2040 / 1br - (Murray Hill)
+Apr 20 Luxury 3 Bedroom 2 Bath Private Balcony East 10th $5800 / 3br - (East Village)
+Apr 20 /// Instant Move-In 1 Bdrm Apartment \\\ $2700 / 1br - (Murray Hill)
+Apr 20 **Incredible Below Market 3BR/2BA**HW/DISHW/Bright/Spacious!!**June 1* $3750 / 3br - (East Village)
+Apr 20 Wonderful No Fee 1 BR w/ HW Floors & AC! $2800 / 1br - (Upper East Side)
+Apr 20 Amazing share in the hottest location in town! $3200 / 2br - (Lower East Side)
+Apr 20 ~Beautiful~Harlem~1BR~Pets OK~6 train $1649 / 1br - (East Harlem)
+Apr 20 NOFEE HUGE 4BED, 3 full baths, high floor sunny,luxury doorman, gym $6005 / 4br - (Upper East Side)
+Apr 20 FABULOUS TRUE 1BR W/ LAUNDRY, ELEVATOR, WALK-IN CLOSET, 24-HR DOORMAN $2750 / 1br - (Upper West Side)
+Apr 20 Lovely 2 Bedroom on Broadway $2350 / 2br - 900ft2 - (Inwood / Wash Hts)
+Apr 20 BEAUTIFUL PREWAR STUDIO W/ ENORMOUS PRIVATE BACKYARD ON PARK BLOCK! $2250 (Upper West Side)
+Apr 20 NO FEE! True 1 bedroom. Gut Renovated. W/D in unit! $3641 / 1br - 2ft2 - (East Village)
+Apr 20 GORGEOUS 1BR W/PRIVATE DECK, LAUNDRY, ELEVATOR, DISHWASHER, MICROWAVE $2595 / 1br - (Upper West Side)
+Apr 20 Amazing huge real 2br Washer and Dryer in the unit!!! $3400 / 2br - (Lower East Side)
+Apr 20 Stay fit all year with our Fitness Center down the hall $2284 / 1br - (Upper West Side)
+Apr 20 STUNNING TWO BEDROOM- ELEVATOR- 13TH ST- BALCONY-FIREPLACE-OPEN HOUSE# $4800 / 2br - 1200ft2 - (Union Square)
+Apr 20 3 Bedrooms 243 W 109th St $4000 / 3br - (Upper West Side)
+Apr 20 SPACIOUS PREWAR STUDIO DUPLEX WITH 2 BATHROOMS ON QUIET PARK BLOCK $2495 / 1br - (Upper West Side)
+Apr 20 SMOKIN HOT DEAL__THE BEST ON THE MARKET __SOHO+++PRIME $1845 (SoHo)
+Apr 20 super nice 2 bedrooms upper east completely renovated $2575 / 2br - (Upper East Side)
+Apr 20 Long, Spacious Wall Street Studio with Pass-Through Kitchen $3550 / 809ft2 - (Financial District)
+Apr 20 __NO FEE__ 100% MINT Gut Renov REAL 3BR Washer / Dryer + Dishwasher__! $4595 / 3br - (Midtown West)
+Apr 20 ~ Free Month's Rent ~ 1 Bedroom 1 Bath Unit ~ Available Now ~ $1875 / 1br - (Clinton)
+Apr 20 Spacious Wall Street Studio with Island Kitchen $2960 / 617ft2 - (Financial District)
+Apr 20 ?Beautiful?Sunny?2BR?6 train?Pets OK $1999 / 2br - (East Harlem)
+Apr 20 Large Studio Apartment with foyer! $3310 / 659ft2 - (Financial District)
+Apr 20 3 Bedrooms 230 W 107th St $4600 / 3br - (Upper West Side)
+Apr 20 Midtown Prewar 2bdrm/2bath, full service, most closet space I've seen $6895 / 2br - 1000ft2 - (Midtown)
+Apr 20 MASSIVE TWO BEDROOMS!LUXURY FULL SERVICE BLDG!W&D IN!PRIME LOCATION! $6000 / 2br - 1300ft2 - (Upper East Side)
+Apr 20 ~Amazing~HUGE~Harlem~1BR~pets OK $1745 / 1br - (East Harlem)
+Apr 20 Classic Harlem Style 1 Bed || Super Sunny || By Ower No Fee $1950 / 1br - (East Harlem)
+Apr 20 By Owner No Fee || Spacious & Sunny 1 Bed 1 Bath $1950 / 1br - (East Harlem)
+Apr 20 Real NYC Harlem 1 Bed 1 Bath || Spacious, Sunny, Charming $1950 / 1br - (East Harlem)
+Apr 20 Brand New Upper East Side STUDIO NO FEE!! $2000 / 500ft2 - (Upper East Side)
+Apr 20 Spacious No Fee 1 BR w/ HW Floors & AC! $2965 / 1br - (Upper East Side)
+Apr 20 Unique One Bedroom Loft-like West 75th St $2425 / 1br - (Upper West Side)
+Apr 20 $100 OFF RENT FOR ALL 1 BEDS!!!!!!!!!!!!!!!!!!!! $2175 / 1br - 650ft2 - (Midtown East)
+Apr 20 Large~Superb~NO FEE~2BR~Pets OK~E.Harlem $2099 / 2br - (East Harlem)
+Apr 20 FULL RENO - LARGE LOFT STUDIO - PRIME VILLAGE $2700 / 1br - (Greenwich Village)
+Apr 20 Terrific No Fee 1 BR w/ HW Floors & AC! $2700 / 1br - (Upper East Side)
+Apr 20 No fee GV apartment for rent by owner (via tenant)! $4000 / 1br - 900ft2 - (Greenwich Village)
+Apr 20 Gorgeous No Fee 1 BR w/ HW Floors & AC! $2800 / 1br - (Upper East Side)
+Apr 20 Priced for rent!! Huge Studio W. A Loft* West 81st St $2350 (Upper West Side)
+Apr 20 No Fee! truffles/On The Water/Two Bedroom/Two Bathroom! $6695 / 2br - (TriBeCa)
+Apr 20 Gut Renovated Large Studio West 73rd Street& Amsterdam Ave $2150 (Upper West Side)
+Apr 20 Complete renovated Large studio w/elevator and laundry $2500 / 500ft2 - (Midtown East)
+Apr 20 pet friendly ? apartment near everything! $1825 / 2br - (New ?York Manhattan)
+Apr 20 First Avenue ¤ Manhattan 1 bedrooms $800 / 1br - (¤East Harlem)
+Apr 20 Spacious 2 bedroom with private roof deck $2670 / 2br - (Lower East Side)
+Apr 20 BEAUTIFUL LUXURIOUS 1 BDR !!DOORMAN!! W/D!!GYM!! $3895 / 1br - (Midtown West)
+Apr 20 Amazing 2 bedroom with big livingroom - 94th st. must see $2595 / 2br - (Upper East Side)
+Apr 20 Great Layout! XL Sprawling 2 BR! Hot Location! 917-807-8169 $3800 (East Village)
+Apr 20 ??RIVER PLACE Riverside Oasis : Basketball, Tennis, Pool, Park?? $5690 / 2br - (Midtown West)
+Apr 20 TRUE 2!!!!****Spring+W Broadway****DISHWASHER+Separate Ktchn!!!! $3895 / 2br - (SoHo)
+Apr 20 AWESOME DEAL, ACT FAST NOW!!!!!!! -TRUE 3 BED, 2 BATH !! DOORMAN!! $4000 / 3br - (Upper East Side)
+Apr 20 AWESOME DEAL, ACT FAST NOW!!!!!!! -TRUE 3 BED, 2 BATH !! DOORMAN!! $4000 / 3br - (Upper East Side)
+Apr 20 For Lease: 1 Bdrm Apartment Home $2525 / 1br - 691ft2 - (Kips Bay)
+Apr 20 AWESOME DEAL, ACT FAST NOW!!!!!!! -TRUE 3 BED, 2 BATH !! DOORMAN!! $4000 / 3br - (Upper East Side)
+Apr 20 ? Gorgeous Apartment With great sunsets MUST SEE ? $775 / 1br - (? In`wood)
+Apr 20 NO FEE**** Spacious studio! 24 hour doorman building w/ Laundry!!! $1650 (Harlem / Morningside)
+Apr 20 NO FEE--BRAND NEW 5 BEDROOMS 4 BATH LOCATED on E81/2nd AVE--NO FEE $10000 / 5br - (Upper East Side)
+Apr 20 BRAND NEW RENOVATED CLASSIC 1 BEDROOM--W13/GREENWICH AVE--NO FEE $3000 / 1br - (West Village)
+Apr 20 TRULY GREAT DEAL: TRUE 3 BEDROOM--BRAND NEW!!---E50/3rd ave--MAY 1 $4400 / 3br - (Midtown East)
+Apr 20 INCREDIBLE NEW 2BR APT IN ELEVATOR BLDG! WASHER/DRYER! HUGE BEDROOMS! $3500 / 2br - (Gramercy)
+Apr 20 No Fee! truffles/ LargeStudio/Water Views $3695 / 1br - (TriBeCa)
+Apr 20 345 E65st #2A-2 BD, Mrble Bth, 2 Closets, diswasher $3150 / 2br - (Midtown East)
+Apr 20 No Fee Gorgeous 3 Bed Duplex Private Roof Deck East 81st $6500 / 3br - (Upper East Side)
+Apr 20 Entirely Remodeled 3-Bed Apartment includes Heat! $1925 / 3br - (Washington Heights)
+Apr 20 Awesome No Fee 1 BR w/ Terrace, AC & HW Floors! $2945 / 1br - (Upper East Side)
+Apr 20 Rent price reflects 1 month free rent. Madison Avenue at its best! $2600 / 1br - (Upper East Side)
+Apr 20 **SEE NOW** Stunning 2BR*Full Reno*Washer In Unit*SHOWING TODAY* $2350 / 2br - (Inwood / Wash Hts)
+Apr 20 SOUTH FACING PRIVATE BALCONY DW VIRTUAL DOORMAN EXPOSED BRICK BEST DEA $2295 (East Village)
+Apr 20 2 bedroom perfect for roommates renovated apt. - 94th st. must see $2600 / 2br - (Upper East Side)
+Apr 20 No Fee! truffles/ Large One Bedroom $3895 / 1br - (TriBeCa)
+Apr 20 The Waterford 1 BR with Sweeping City & River Views, $2,795 ! $2120 / 1br - 643ft2 - (Upper East Side)
+Apr 20 UPPER EAST SIDE RENOVATED SPACIOUS LUXURY DUPLEX 2BR 89TH/LEXINGTON $3650 / 2br - (Upper East Side)
+Apr 20 MIDTOWN WEST SPACIOUS RENOVATED 1BR ON 8TH AVE 51ST 4TH FL WALKUP $2850 / 1br - 650ft2 - (Midtown West)
+Apr 20 HAMILTON HEIGHTS RENOVATED LUXURY SPACIOUS 1BR RIVERSIDE 145TH 1ST FL $2375 / 1br - (Harlem / Morningside)
+Apr 20 WASHINGTON HEIGHTS LUXURY RENOVATED SPACIOUS 2BR 180/CABRINI ELEVATOR! $2800 / 2br - 900ft2 - (Inwood / Wash Hts)
+Apr 20 SOUTH HARLEM LUXURY RENOVATED CONV 2BR ON ST NICHOLAS 122ND 2FL WALKUP $2650 / 1br - 732ft2 - (Harlem / Morningside)
+Apr 20 MIDTOWN WEST LUXURY RENOVATED 1BR 53RD/NINTH AVE 3RD FL WALKUP W/D $2773 / 1br - (Midtown West)
+Apr 20 WASHINGTON HEIGHTS RENOVATED LUXURY 1BR ON RIVERSIDE + 158TH FIRST FL $2100 / 1br - (Inwood / Wash Hts)
+Apr 20 HARLEM RENOVATED 2BR ON 116TH BET 5TH AND LENOX ELEVATOR $2850 / 2br - (Harlem / Morningside)
+Apr 20 pet friendly ? apartment near everything! $1825 / 2br - (New ?York Manhattan)
+Apr 20 First Avenue ¤ Manhattan 1 bedrooms $800 / 1br - (¤East Harlem)
+Apr 20 Spacious 2 bedroom with private roof deck $2670 / 2br - (Lower East Side)
+Apr 20 BEAUTIFUL LUXURIOUS 1 BDR !!DOORMAN!! W/D!!GYM!! $3895 / 1br - (Midtown West)
+Apr 20 Amazing 2 bedroom with big livingroom - 94th st. must see $2595 / 2br - (Upper East Side)
+Apr 20 Great Layout! XL Sprawling 2 BR! Hot Location! 917-807-8169 $3800 (East Village)
+Apr 20 ??RIVER PLACE Riverside Oasis : Basketball, Tennis, Pool, Park?? $5690 / 2br - (Midtown West)
+Apr 20 TRUE 2!!!!****Spring+W Broadway****DISHWASHER+Separate Ktchn!!!! $3895 / 2br - (SoHo)
+Apr 20 AWESOME DEAL, ACT FAST NOW!!!!!!! -TRUE 3 BED, 2 BATH !! DOORMAN!! $4000 / 3br - (Upper East Side)
+Apr 20 AWESOME DEAL, ACT FAST NOW!!!!!!! -TRUE 3 BED, 2 BATH !! DOORMAN!! $4000 / 3br - (Upper East Side)
+Apr 20 For Lease: 1 Bdrm Apartment Home $2525 / 1br - 691ft2 - (Kips Bay)
+Apr 20 AWESOME DEAL, ACT FAST NOW!!!!!!! -TRUE 3 BED, 2 BATH !! DOORMAN!! $4000 / 3br - (Upper East Side)
+Apr 20 ? Gorgeous Apartment With great sunsets MUST SEE ? $775 / 1br - (? In`wood)
+Apr 20 NO FEE**** Spacious studio! 24 hour doorman building w/ Laundry!!! $1650 (Harlem / Morningside)
+Apr 20 NO FEE--BRAND NEW 5 BEDROOMS 4 BATH LOCATED on E81/2nd AVE--NO FEE $10000 / 5br - (Upper East Side)
+Apr 20 BRAND NEW RENOVATED CLASSIC 1 BEDROOM--W13/GREENWICH AVE--NO FEE $3000 / 1br - (West Village)
+Apr 20 TRULY GREAT DEAL: TRUE 3 BEDROOM--BRAND NEW!!---E50/3rd ave--MAY 1 $4400 / 3br - (Midtown East)
+Apr 20 INCREDIBLE NEW 2BR APT IN ELEVATOR BLDG! WASHER/DRYER! HUGE BEDROOMS! $3500 / 2br - (Gramercy)
+Apr 20 No Fee! truffles/ LargeStudio/Water Views $3695 / 1br - (TriBeCa)
+Apr 20 345 E65st #2A-2 BD, Mrble Bth, 2 Closets, diswasher $3150 / 2br - (Midtown East)
+Apr 20 No Fee Gorgeous 3 Bed Duplex Private Roof Deck East 81st $6500 / 3br - (Upper East Side)
+Apr 20 Entirely Remodeled 3-Bed Apartment includes Heat! $1925 / 3br - (Washington Heights)
+Apr 20 Awesome No Fee 1 BR w/ Terrace, AC & HW Floors! $2945 / 1br - (Upper East Side)
+Apr 20 Rent price reflects 1 month free rent. Madison Avenue at its best! $2600 / 1br - (Upper East Side)
+Apr 20 **SEE NOW** Stunning 2BR*Full Reno*Washer In Unit*SHOWING TODAY* $2350 / 2br - (Inwood / Wash Hts)
+Apr 20 SOUTH FACING PRIVATE BALCONY DW VIRTUAL DOORMAN EXPOSED BRICK BEST DEA $2295 (East Village)
+Apr 20 2 bedroom perfect for roommates renovated apt. - 94th st. must see $2600 / 2br - (Upper East Side)
+Apr 20 No Fee! truffles/ Large One Bedroom $3895 / 1br - (TriBeCa)
+Apr 20 The Waterford 1 BR with Sweeping City & River Views, $2,795 ! $2120 / 1br - 643ft2 - (Upper East Side)
+Apr 20 UPPER EAST SIDE RENOVATED SPACIOUS LUXURY DUPLEX 2BR 89TH/LEXINGTON $3650 / 2br - (Upper East Side)
+Apr 20 MIDTOWN WEST SPACIOUS RENOVATED 1BR ON 8TH AVE 51ST 4TH FL WALKUP $2850 / 1br - 650ft2 - (Midtown West)
+Apr 20 HAMILTON HEIGHTS RENOVATED LUXURY SPACIOUS 1BR RIVERSIDE 145TH 1ST FL $2375 / 1br - (Harlem / Morningside)
+Apr 20 WASHINGTON HEIGHTS LUXURY RENOVATED SPACIOUS 2BR 180/CABRINI ELEVATOR! $2800 / 2br - 900ft2 - (Inwood / Wash Hts)
+Apr 20 SOUTH HARLEM LUXURY RENOVATED CONV 2BR ON ST NICHOLAS 122ND 2FL WALKUP $2650 / 1br - 732ft2 - (Harlem / Morningside)
+Apr 20 MIDTOWN WEST LUXURY RENOVATED 1BR 53RD/NINTH AVE 3RD FL WALKUP W/D $2773 / 1br - (Midtown West)
+Apr 20 WASHINGTON HEIGHTS RENOVATED LUXURY 1BR ON RIVERSIDE + 158TH FIRST FL $2100 / 1br - (Inwood / Wash Hts)
+Apr 20 HARLEM RENOVATED 2BR ON 116TH BET 5TH AND LENOX ELEVATOR $2850 / 2br - (Harlem / Morningside)
+Apr 20 Newly renovated 3 bedrooms apartment with 2 marble bathrooms $2720 / 3br - (East Harlem)
+Apr 20 MIDTOWN EAST LUXURY RENOVATED SPACIOUS STUDIO ON 30TH/2ND ELEVATOR!!!! $2700 (Midtown East)
+Apr 20 MIDTOWN WEST LUXURY RENOVATED SPACIOUS 2BR 56TH/9TH ELEVATOR DOORMAN!! $3500 / 2br - (Midtown West)
+Apr 20 MURRAY HILL LUXURY SPACIOUS RENOVATED 1BR CONV 2 40TH/BET PARK LEX $3395 / 1br - 800ft2 - (Murray Hill)
+Apr 20 CHELSEA RENOVATED SPACIOUS ALCOVE STUDIO ON 30TH NEAR 8TH ELEVATOR $2550 (Chelsea)
+Apr 20 CHELSEA RENOVATED LUXURY ALCOVE STUDIO 30TH/8TH AVE SPACIOUS! ELEVATOR $2795 (Chelsea)
+Apr 20 UPPER WEST SIDE LUXURY RENOVATED COZY STUDIO 73RD AMSTERDAM ELEVATOR $2700 (Upper West Side)
+Apr 20 Amazing 3 Bedroom w/3 Full Baths Gut Renovated East 75th $5300 / 3br - (Upper East Side)
+Apr 20 This spacious Junior 1BR already has a wall up for privacy $2000 / 1br - (Upper East Side)
+Apr 20 NEWLY RENO<>NEXT TO 6 LINE $1750 / 1br - (East Harlem)
+Apr 20 LARGE 1 Bedroom! Washer Dryer Included! $2700 / 1br - (Clinton)
+Apr 20 2 Bedroom Apt Beautiful 2-bedroom apartment available May 6th to allow time to c $2150 / 2br - 650ft2 - (East Village)
+Apr 20 Upper West Side 2BR duplex with private terrace - Available Sept 1 $3300 / 2br - (Upper West Side)
+Apr 20 ?$1124/ 2/ West 148th street apt 5H $1124 (?Manhattan ny)
+Apr 20 Two Bedroom for rent @ elevator building 701 West 175th street Apt 3J $2000 / 2br - (Inwood / Wash Hts)
+Apr 20 **NO FEE /HUGE 3BR Renovated ** $2794 / 3br - (Inwood / Wash Hts)
+Apr 20 $800/ 1/ room for rent on ? W. 142nd Street $800 / 1br - (? Hamilton Heights)
+Apr 20 3 Bedrooms 203 W 108th St $4500 / 3br - (Upper West Side)
+Apr 20 Perfect *Junior 1 *STAINLESS* [ 74th St - Broadway Station ] Pets Ok $1575 / 700ft2 - (Woodside)
+Apr 20 __100% MINT Gut Reno REAL 3BR SS DW +2 Balc +Washer/Dryer @ 26th/3rd__ $4995 / 3br - (Gramercy)
+Apr 20 Sunny Spacious Studio Available in June! $2500 / 577ft2 - (Upper East Side)
+Apr 20 Excellent No Fee 1 BR w/ AC, Balcony & HW Floors! $2885 / 1br - (Upper East Side)
+Apr 20 3 Bedrooms 203 W 108th St $4500 / 3br - (Upper West Side)
+Apr 20 RAVISHING Studio 1 bath, Spacious, Stainless Steel, Huge Closets! $1895 (Upper East Side)
+Apr 20 No Fee! The Biltmore/Broadway's Best! True Two Bedroom! $5195 / 2br - (Midtown West)
+Apr 20 __NO FEE__100% MINT 3BR SS Kitchen Granite Marble D/W **Washer/Dryer** $4595 / 3br - (Murray Hill)
+Apr 20 __NO FEE__ 100% MINT 3BR/2BA W/D DW Balcony + PRIVATE ROOF DECK !!! + $5395 / 3br - 975ft2 - (Gramercy)
+Apr 20 1-Bed Apartment with 1-Bathrooms $2625 / 1br - 732ft2 - (Financial District)
+Apr 20 very nice 1br ? wood floors apartment for rent $1285 / 1br - (? uptown ?)
+Apr 20 --- LARGE AND IN CHARGE -- 3BED AND 2 BATH -- WOW! $3550 / 3br - (Upper East Side)
+Apr 20 Idyllic 2BR2BA - Unreal Luxury Bldg - Pool - Gym - Doorman - NO FEE $5850 / 2br - (Midtown)
+Apr 20 ** STUNNING 3BED - 1.5 BATH APARTMENT $2900 / 3br - (East Harlem)
+Apr 20 -** BRAND NEW 3BED -- ENTIRE FLOOR OF TOWN-HOUSE -- HUGE OUTDOOR PATIO $3000 / 3br - 1200ft2 - (East Harlem)
+Apr 20 Rent out my Wall St apt $3000 (Financial District)
+Apr 20 ** RENOVATED 2BR --- WILL NOT LAST!!! --- $1995 / 2br - (East Harlem)
+Apr 20 BEAUTIFUL LUXURIOUS 2 BDR 2 BATH!!DOORMAN!! W/D!!GYM!! $5995 / 2br - (Midtown West)
+Apr 20 Great one bed Laundry in the building! $1650 / 1br - (East Harlem)
+Apr 20 6 Bedrooms 106 W 105th St $7500 / 6br - (Upper West Side)
+Apr 20 New onebedroom ! Fully equipped! First floor! $1995 / 1br - (East Harlem)
+Apr 20 ~~~ COMPLETELY 1 BDRM APT. (UTILITIES INCLUDED) ~~~ $2150 / 1br - (Garment District)
+Apr 20 Brand new One bed! Furniture included $1700 / 1br - (East Harlem)
+Apr 20 345 E65st #3B- Rnovted 2BD, Brkfast Bar w/ Dshwsher, 2 closets $3250 / 2br - (Midtown East)
+Apr 20 VERY SPACIOUS APT--DOORMAN BLDG--2BR/1BA--W36/6th--APRIL 1st---NO FEE $3350 / 2br - 800ft2 - (Midtown West)
+Apr 20 SPACIOUS 3 BEDROOM IN MIDTOWN--GREAT LOCATION--E50/3rd ave--MAY 1 $4500 / 3br - (Midtown East)
+Apr 20 GREATLY RENOVATED STUDIO W/LARGE PRIVATE DECK--E21/BROADWAY--MARCH 10 $2700 (Flatiron)
+Apr 20 LARGE RENOVATED 1 BEDROOM**GREAT LOCATION**E55/2nd ave**NO FEE $3000 / 1br - (Midtown East)
+Apr 20 UPDATED AND SPACIOUS STUDIO--NEW KITCHEN--E106/LEXINGTON AVE--FEB 10 $1700 (Upper East Side)
+Apr 20 FURNISHED STUDIO APT-GREAT LOCATION--ALLEN/E.HOUSTON--MARCH 1 MOVE IN $1895 (Lower East Side)
+Apr 20 RENOVATED LARGE 1 BEDROOM**GREAT LOCATION**E55/2nd ave**MARCH**NO FEE $2800 / 1br - (Midtown East)
+Apr 20 GREATLY RENOVATED STUDIO W/LARGE PRIVATE DECK--E21/BROADWAY--MAY 1 $2700 (Flatiron)
+Apr 20 BRAND NEW 3 BEDROOM FOR ROOMMATES-GREAT LOCATION--ST.MARKS/2nd AVENUE $5000 / 3br - (East Village)
+Apr 20 SPECTACULAR 5 BEDROOM 4 BATH DUPLEX W/ROOF DECK--E81/2nd AVE--NO FEE $10000 / 5br - (Upper East Side)
+Apr 20 BEAUTIFUL STUDIO IN CHELSEA--W14/8th--W/D IN UNIT--NO FEE--MAY 1st $2550 (Chelsea)
+Apr 20 SPECTACULAR 3 BEDROOM DUPLEX W/PRIVATE DECK--W19/10th--NO FEE $6500 / 3br - (Chelsea)
+Apr 20 Renovated three bedroom in a Prime Midtown East location**E50/3rd ave $4500 / 3br - (Midtown East)
+Apr 20 LARGE 1 BEDROOM on E25/3rd AVE--GREAMERCY--MAY 1st LEASE START $2400 / 1br - (Murray Hill)
+Apr 20 ELEGANT LARGE 1 BEDROOM 1 BATH IN DOORMAN BLDG--E31/MADISON- MAY 1st $3500 / 1br - (Murray Hill)
+Apr 20 BRAND NEW! XXL LARGE 3 BEDROOM IN THE EAST VILLAGE**E9/2nd**MAY 1st $5000 / 3br - 1000ft2 - (East Village)
+Apr 20 RENOVATED TRU 3 BEDROOM APT--E50/3rd AVE--MAY 1st LEASE START $4400 / 3br - (Midtown East)
+Apr 20 NO FEE--RENOVATED 1 BEDROOM--W/D IN UNIT--E55/2nd AVE--MAY 1st $3000 / 1br - (Midtown East)
+Apr 20 RENOVATED 2 FULL BEDROOM IN SOHO--BROOME/THOMPSON--MAY 1 (SoHo) $3300 / 2br - (SoHo)
+Apr 20 BRAND NEW 3 BEDROOM 2 BATH IN MURRAY HILL--E34/2nd AVE- MAY 1st $4950 / 3br - (Murray Hill)
+Apr 20 13th St Ave. A Large 1 BR $2775!! Low Fee 917-807-8169 $2775 / 1br - (East Village)
+Apr 20 For Rent In Upper West Side 3 Bedrooms / 1 Bathrooms Condo $1975 / 3br - (Upper West Side)
+Apr 20 NO FEE GRACIOUS CONV 2BDR 1.5 BATH!!DRMN!!W/D!! GYM!! POOL!! $5404 / 2br - (Midtown East)
+Apr 20 GORGEOUS NEW STUDIO! PRIME SPOT! LARGE LAYOUT! VERY BRIGHT & SPACIOUS! $1800 (East Village)
+Apr 20 Laundry Facilities, Walk In Closets, Fitness Center $2425 / 2br - (Upper East Side)
+Apr 20 BEAUTIFUL ONE BEDROOM IN WEST VILLAGE-LAUNDRY-FIREPLACE-MUST SEE! $3685 / 1br - 600ft2 - (West Village)
