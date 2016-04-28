@@ -1,36 +1,36 @@
-((W/D IN UNIT	3295
-? In`wood	775
-? uptown ?	1285
-Chelsea	3320
-Clinton	2287
-EXACT FLOORPLAN	3700
-EXACT FLOORPLAN!	3915
-East Harlem	2084
-East Village	3259
-Financial District	3082
-Flatiron	2700
-Gramercy	3925
-Gramercy Park	2250
-Greenwich Village	2750
-Harlem / Morningside	2429
-Inwood / Wash Hts	2414
-Kips Bay	2356
-Lower East Side	3053
-Midtown	4906
-Midtown East	3152
-Midtown West	3819
-Murray Hill	3147
-New ?York Manhattan	1825
-Nolita / Bowery	3050
-SoHo	3233
-TriBeCa	5756
-UTILITIES INCLUDED	2150
-Union Square	3775
-Upper East Side	3253
-Upper West Side	3357
-Washington Heights	1925
-West Village	2957
-Woodside	1575
-null	0
-via tenant	4000
-�East Harlem	800
+((W/D IN UNIT	price avg: $3295 | std deviation: 0.0 | high price outliers: 1 | low price outliers: 1
+? In`wood	price avg: $775 | std deviation: 0.0 | high price outliers: 2 | low price outliers: 2
+? uptown ?	price avg: $1285 | std deviation: 0.0 | high price outliers: 1 | low price outliers: 1
+Chelsea	price avg: $3320 | std deviation: 1427.162102449006 | high price outliers: 1 | low price outliers: 0
+Clinton	price avg: $2287 | std deviation: 412.50030303019173 | high price outliers: 0 | low price outliers: 0
+EXACT FLOORPLAN	price avg: $3700 | std deviation: 0.0 | high price outliers: 1 | low price outliers: 1
+EXACT FLOORPLAN!	price avg: $3915 | std deviation: 0.0 | high price outliers: 1 | low price outliers: 1
+East Harlem	price avg: $2084 | std deviation: 443.30531239767475 | high price outliers: 1 | low price outliers: 0
+East Village	price avg: $3259 | std deviation: 1218.135332177833 | high price outliers: 1 | low price outliers: 0
+Financial District	price avg: $3082 | std deviation: 517.5174255175237 | high price outliers: 0 | low price outliers: 0
+Flatiron	price avg: $2700 | std deviation: 0.0 | high price outliers: 2 | low price outliers: 2
+Gramercy	price avg: $3925 | std deviation: 1137.1337111013274 | high price outliers: 1 | low price outliers: 0
+Gramercy Park	price avg: $2250 | std deviation: 0.0 | high price outliers: 1 | low price outliers: 1
+Greenwich Village	price avg: $2750 | std deviation: 50.0 | high price outliers: 0 | low price outliers: 0
+Harlem / Morningside	price avg: $2429 | std deviation: 512.3276650383389 | high price outliers: 0 | low price outliers: 0
+Inwood / Wash Hts	price avg: $2414 | std deviation: 268.2475535769152 | high price outliers: 0 | low price outliers: 0
+Kips Bay	price avg: $2356 | std deviation: 250.858027577353 | high price outliers: 0 | low price outliers: 0
+Lower East Side	price avg: $3053 | std deviation: 790.200466829638 | high price outliers: 1 | low price outliers: 0
+Midtown	price avg: $4906 | std deviation: 2116.444975267095 | high price outliers: 0 | low price outliers: 0
+Midtown East	price avg: $3152 | std deviation: 1207.114349443158 | high price outliers: 0 | low price outliers: 1
+Midtown West	price avg: $3819 | std deviation: 1245.1661694222519 | high price outliers: 0 | low price outliers: 0
+Murray Hill	price avg: $3147 | std deviation: 1112.9971922695943 | high price outliers: 0 | low price outliers: 0
+New ?York Manhattan	price avg: $1825 | std deviation: 0.0 | high price outliers: 2 | low price outliers: 2
+Nolita / Bowery	price avg: $3050 | std deviation: 678.2329983125268 | high price outliers: 0 | low price outliers: 0
+SoHo	price avg: $3233 | std deviation: 837.7829372814894 | high price outliers: 0 | low price outliers: 0
+TriBeCa	price avg: $5756 | std deviation: 3730.9338122125823 | high price outliers: 1 | low price outliers: 0
+UTILITIES INCLUDED	price avg: $2150 | std deviation: 0.0 | high price outliers: 1 | low price outliers: 1
+Union Square	price avg: $3775 | std deviation: 1025.0 | high price outliers: 0 | low price outliers: 0
+Upper East Side	price avg: $3253 | std deviation: 1804.5992288626287 | high price outliers: 3 | low price outliers: 0
+Upper West Side	price avg: $3357 | std deviation: 1204.360826330714 | high price outliers: 1 | low price outliers: 0
+Washington Heights	price avg: $1925 | std deviation: 0.0 | high price outliers: 2 | low price outliers: 2
+West Village	price avg: $2957 | std deviation: 520.3080131724175 | high price outliers: 0 | low price outliers: 0
+Woodside	price avg: $1575 | std deviation: 0.0 | high price outliers: 1 | low price outliers: 1
+null	price avg: $0 | std deviation: 0.0 | high price outliers: 8 | low price outliers: 8
+via tenant	price avg: $4000 | std deviation: 0.0 | high price outliers: 1 | low price outliers: 1
+�East Harlem	price avg: $800 | std deviation: 0.0 | high price outliers: 2 | low price outliers: 2
