@@ -23,31 +23,39 @@ public class AptMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 			String nextLine=sc.nextLine();
 			
 			nextLine.toLowerCase();
+			String line_array[]=nextLine.split("\t");
 			String region;
-			String sprice;
-			int price=0;
+			String price;
+			String bedrooms;
+			String reducer_key;
+			
 			try
 			{
-				
-			region=nextLine.substring(nextLine.indexOf("(")+1, nextLine.indexOf(")"));
-			//System.out.println(region);
-			sprice=nextLine.substring(nextLine.indexOf("$")+1,nextLine.length()-1);
-			System.out.println(sprice);
-			Scanner temp=new Scanner(sprice);
-			price=temp.nextInt();
-			System.out.println(sprice);
+				region=line_array[1];
+				price=line_array[2];
+				bedrooms=line_array[3];
 		
 			}
 			catch(Exception e)
 			{
 				region="null";
-				sprice="-1";
+				price="-1";
+				bedrooms="-1";
 			}
 			
-			context.write(new Text(region),new IntWritable(price));
+			if(Integer.parseInt(bedrooms)==0)
+			{
+				reducer_key=region+" "+ "studio APT";
+			}
+			else
+			{
+				reducer_key=region+" "+bedrooms+" bedroom APT";
+			}
+			
+			context.write(new Text(reducer_key),new IntWritable((int)Double.parseDouble(price)));
 		}
 		
-		
+		sc.close();
 	
 		
 	}

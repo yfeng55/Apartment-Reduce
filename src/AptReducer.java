@@ -60,9 +60,9 @@ public class AptReducer extends Reducer<Text, IntWritable, Text, Text> {
 		
 		// format values as output:
 		String output_string = "price avg: $" + avg + " | std deviation: " + std_deviation;
-		output_string += " | high price outliers: " + high_outliers;
-		output_string += " | low price outliers: " + low_outliers;
-		
+		//output_string += " | high price outliers: " + high_outliers;
+		//output_string += " | low price outliers: " + low_outliers;
+		output_string +=" apartment count: "+count;
 		context.write(key, new Text(output_string));
 	}
   
