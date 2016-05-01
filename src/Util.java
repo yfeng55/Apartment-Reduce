@@ -3,8 +3,42 @@ import java.util.HashSet;
 
 public class Util {
 	
-	//detects mispelled words within 2 letters
-	public static boolean isValidNeighborhood(String neighborhood){
+	public static final double PRICE_MIN = 200;				// minimum price for a listing to not be considered spam
+	public static final double SPAM_SCORE_THRESHOLD = 0.5;	// threshold score for a listing to be considered spam 
+	
+	
+	public static boolean isSpam(String listing, double price){
+		
+		// (1) check if the neighborhood is valid //
+		if(!isValidNeighborhood(listing)){
+			return true;
+		}
+		
+		// (2) check that the price is above the minimum //
+		else if(price < PRICE_MIN){
+			return true;
+		}
+		
+		// (3) assign a score for the title from 0 - 1 and check if it exceeds the spam_score threshold
+		else if(spamScore(listing, price) > SPAM_SCORE_THRESHOLD){
+			return true;
+		}
+		
+		return false;
+	}
+	
+	
+	// assign a score to the listing based on keywords present in the description and other factors
+	public static double spamScore(String listing, double price){
+		return 0;
+	}
+	
+	
+	// checks if the neighborhood is a valid one
+	public static boolean isValidNeighborhood(String listing){
+		
+		// TODO: extract the neighborhood name from the listing
+		String neighborhood = null;
 		
 		HashSet<String> neighborhood_set = new HashSet();
 
@@ -33,7 +67,7 @@ public class Util {
 		neighborhood_set.add("Midtown East");
 		neighborhood_set.add("Murray Hill");
 		neighborhood_set.add("NoMad");
-		neighborhood_set.add("Stuyvesant Town - Peter Cooper Village");
+		neighborhood_set.add("Stuyvesant Town");
 		neighborhood_set.add("Theater District");
 		neighborhood_set.add("Central Harlem");
 		neighborhood_set.add("Central Park");
@@ -45,16 +79,35 @@ public class Util {
 		neighborhood_set.add("West Harlem");
 		
 		// check if the neighborhood name is contained in the known neighborhood list
-		for(String name : neighborhood_set){
-			if(neighborhood.toLowerCase().equals(name.toLowerCase())){
+		for(String n : neighborhood_set){
+			if(neighborhood.toLowerCase().replaceAll("[\\W]", "").equals(n.toLowerCase().replaceAll("[\\W]", "")) || 
+					neighborhood.toLowerCase().replaceAll("[\\W]", "").contains(n.toLowerCase().replaceAll("[\\W]", ""))){
+				
 				return true;
 			}
-		}
-		
-		//TODO: check if neighborhood is within 2 characters of a known neighborhood name (in order to account for mispellings)
-		
+		}	
 		
 		return false;
 	}
 	
+	
+	
+	
+	
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
