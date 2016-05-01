@@ -7,20 +7,20 @@ public class Util {
 	public static final double SPAM_SCORE_THRESHOLD = 0.5;	// threshold score for a listing to be considered spam 
 	
 	
-	public static boolean isSpam(String listing, double price){
+	public static boolean isSpam(Listing listing){
 		
 		// (1) check if the neighborhood is valid //
-		if(!isValidNeighborhood(listing)){
+		if(!isValidNeighborhood(listing.neighborhood)){
 			return true;
 		}
 		
 		// (2) check that the price is above the minimum //
-		else if(price < PRICE_MIN){
+		else if(listing.price < PRICE_MIN){
 			return true;
 		}
 		
 		// (3) assign a score for the title from 0 - 1 and check if it exceeds the spam_score threshold
-		else if(spamScore(listing, price) > SPAM_SCORE_THRESHOLD){
+		else if(spamScore(listing) > SPAM_SCORE_THRESHOLD){
 			return true;
 		}
 		
@@ -30,16 +30,21 @@ public class Util {
 	
 	// assign a score to the listing based on keywords present in the description and other factors
 	// variables: # of pictures, price, price std, keywords in text, presence of location
-	public static double spamScore(String listing, double price){
+	public static double spamScore(Listing listing){
+		
+		int score = 0;
+		
+		
+		
+		
 		return 0;
 	}
 	
 	
 	// checks if the neighborhood is a valid one
-	public static boolean isValidNeighborhood(String listing){
-		
-		// TODO: extract the neighborhood name from the listing
-		String neighborhood = null;
+	public static boolean isValidNeighborhood(String listing_neighborhood){
+
+		String neighborhood = listing_neighborhood;
 		
 		HashSet<String> neighborhood_set = new HashSet();
 
@@ -92,6 +97,18 @@ public class Util {
 	}
 	
 	
+	
+	
+	
+	
+	public static int getPriceFromListing(String listing){
+		
+		String[] listing_arr = listing.split("\t");
+		
+		int price = (int) Double.parseDouble(listing_arr[0]);
+	
+		return price;
+	}
 	
 	
 	

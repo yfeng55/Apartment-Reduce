@@ -6,7 +6,7 @@ import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 import org.apache.hadoop.mapreduce.Mapper.Context;
 import java.util.*;
-public class AptMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
+public class AptMapper extends Mapper<LongWritable, Text, Text, Text> {
 	
 	
 	
@@ -24,17 +24,22 @@ public class AptMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 			
 			nextLine.toLowerCase();
 			String line_array[]=nextLine.split("\t");
+			
 			String region;
 			String price;
 			String bedrooms;
 			String reducer_key;
+			String description_pics_info = "";
 			
 			try
 			{
 				region=line_array[1];
 				price=line_array[2];
 				bedrooms=line_array[3];
-		
+				
+				for(int i=4; i<line_array.length; i++){
+					description_pics_info += line_array[i] + "\t";
+				}
 			}
 			catch(Exception e)
 			{
@@ -42,6 +47,7 @@ public class AptMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 				price="-1";
 				bedrooms="-1";
 			}
+			
 			
 			if(Integer.parseInt(bedrooms)==0)
 			{
@@ -52,7 +58,7 @@ public class AptMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 				reducer_key=region+" "+bedrooms+" bedroom APT";
 			}
 			
-			context.write(new Text(reducer_key),new IntWritable((int)Double.parseDouble(price)));
+			context.write(new Text(reducer_key),new Text(price + description_pics_info));
 		}
 		
 		sc.close();

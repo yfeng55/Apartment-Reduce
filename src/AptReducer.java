@@ -6,21 +6,61 @@ import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
 
-public class AptReducer extends Reducer<Text, IntWritable, Text, Text> {
+public class AptReducer extends Reducer<Text, Text, Text, Text> {
 
 	@Override
-	public void reduce(Text key, Iterable<IntWritable> values, Context context) throws IOException, InterruptedException {
+	public void reduce(Text key, Iterable<Text> values, Context context) throws IOException, InterruptedException {
 	
 		
+		ArrayList<String> spammy_listings = new ArrayList();		// list to store spammy listings 
+		
+		ArrayList<Listing> listings = new ArrayList();
+		
 		ArrayList<Integer> prices = new ArrayList();
+		
+		
+		///// create listings objects from input /////
+		for(Text value:values){
+			
+			String[] temp = value.toString().split("\t");
+			
+			//craigslist listings
+			if(temp.length >= 4){
+				int id = Integer.parseInt(temp[0]);
+				String neighborhood = temp[1];
+				int price = Integer.parseInt(temp[2]);
+				int bedrooms = Integer.parseInt(temp[3]);
+				int num_images = Integer.parseInt(temp[4]);
+				int has_map = Integer.parseInt(temp[5]);
+				String description = "";
+				for(int i=6; i<temp.length; i++){
+					description += temp[i];
+				}
+				listings.add(new Listing(id, neighborhood, price, bedrooms, num_images, has_map, description));
+			}
+			//non-craigslist listings
+			if(temp.length >= 4){
+				int id = Integer.parseInt(temp[0]);
+				String neighborhood = temp[1];
+				int price = Integer.parseInt(temp[2]);
+				int bedrooms = Integer.parseInt(temp[3]);
+				
+				listings.add(new Listing(id, neighborhood, price, bedrooms));
+				
+			}
+			
+		}
+		
+		
+		
 		
 		int count =0;
 		int sum=0;
 		int avg;
 	
 		
-		for(IntWritable value:values){
-			prices.add(value.get());
+		for(Text value:values){
+			prices.add(Util.getPriceFromListing(value.toString()));
 		}
 		
 		// count the number of values and get the sum of prices for the neighborhood
@@ -63,6 +103,16 @@ public class AptReducer extends Reducer<Text, IntWritable, Text, Text> {
 		//output_string += " | high price outliers: " + high_outliers;
 		//output_string += " | low price outliers: " + low_outliers;
 		output_string +=" apartment count: "+count;
+		
+		
+		
+		////////// FIND SPAM //////////
+		
+		
+		
+		
+		
+		
 		context.write(key, new Text(output_string));
 	}
   
