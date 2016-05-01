@@ -29,6 +29,7 @@ public class Util {
 	
 	
 	// assign a score to the listing based on keywords present in the description and other factors
+	// variables: # of pictures, price, price std, keywords in text, presence of location
 	public static double spamScore(String listing, double price){
 		return 0;
 	}

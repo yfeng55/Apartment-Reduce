@@ -1,157 +1,1052 @@
-Allerton studio APT	price avg: $1225 | std deviation: 0.0 apartment count: 1
-Astoria 1 bedroom APT	price avg: $2170 | std deviation: 255.6133799314895 apartment count: 5
-Astoria studio APT	price avg: $1750 | std deviation: 0.0 apartment count: 1
-Battery Park City 1 bedroom APT	price avg: $3950 | std deviation: 0.0 apartment count: 1
-Battery Park City 2 bedroom APT	price avg: $5621 | std deviation: 1109.5294498119463 apartment count: 5
-Bedford-Stuyvesant 1 bedroom APT	price avg: $2000 | std deviation: 0.0 apartment count: 1
-Bedford-Stuyvesant 5 bedroom APT	price avg: $4799 | std deviation: 0.0 apartment count: 1
-Boerum Hill 2 bedroom APT	price avg: $5600 | std deviation: 0.0 apartment count: 1
-Bowery 1 bedroom APT	price avg: $2500 | std deviation: 0.0 apartment count: 1
-Bowery 2 bedroom APT	price avg: $3846 | std deviation: 813.2277253840608 apartment count: 3
-Bowery 3 bedroom APT	price avg: $3600 | std deviation: 0.0 apartment count: 1
-Brooklyn Heights studio APT	price avg: $2125 | std deviation: 0.0 apartment count: 2
-Brownsville 1 bedroom APT	price avg: $1575 | std deviation: 0.0 apartment count: 1
-Bushwick 1 bedroom APT	price avg: $1675 | std deviation: 0.0 apartment count: 1
-Bushwick 3 bedroom APT	price avg: $2200 | std deviation: 0.0 apartment count: 2
-Bushwick studio APT	price avg: $2750 | std deviation: 0.0 apartment count: 1
-Central Harlem 1 bedroom APT	price avg: $2649 | std deviation: 249.500501001501 apartment count: 2
-Central Harlem 2 bedroom APT	price avg: $2863 | std deviation: 202.2790976184473 apartment count: 6
-Central Harlem studio APT	price avg: $2230 | std deviation: 325.9089852499723 apartment count: 3
-Central Park 3 bedroom APT	price avg: $3895 | std deviation: 0.0 apartment count: 1
-Chelsea 1 bedroom APT	price avg: $3582 | std deviation: 1280.402791192017 apartment count: 13
-Chelsea 2 bedroom APT	price avg: $4589 | std deviation: 1055.1045154208841 apartment count: 13
-Chelsea 3 bedroom APT	price avg: $5650 | std deviation: 912.040668949681 apartment count: 11
-Chelsea studio APT	price avg: $2813 | std deviation: 379.05672398732094 apartment count: 7
-Chinatown 2 bedroom APT	price avg: $6900 | std deviation: 0.0 apartment count: 1
-Civic Center 2 bedroom APT	price avg: $4495 | std deviation: 0.0 apartment count: 1
-Clinton Hill 1 bedroom APT	price avg: $3000 | std deviation: 0.0 apartment count: 1
-Crown Heights 3 bedroom APT	price avg: $3199 | std deviation: 0.0 apartment count: 1
-Crown Heights 4 bedroom APT	price avg: $3440 | std deviation: 459.5002720347399 apartment count: 2
-Crown Heights studio APT	price avg: $2350 | std deviation: 0.0 apartment count: 1
-DUMBO 1 bedroom APT	price avg: $3915 | std deviation: 515.8649694122162 apartment count: 3
-Downtown Brooklyn studio APT	price avg: $2415 | std deviation: 185.0 apartment count: 2
-East Harlem 1 bedroom APT	price avg: $1850 | std deviation: 334.66401061363024 apartment count: 5
-East Harlem 2 bedroom APT	price avg: $2675 | std deviation: 75.0 apartment count: 2
-East Harlem 3 bedroom APT	price avg: $3423 | std deviation: 425.44760742853714 apartment count: 3
-East Harlem studio APT	price avg: $1550 | std deviation: 0.0 apartment count: 2
-East Village 1 bedroom APT	price avg: $2858 | std deviation: 581.1768233506907 apartment count: 14
-East Village 2 bedroom APT	price avg: $3524 | std deviation: 518.8007967097454 apartment count: 30
-East Village 3 bedroom APT	price avg: $4984 | std deviation: 728.1519415616497 apartment count: 8
-East Village 4 bedroom APT	price avg: $5150 | std deviation: 750.0 apartment count: 2
-East Village studio APT	price avg: $2512 | std deviation: 450.69418678301145 apartment count: 8
-Edgewater 2 bedroom APT	price avg: $2249 | std deviation: 0.0 apartment count: 1
-Financial District 1 bedroom APT	price avg: $3633 | std deviation: 771.9256872696145 apartment count: 15
-Financial District 2 bedroom APT	price avg: $4273 | std deviation: 1550.623519749394 apartment count: 10
-Financial District 3 bedroom APT	price avg: $4501 | std deviation: 1123.3607316144414 apartment count: 12
-Financial District studio APT	price avg: $3140 | std deviation: 615.5663826335641 apartment count: 35
-Flatiron District 1 bedroom APT	price avg: $4721 | std deviation: 179.13495843450917 apartment count: 3
-Flatiron District 2 bedroom APT	price avg: $5612 | std deviation: 1112.5001123595448 apartment count: 2
-Flatiron District 3 bedroom APT	price avg: $4500 | std deviation: 0.0 apartment count: 2
-Flatiron District studio APT	price avg: $3480 | std deviation: 1154.6067151487846 apartment count: 3
-Flushing 1 bedroom APT	price avg: $1650 | std deviation: 0.0 apartment count: 1
-Garment District 1 bedroom APT	price avg: $3250 | std deviation: 50.0 apartment count: 2
-Garment District 2 bedroom APT	price avg: $4396 | std deviation: 607.6596498040659 apartment count: 4
-Garment District 3 bedroom APT	price avg: $4395 | std deviation: 705.0 apartment count: 2
-Garment District studio APT	price avg: $2950 | std deviation: 0.0 apartment count: 1
-Governors Island 2 bedroom APT	price avg: $3900 | std deviation: 0.0 apartment count: 1
-Gowanus 3 bedroom APT	price avg: $4300 | std deviation: 0.0 apartment count: 1
-Gramercy Park 1 bedroom APT	price avg: $3592 | std deviation: 592.4629383626738 apartment count: 9
-Gramercy Park 2 bedroom APT	price avg: $4140 | std deviation: 1052.9872472433572 apartment count: 7
-Gramercy Park 3 bedroom APT	price avg: $4385 | std deviation: 857.1731641467396 apartment count: 6
-Gramercy Park studio APT	price avg: $2857 | std deviation: 163.55631038473163 apartment count: 6
-Greenpoint 1 bedroom APT	price avg: $2095 | std deviation: 0.0 apartment count: 1
-Greenwich Village 1 bedroom APT	price avg: $3399 | std deviation: 690.8947700868297 apartment count: 12
-Greenwich Village studio APT	price avg: $3365 | std deviation: 749.933330370107 apartment count: 5
-Hell's Kitchen 1 bedroom APT	price avg: $3217 | std deviation: 574.1438399357518 apartment count: 47
-Hell's Kitchen 2 bedroom APT	price avg: $3869 | std deviation: 859.4163609575288 apartment count: 27
-Hell's Kitchen 3 bedroom APT	price avg: $5029 | std deviation: 589.9889829479869 apartment count: 10
-Hell's Kitchen studio APT	price avg: $2475 | std deviation: 549.4827264497644 apartment count: 15
-Inwood 1 bedroom APT	price avg: $2050 | std deviation: 0.0 apartment count: 2
-Inwood 2 bedroom APT	price avg: $2347 | std deviation: 52.502380898393554 apartment count: 2
-Jackson Heights 2 bedroom APT	price avg: $2000 | std deviation: 0.0 apartment count: 1
-Jackson Heights studio APT	price avg: $1500 | std deviation: 0.0 apartment count: 1
-Kingsbridge 2 bedroom APT	price avg: $2850 | std deviation: 0.0 apartment count: 1
-Kips Bay 1 bedroom APT	price avg: $3031 | std deviation: 420.2843734252495 apartment count: 22
-Kips Bay 2 bedroom APT	price avg: $3513 | std deviation: 536.400180691761 apartment count: 13
-Kips Bay 3 bedroom APT	price avg: $5170 | std deviation: 440.0 apartment count: 5
-Kips Bay 4 bedroom APT	price avg: $6650 | std deviation: 1150.0 apartment count: 2
-Kips Bay studio APT	price avg: $2933 | std deviation: 514.9140011413834 apartment count: 7
-Koreatown 1 bedroom APT	price avg: $3356 | std deviation: 593.581783188579 apartment count: 3
-Koreatown 2 bedroom APT	price avg: $3600 | std deviation: 0.0 apartment count: 1
-Little Italy 2 bedroom APT	price avg: $5247 | std deviation: 1252.5000998003952 apartment count: 2
-Long Island City 1 bedroom APT	price avg: $3071 | std deviation: 191.24003241999307 apartment count: 4
-Long Island City 2 bedroom APT	price avg: $3782 | std deviation: 474.3180367643634 apartment count: 5
-Long Island City studio APT	price avg: $2471 | std deviation: 262.7489295886855 apartment count: 4
-Lower East Side 1 bedroom APT	price avg: $2924 | std deviation: 274.5004553730285 apartment count: 2
-Lower East Side 2 bedroom APT	price avg: $3597 | std deviation: 402.5003105588864 apartment count: 2
-Lower East Side studio APT	price avg: $2727 | std deviation: 127.0 apartment count: 2
-Manhattan 1 bedroom APT	price avg: $3510 | std deviation: 427.5040935476525 apartment count: 16
-Manhattan 2 bedroom APT	price avg: $3999 | std deviation: 492.2072056901781 apartment count: 15
-Manhattan 3 bedroom APT	price avg: $5138 | std deviation: 0.0 apartment count: 1
-Manhattan studio APT	price avg: $2967 | std deviation: 201.8204647700525 apartment count: 6
-Midtown East 1 bedroom APT	price avg: $3725 | std deviation: 826.7431080248971 apartment count: 6
-Midtown East 2 bedroom APT	price avg: $3927 | std deviation: 1128.4399931683643 apartment count: 11
-Midtown East 3 bedroom APT	price avg: $4915 | std deviation: 594.6567637441507 apartment count: 3
-Midtown East 4 bedroom APT	price avg: $6495 | std deviation: 0.0 apartment count: 1
-Midtown East studio APT	price avg: $2500 | std deviation: 463.5185309903247 apartment count: 7
-Murray Hill 1 bedroom APT	price avg: $3246 | std deviation: 561.5431713887484 apartment count: 15
-Murray Hill 2 bedroom APT	price avg: $3752 | std deviation: 1168.565977788351 apartment count: 9
-Murray Hill 3 bedroom APT	price avg: $5400 | std deviation: 0.0 apartment count: 1
-Murray Hill studio APT	price avg: $2641 | std deviation: 373.1158592775767 apartment count: 9
-NoHo 1 bedroom APT	price avg: $4138 | std deviation: 527.982954270306 apartment count: 5
-NoHo 2 bedroom APT	price avg: $5195 | std deviation: 0.0 apartment count: 1
-NoLita 1 bedroom APT	price avg: $3389 | std deviation: 299.1434995672367 apartment count: 6
-NoLita 2 bedroom APT	price avg: $4400 | std deviation: 0.0 apartment count: 1
-NoMad 1 bedroom APT	price avg: $4065 | std deviation: 1670.0 apartment count: 2
-NoMad 2 bedroom APT	price avg: $5650 | std deviation: 0.0 apartment count: 1
-NoMad 3 bedroom APT	price avg: $5695 | std deviation: 1300.0 apartment count: 2
-NoMad studio APT	price avg: $3852 | std deviation: 352.50035460975073 apartment count: 2
-North Bergen 2 bedroom APT	price avg: $6199 | std deviation: 0.0 apartment count: 1
-Ocean Hill 5 bedroom APT	price avg: $2999 | std deviation: 0.0 apartment count: 1
-Park Slope 1 bedroom APT	price avg: $2100 | std deviation: 0.0 apartment count: 1
-Park Slope 2 bedroom APT	price avg: $2195 | std deviation: 0.0 apartment count: 1
-Park Slope 3 bedroom APT	price avg: $3850 | std deviation: 550.0 apartment count: 2
-Prospect Heights 1 bedroom APT	price avg: $3300 | std deviation: 0.0 apartment count: 1
-Prospect Heights 2 bedroom APT	price avg: $3125 | std deviation: 127.47548783981962 apartment count: 3
-Prospect Heights 3 bedroom APT	price avg: $3550 | std deviation: 50.0 apartment count: 2
-Rego Park 2 bedroom APT	price avg: $2300 | std deviation: 0.0 apartment count: 1
-Ridgewood 2 bedroom APT	price avg: $2095 | std deviation: 0.0 apartment count: 1
-Roosevelt Island 3 bedroom APT	price avg: $5426 | std deviation: 0.0 apartment count: 1
-SoHo 1 bedroom APT	price avg: $3345 | std deviation: 524.8477874584212 apartment count: 5
-SoHo 2 bedroom APT	price avg: $4978 | std deviation: 2016.5000619885932 apartment count: 2
-SoHo 3 bedroom APT	price avg: $4000 | std deviation: 0.0 apartment count: 1
-Theater District 1 bedroom APT	price avg: $3490 | std deviation: 473.59023879902156 apartment count: 14
-Theater District 2 bedroom APT	price avg: $4610 | std deviation: 1034.2008647121838 apartment count: 7
-Theater District studio APT	price avg: $3081 | std deviation: 762.5478907677115 apartment count: 7
-Tribeca 1 bedroom APT	price avg: $3989 | std deviation: 916.7491478043489 apartment count: 10
-Tribeca 2 bedroom APT	price avg: $7900 | std deviation: 0.0 apartment count: 1
-Tribeca 3 bedroom APT	price avg: $6895 | std deviation: 0.0 apartment count: 1
-Tribeca studio APT	price avg: $4800 | std deviation: 0.0 apartment count: 1
-Two Bridges 2 bedroom APT	price avg: $3810 | std deviation: 485.0 apartment count: 2
-Upper East Side 1 bedroom APT	price avg: $2725 | std deviation: 570.822260928416 apartment count: 56
-Upper East Side 2 bedroom APT	price avg: $3697 | std deviation: 1306.1508973570653 apartment count: 60
-Upper East Side 3 bedroom APT	price avg: $5162 | std deviation: 1178.3133867948713 apartment count: 16
-Upper East Side 4 bedroom APT	price avg: $4000 | std deviation: 0.0 apartment count: 1
-Upper East Side studio APT	price avg: $2249 | std deviation: 439.7897559195356 apartment count: 34
-Upper West Side 1 bedroom APT	price avg: $3448 | std deviation: 855.1469464366928 apartment count: 30
-Upper West Side 2 bedroom APT	price avg: $5398 | std deviation: 1691.2576976912774 apartment count: 15
-Upper West Side 3 bedroom APT	price avg: $5260 | std deviation: 1397.7496914683973 apartment count: 5
-Upper West Side 4 bedroom APT	price avg: $6000 | std deviation: 0.0 apartment count: 2
-Upper West Side studio APT	price avg: $2407 | std deviation: 397.5829860157886 apartment count: 13
-Washington Heights 1 bedroom APT	price avg: $1695 | std deviation: 0.0 apartment count: 1
-Washington Heights 2 bedroom APT	price avg: $2481 | std deviation: 336.050219461318 apartment count: 4
-Washington Heights 3 bedroom APT	price avg: $2925 | std deviation: 186.32081055116856 apartment count: 9
-Washington Heights 4 bedroom APT	price avg: $3759 | std deviation: 387.45838486216815 apartment count: 5
-West Harlem 1 bedroom APT	price avg: $1835 | std deviation: 140.0 apartment count: 2
-West Harlem 2 bedroom APT	price avg: $2913 | std deviation: 341.3292642986632 apartment count: 3
-West Harlem 3 bedroom APT	price avg: $2588 | std deviation: 0.0 apartment count: 1
-West Harlem studio APT	price avg: $1725 | std deviation: 75.0 apartment count: 2
-West New York 1 bedroom APT	price avg: $3250 | std deviation: 0.0 apartment count: 1
-West Village 1 bedroom APT	price avg: $3841 | std deviation: 574.1815044043129 apartment count: 25
-West Village 2 bedroom APT	price avg: $4167 | std deviation: 622.7929832616934 apartment count: 10
-West Village 3 bedroom APT	price avg: $6330 | std deviation: 170.636064964786 apartment count: 3
-West Village studio APT	price avg: $2898 | std deviation: 450.7733877003206 apartment count: 17
-Williamsburg 1 bedroom APT	price avg: $3550 | std deviation: 1096.2055768270232 apartment count: 3
-Williamsburg 2 bedroom APT	price avg: $5095 | std deviation: 0.0 apartment count: 1
-Williamsburg 3 bedroom APT	price avg: $3582 | std deviation: 68.0 apartment count: 2
-Williamsburg studio APT	price avg: $2272 | std deviation: 497.50025125621795 apartment count: 2
+  harlem 1 bedroom APT	price avg: $800 | std deviation: 0.0 apartment count: 1
+ hamilton heights 1 bedroom APT	price avg: $800 | std deviation: 0.0 apartment count: 1
+ harlem  1 bedroom APT	price avg: $1000 | std deviation: 0.0 apartment count: 1
+ harlem 1 bedroom APT	price avg: $1000 | std deviation: 0.0 apartment count: 1
+ in`wood  1 bedroom APT	price avg: $1000 | std deviation: 0.0 apartment count: 1
+ inwood  1 bedroom APT	price avg: $953 | std deviation: 103.52656663871356 apartment count: 4
+ inwood  2 bedroom APT	price avg: $1335 | std deviation: 0.0 apartment count: 1
+ inwood 1 bedroom APT	price avg: $1167 | std deviation: 167.5007462669943 apartment count: 2
+ inwood 2 bedroom APT	price avg: $1360 | std deviation: 0.0 apartment count: 1
+ inwood 9 bedroom APT	price avg: $1500 | std deviation: 0.0 apartment count: 2
+ manhattan  2 bedroom APT	price avg: $1124 | std deviation: 0.0 apartment count: 1
+ manhattan 1 bedroom APT	price avg: $1110 | std deviation: 568.2224916350989 apartment count: 5
+ manhattan 2 bedroom APT	price avg: $841 | std deviation: 506.76029836600264 apartment count: 3
+ new york cty 2 bedroom APT	price avg: $1825 | std deviation: 0.0 apartment count: 3
+ uptown  1 bedroom APT	price avg: $1300 | std deviation: 0.0 apartment count: 1
+ uptown 1 bedroom APT	price avg: $1295 | std deviation: 7.0710678118654755 apartment count: 6
+ washington heights 1 bedroom APT	price avg: $1030 | std deviation: 98.99494936611666 apartment count: 3
+ washington heights 2 bedroom APT	price avg: $1350 | std deviation: 0.0 apartment count: 1
+14th to 40th street 1 bedroom APT	price avg: $2550 | std deviation: 0.0 apartment count: 1
+14th to 40th street 3 bedroom APT	price avg: $3355 | std deviation: 305.0 apartment count: 2
+214 w.96th st. 3a 1 bedroom APT	price avg: $2350 | std deviation: 0.0 apartment count: 1
+257 w. 10th st. 1w 1 bedroom APT	price avg: $2895 | std deviation: 0.0 apartment count: 1
+2nd avenue 4 bedroom APT	price avg: $7000 | std deviation: 0.0 apartment count: 1
+56 beaver st.,102 1 bedroom APT	price avg: $2555 | std deviation: 0.0 apartment count: 1
+_inwood_ 1 bedroom APT	price avg: $1335 | std deviation: 0.0 apartment count: 1
+allerton 1 bedroom APT	price avg: $1250 | std deviation: 0.0 apartment count: 1
+allerton 2 bedroom APT	price avg: $1425 | std deviation: 0.0 apartment count: 3
+allerton 3 bedroom APT	price avg: $1900 | std deviation: 0.0 apartment count: 1
+allerton studio APT	price avg: $1225 | std deviation: 0.0 apartment count: 1
+astore place 2 bedroom APT	price avg: $4400 | std deviation: 0.0 apartment count: 1
+astoria 1 bedroom APT	price avg: $2244 | std deviation: 362.03926627904445 apartment count: 244
+astoria 2 bedroom APT	price avg: $2722 | std deviation: 570.6073246278205 apartment count: 185
+astoria 3 bedroom APT	price avg: $3229 | std deviation: 661.8751118121633 apartment count: 110
+astoria 4 bedroom APT	price avg: $3877 | std deviation: 1015.1935228757563 apartment count: 9
+astoria studio APT	price avg: $2021 | std deviation: 439.84556949002 apartment count: 40
+atlantic highlands 1 bedroom APT	price avg: $2750 | std deviation: 0.0 apartment count: 1
+auburndale 1 bedroom APT	price avg: $1650 | std deviation: 0.0 apartment count: 1
+auburndale 2 bedroom APT	price avg: $1795 | std deviation: 0.0 apartment count: 3
+auburndale 3 bedroom APT	price avg: $2400 | std deviation: 0.0 apartment count: 2
+avenel 1 bedroom APT	price avg: $3497 | std deviation: 0.0 apartment count: 1
+bath beach 2 bedroom APT	price avg: $1650 | std deviation: 0.0 apartment count: 1
+bath beach 3 bedroom APT	price avg: $2500 | std deviation: 0.0 apartment count: 1
+bath beach 4 bedroom APT	price avg: $2695 | std deviation: 0.0 apartment count: 1
+battery park 1 bedroom APT	price avg: $1598 | std deviation: 797.3336817167577 apartment count: 10
+battery park 2 bedroom APT	price avg: $2195 | std deviation: 1365.6500283747664 apartment count: 3
+battery park city 1 bedroom APT	price avg: $4032 | std deviation: 881.2510173630714 apartment count: 464
+battery park city 2 bedroom APT	price avg: $5841 | std deviation: 1318.2713485146398 apartment count: 356
+battery park city 3 bedroom APT	price avg: $7020 | std deviation: 3101.553787467134 apartment count: 29
+battery park city 4 bedroom APT	price avg: $8137 | std deviation: 2833.9991430586465 apartment count: 7
+battery park city 5 bedroom APT	price avg: $24000 | std deviation: 0.0 apartment count: 2
+battery park city studio APT	price avg: $3263 | std deviation: 774.2727578647131 apartment count: 112
+bay ridge 1 bedroom APT	price avg: $1957 | std deviation: 671.3201918607841 apartment count: 25
+bay ridge 2 bedroom APT	price avg: $2213 | std deviation: 376.94998094653516 apartment count: 59
+bay ridge 3 bedroom APT	price avg: $2727 | std deviation: 574.9938163918712 apartment count: 9
+bay ridge studio APT	price avg: $1950 | std deviation: 506.2114182829147 apartment count: 4
+baychester 3 bedroom APT	price avg: $2400 | std deviation: 0.0 apartment count: 1
+bayonne 1 bedroom APT	price avg: $2400 | std deviation: 0.0 apartment count: 1
+bayonne 2 bedroom APT	price avg: $4072 | std deviation: 1489.6358056026088 apartment count: 6
+bayonne 4 bedroom APT	price avg: $6300 | std deviation: 0.0 apartment count: 4
+bayonne 5 bedroom APT	price avg: $7990 | std deviation: 0.0 apartment count: 1
+bayonne studio APT	price avg: $2450 | std deviation: 150.0 apartment count: 2
+bayside 1 bedroom APT	price avg: $2475 | std deviation: 25.0 apartment count: 4
+bayside 2 bedroom APT	price avg: $2050 | std deviation: 122.47448713915891 apartment count: 3
+bayside 3 bedroom APT	price avg: $2400 | std deviation: 692.8203230275509 apartment count: 4
+bedford park 1 bedroom APT	price avg: $1250 | std deviation: 0.0 apartment count: 2
+bedford park 2 bedroom APT	price avg: $1525 | std deviation: 0.0 apartment count: 1
+bedford-stuyvesant 1 bedroom APT	price avg: $2368 | std deviation: 447.3484100787662 apartment count: 100
+bedford-stuyvesant 2 bedroom APT	price avg: $2432 | std deviation: 536.0771694464628 apartment count: 231
+bedford-stuyvesant 3 bedroom APT	price avg: $2853 | std deviation: 435.9314983762882 apartment count: 188
+bedford-stuyvesant 4 bedroom APT	price avg: $3655 | std deviation: 499.65005531649626 apartment count: 45
+bedford-stuyvesant 5 bedroom APT	price avg: $4616 | std deviation: 572.3927847204226 apartment count: 4
+bedford-stuyvesant 6 bedroom APT	price avg: $4200 | std deviation: 0.0 apartment count: 1
+bedford-stuyvesant studio APT	price avg: $2445 | std deviation: 864.0707074655406 apartment count: 16
+bedminster 1 bedroom APT	price avg: $4200 | std deviation: 0.0 apartment count: 1
+bedminster 2 bedroom APT	price avg: $6000 | std deviation: 0.0 apartment count: 3
+bedminster 3 bedroom APT	price avg: $4400 | std deviation: 0.0 apartment count: 3
+beekman 1 bedroom APT	price avg: $3600 | std deviation: 200.0 apartment count: 2
+belleville 1 bedroom APT	price avg: $1600 | std deviation: 0.0 apartment count: 1
+belmont 2 bedroom APT	price avg: $1625 | std deviation: 75.0 apartment count: 2
+bensalem 2 bedroom APT	price avg: $4625 | std deviation: 0.0 apartment count: 1
+bensonhurst 1 bedroom APT	price avg: $1500 | std deviation: 0.0 apartment count: 1
+bensonhurst 2 bedroom APT	price avg: $1800 | std deviation: 0.0 apartment count: 1
+bensonhurst 3 bedroom APT	price avg: $1900 | std deviation: 100.0 apartment count: 2
+bensonhurst 4 bedroom APT	price avg: $2500 | std deviation: 0.0 apartment count: 1
+bergen - lafayette 1 bedroom APT	price avg: $2937 | std deviation: 142.50087719028258 apartment count: 2
+bergen beach 2 bedroom APT	price avg: $1750 | std deviation: 0.0 apartment count: 1
+bergen beach 3 bedroom APT	price avg: $2200 | std deviation: 0.0 apartment count: 1
+bethlehem studio APT	price avg: $2450 | std deviation: 0.0 apartment count: 1
+blissville 2 bedroom APT	price avg: $3200 | std deviation: 0.0 apartment count: 1
+blissville 3 bedroom APT	price avg: $4550 | std deviation: 0.0 apartment count: 1
+blissville studio APT	price avg: $2100 | std deviation: 100.0 apartment count: 2
+boerum hill 1 bedroom APT	price avg: $3067 | std deviation: 589.7749236160485 apartment count: 76
+boerum hill 2 bedroom APT	price avg: $4529 | std deviation: 941.5471310561145 apartment count: 51
+boerum hill 3 bedroom APT	price avg: $4500 | std deviation: 1156.5429808989663 apartment count: 6
+boerum hill 4 bedroom APT	price avg: $4574 | std deviation: 1862.0991514954299 apartment count: 4
+boerum hill studio APT	price avg: $3014 | std deviation: 371.08911198290104 apartment count: 31
+borough park 1 bedroom APT	price avg: $1967 | std deviation: 717.2931060591619 apartment count: 5
+borough park 2 bedroom APT	price avg: $2515 | std deviation: 581.3427345378972 apartment count: 8
+borough park 3 bedroom APT	price avg: $3148 | std deviation: 984.0631331373003 apartment count: 4
+bowery 1 bedroom APT	price avg: $3387 | std deviation: 1182.5489727953598 apartment count: 219
+bowery 2 bedroom APT	price avg: $4103 | std deviation: 1182.4510470342857 apartment count: 234
+bowery 3 bedroom APT	price avg: $5608 | std deviation: 936.6564562704784 apartment count: 82
+bowery studio APT	price avg: $2680 | std deviation: 758.8983412208069 apartment count: 169
+brass castle 2 bedroom APT	price avg: $4350 | std deviation: 0.0 apartment count: 1
+briarwood 1 bedroom APT	price avg: $1775 | std deviation: 95.39392014169457 apartment count: 25
+briarwood 2 bedroom APT	price avg: $2294 | std deviation: 264.23162744300026 apartment count: 17
+briarwood 3 bedroom APT	price avg: $2550 | std deviation: 0.0 apartment count: 1
+briarwood studio APT	price avg: $1501 | std deviation: 305.15119203437496 apartment count: 8
+brighton beach 1 bedroom APT	price avg: $1861 | std deviation: 107.66857359104574 apartment count: 23
+brighton beach 2 bedroom APT	price avg: $2536 | std deviation: 648.1556043883289 apartment count: 16
+brighton beach 3 bedroom APT	price avg: $2665 | std deviation: 389.8323110893077 apartment count: 13
+brighton beach studio APT	price avg: $1545 | std deviation: 10.184021097498066 apartment count: 7
+broad ripple 1 bedroom APT	price avg: $2975 | std deviation: 125.0 apartment count: 2
+bronx 1 bedroom APT	price avg: $1400 | std deviation: 0.0 apartment count: 1
+bronx park 1 bedroom APT	price avg: $1658 | std deviation: 200.3471986327735 apartment count: 3
+bronx park studio APT	price avg: $3950 | std deviation: 0.0 apartment count: 1
+bronx studio APT	price avg: $1900 | std deviation: 0.0 apartment count: 1
+brooklyn 1 bedroom APT	price avg: $2897 | std deviation: 293.26864817092195 apartment count: 4
+brooklyn 2 bedroom APT	price avg: $2865 | std deviation: 288.87713651308576 apartment count: 3
+brooklyn 3 bedroom APT	price avg: $4775 | std deviation: 851.836251870041 apartment count: 4
+brooklyn heights 1 bedroom APT	price avg: $3118 | std deviation: 766.5667716413328 apartment count: 65
+brooklyn heights 2 bedroom APT	price avg: $4595 | std deviation: 1195.582779157588 apartment count: 33
+brooklyn heights 3 bedroom APT	price avg: $6516 | std deviation: 810.3048808936054 apartment count: 10
+brooklyn heights studio APT	price avg: $2451 | std deviation: 346.28470257592267 apartment count: 84
+brooklyn navy yard 1 bedroom APT	price avg: $3150 | std deviation: 0.0 apartment count: 1
+brooklyn navy yard 2 bedroom APT	price avg: $5381 | std deviation: 1546.3417043676557 apartment count: 3
+brookville 2 bedroom APT	price avg: $2000 | std deviation: 0.0 apartment count: 1
+brownsville 1 bedroom APT	price avg: $2361 | std deviation: 824.8134637601402 apartment count: 4
+brownsville 2 bedroom APT	price avg: $3100 | std deviation: 1500.0 apartment count: 2
+brownsville 3 bedroom APT	price avg: $1800 | std deviation: 0.0 apartment count: 3
+burnside studio APT	price avg: $1850 | std deviation: 0.0 apartment count: 1
+bushwick 1 bedroom APT	price avg: $2241 | std deviation: 470.22646196478024 apartment count: 94
+bushwick 2 bedroom APT	price avg: $2634 | std deviation: 345.1886462393242 apartment count: 268
+bushwick 3 bedroom APT	price avg: $2906 | std deviation: 512.3958347342331 apartment count: 234
+bushwick 4 bedroom APT	price avg: $3688 | std deviation: 514.0657874268787 apartment count: 71
+bushwick 5 bedroom APT	price avg: $4963 | std deviation: 44.784669996179126 apartment count: 6
+bushwick studio APT	price avg: $2782 | std deviation: 647.1580950586958 apartment count: 20
+canarsie 2 bedroom APT	price avg: $2750 | std deviation: 0.0 apartment count: 1
+canarsie 3 bedroom APT	price avg: $2100 | std deviation: 0.0 apartment count: 1
+canarsie studio APT	price avg: $1850 | std deviation: 0.0 apartment count: 1
+carlstadt 1 bedroom APT	price avg: $2700 | std deviation: 0.0 apartment count: 1
+carlstadt 2 bedroom APT	price avg: $7350 | std deviation: 0.0 apartment count: 1
+carnegie hill 1 bedroom APT	price avg: $2940 | std deviation: 548.30598209394 apartment count: 20
+carnegie hill 2 bedroom APT	price avg: $4703 | std deviation: 4199.914929694013 apartment count: 12
+carnegie hill 3 bedroom APT	price avg: $10638 | std deviation: 4034.8610384993435 apartment count: 5
+carnegie hill 4 bedroom APT	price avg: $31500 | std deviation: 0.0 apartment count: 1
+carroll gardens 1 bedroom APT	price avg: $2768 | std deviation: 382.6679482536912 apartment count: 29
+carroll gardens 2 bedroom APT	price avg: $4038 | std deviation: 1395.5415634509598 apartment count: 47
+carroll gardens 3 bedroom APT	price avg: $6179 | std deviation: 1850.9135312056044 apartment count: 10
+carroll gardens 4 bedroom APT	price avg: $8000 | std deviation: 0.0 apartment count: 2
+carroll gardens studio APT	price avg: $2982 | std deviation: 994.2492142315225 apartment count: 6
+carteret 1 bedroom APT	price avg: $3200 | std deviation: 0.0 apartment count: 2
+carteret 2 bedroom APT	price avg: $2200 | std deviation: 0.0 apartment count: 1
+castleton corners 3 bedroom APT	price avg: $6295 | std deviation: 0.0 apartment count: 2
+centereach studio APT	price avg: $1900 | std deviation: 0.0 apartment count: 1
+central harlem 1 bedroom APT	price avg: $2129 | std deviation: 431.59146693601787 apartment count: 247
+central harlem 2 bedroom APT	price avg: $2687 | std deviation: 672.2022553749337 apartment count: 305
+central harlem 3 bedroom APT	price avg: $3504 | std deviation: 633.540674627736 apartment count: 103
+central harlem 4 bedroom APT	price avg: $4864 | std deviation: 705.3534952004487 apartment count: 47
+central harlem 5 bedroom APT	price avg: $5730 | std deviation: 485.7745599317888 apartment count: 26
+central harlem 6 bedroom APT	price avg: $7900 | std deviation: 0.0 apartment count: 1
+central harlem studio APT	price avg: $1830 | std deviation: 261.70721554184684 apartment count: 72
+central park 1 bedroom APT	price avg: $2929 | std deviation: 788.988056846334 apartment count: 13
+central park 2 bedroom APT	price avg: $4105 | std deviation: 1477.68460292252 apartment count: 14
+central park 3 bedroom APT	price avg: $4690 | std deviation: 1228.9934906255605 apartment count: 7
+central park 4 bedroom APT	price avg: $3800 | std deviation: 1385.6406460551018 apartment count: 4
+central park south 1 bedroom APT	price avg: $4808 | std deviation: 760.0256574616412 apartment count: 3
+central park south 2 bedroom APT	price avg: $11310 | std deviation: 4037.572644193892 apartment count: 7
+central park south 4 bedroom APT	price avg: $15000 | std deviation: 0.0 apartment count: 1
+central park south studio APT	price avg: $2275 | std deviation: 0.0 apartment count: 1
+central park studio APT	price avg: $1933 | std deviation: 74.53634460225875 apartment count: 6
+chelsea 1 bedroom APT	price avg: $3743 | std deviation: 1001.3852348124515 apartment count: 1287
+chelsea 2 bedroom APT	price avg: $5084 | std deviation: 1615.801086035975 apartment count: 822
+chelsea 3 bedroom APT	price avg: $5860 | std deviation: 3150.0052450398875 apartment count: 434
+chelsea 4 bedroom APT	price avg: $7651 | std deviation: 1319.689243122296 apartment count: 63
+chelsea 9 bedroom APT	price avg: $4905 | std deviation: 1095.0 apartment count: 2
+chelsea studio APT	price avg: $2807 | std deviation: 610.0936013875147 apartment count: 815
+chestnut ridge studio APT	price avg: $1500 | std deviation: 0.0 apartment count: 1
+chinatown  1 bedroom APT	price avg: $2587 | std deviation: 1391.3107728565415 apartment count: 9
+chinatown  2 bedroom APT	price avg: $3000 | std deviation: 0.0 apartment count: 1
+chinatown  4 bedroom APT	price avg: $8000 | std deviation: 0.0 apartment count: 1
+chinatown  9 bedroom APT	price avg: $3200 | std deviation: 0.0 apartment count: 1
+chinatown 1 bedroom APT	price avg: $2602 | std deviation: 1292.983248151344 apartment count: 25
+chinatown 2 bedroom APT	price avg: $3405 | std deviation: 1521.433475847226 apartment count: 28
+chinatown 3 bedroom APT	price avg: $7937 | std deviation: 4427.0887537221715 apartment count: 6
+chinatown 4 bedroom APT	price avg: $6500 | std deviation: 0.0 apartment count: 1
+chinatown 5 bedroom APT	price avg: $6500 | std deviation: 0.0 apartment count: 1
+chinatown studio APT	price avg: $2000 | std deviation: 114.0175425099138 apartment count: 5
+civic center 1 bedroom APT	price avg: $3574 | std deviation: 865.9761454934878 apartment count: 149
+civic center 2 bedroom APT	price avg: $4824 | std deviation: 1078.4520045836423 apartment count: 84
+civic center 3 bedroom APT	price avg: $5158 | std deviation: 976.9070758176587 apartment count: 23
+civic center studio APT	price avg: $2986 | std deviation: 1029.1166488416543 apartment count: 26
+clason point 2 bedroom APT	price avg: $3300 | std deviation: 0.0 apartment count: 1
+cliffside park 2 bedroom APT	price avg: $3200 | std deviation: 0.0 apartment count: 1
+clinton 1 bedroom APT	price avg: $2218 | std deviation: 463.9228218307272 apartment count: 13
+clinton 2 bedroom APT	price avg: $2545 | std deviation: 0.0 apartment count: 1
+clinton 3 bedroom APT	price avg: $2495 | std deviation: 0.0 apartment count: 1
+clinton 8 bedroom APT	price avg: $1599 | std deviation: 0.0 apartment count: 1
+clinton hill 1 bedroom APT	price avg: $2679 | std deviation: 528.017124921651 apartment count: 95
+clinton hill 2 bedroom APT	price avg: $3129 | std deviation: 496.9063308505379 apartment count: 61
+clinton hill 3 bedroom APT	price avg: $4624 | std deviation: 846.3302251485527 apartment count: 40
+clinton hill 4 bedroom APT	price avg: $4909 | std deviation: 1205.6677264763566 apartment count: 9
+clinton hill 5 bedroom APT	price avg: $5100 | std deviation: 141.4213562373095 apartment count: 3
+clinton hill studio APT	price avg: $2927 | std deviation: 1904.8585249303949 apartment count: 10
+cobble hill 1 bedroom APT	price avg: $2987 | std deviation: 591.3544984669879 apartment count: 14
+cobble hill 2 bedroom APT	price avg: $4262 | std deviation: 896.146352843265 apartment count: 14
+cobble hill 3 bedroom APT	price avg: $5000 | std deviation: 0.0 apartment count: 1
+cobble hill 4 bedroom APT	price avg: $6500 | std deviation: 0.0 apartment count: 1
+cobble hill studio APT	price avg: $2346 | std deviation: 160.90585959552223 apartment count: 23
+colgate center 1 bedroom APT	price avg: $3274 | std deviation: 0.0 apartment count: 1
+colgate center 2 bedroom APT	price avg: $2960 | std deviation: 0.0 apartment count: 1
+college point 1 bedroom APT	price avg: $4800 | std deviation: 0.0 apartment count: 1
+columbus circle 2 bedroom APT	price avg: $2445 | std deviation: 300.0 apartment count: 2
+concourse 1 bedroom APT	price avg: $1633 | std deviation: 400.6939813207414 apartment count: 3
+concourse 3 bedroom APT	price avg: $2100 | std deviation: 0.0 apartment count: 1
+concourse studio APT	price avg: $1125 | std deviation: 0.0 apartment count: 3
+concourse village 1 bedroom APT	price avg: $1955 | std deviation: 514.6947777913763 apartment count: 7
+concourse village 4 bedroom APT	price avg: $2200 | std deviation: 0.0 apartment count: 1
+concourse village studio APT	price avg: $1295 | std deviation: 0.0 apartment count: 1
+coney island 1 bedroom APT	price avg: $2256 | std deviation: 88.16745431280184 apartment count: 8
+coney island 2 bedroom APT	price avg: $2500 | std deviation: 395.5105199973465 apartment count: 7
+constable hook 2 bedroom APT	price avg: $2680 | std deviation: 21.213203435596427 apartment count: 3
+corona 1 bedroom APT	price avg: $1966 | std deviation: 233.3744552508615 apartment count: 11
+corona 3 bedroom APT	price avg: $2432 | std deviation: 176.54744404833505 apartment count: 4
+corona studio APT	price avg: $2377 | std deviation: 45.401241472813574 apartment count: 11
+county subdivisions not defined 1 bedroom APT	price avg: $3195 | std deviation: 0.0 apartment count: 1
+county subdivisions not defined 2 bedroom APT	price avg: $2700 | std deviation: 0.0 apartment count: 1
+county subdivisions not defined 3 bedroom APT	price avg: $2599 | std deviation: 0.0 apartment count: 1
+covington 2 bedroom APT	price avg: $4500 | std deviation: 0.0 apartment count: 1
+crown heights 1 bedroom APT	price avg: $2075 | std deviation: 334.33947266023404 apartment count: 94
+crown heights 2 bedroom APT	price avg: $2469 | std deviation: 455.8276307414552 apartment count: 76
+crown heights 3 bedroom APT	price avg: $2960 | std deviation: 470.6751002549423 apartment count: 120
+crown heights 4 bedroom APT	price avg: $3779 | std deviation: 1000.3222159455851 apartment count: 28
+crown heights 5 bedroom APT	price avg: $4685 | std deviation: 0.0 apartment count: 1
+crown heights 7 bedroom APT	price avg: $6923 | std deviation: 0.0 apartment count: 1
+crown heights studio APT	price avg: $1811 | std deviation: 335.3143389155211 apartment count: 17
+cypress hills 3 bedroom APT	price avg: $2250 | std deviation: 0.0 apartment count: 1
+cypress hills studio APT	price avg: $1750 | std deviation: 0.0 apartment count: 1
+dayton - weequahic park 3 bedroom APT	price avg: $4750 | std deviation: 0.0 apartment count: 2
+deland 3 bedroom APT	price avg: $4250 | std deviation: 0.0 apartment count: 1
+delaware studio APT	price avg: $1750 | std deviation: 0.0 apartment count: 1
+dobbs ferry 3 bedroom APT	price avg: $3500 | std deviation: 100.0 apartment count: 2
+dongan hills 3 bedroom APT	price avg: $2600 | std deviation: 0.0 apartment count: 1
+douglaston 1 bedroom APT	price avg: $1650 | std deviation: 0.0 apartment count: 2
+downtown 1 bedroom APT	price avg: $2339 | std deviation: 1199.4384623647852 apartment count: 8
+downtown 2 bedroom APT	price avg: $7750 | std deviation: 6750.0 apartment count: 2
+downtown 8 bedroom APT	price avg: $4350 | std deviation: 0.0 apartment count: 1
+downtown brooklyn 1 bedroom APT	price avg: $3089 | std deviation: 318.17460085360756 apartment count: 261
+downtown brooklyn 2 bedroom APT	price avg: $4095 | std deviation: 651.6135897970232 apartment count: 196
+downtown brooklyn 3 bedroom APT	price avg: $6187 | std deviation: 1488.7610860808295 apartment count: 42
+downtown brooklyn studio APT	price avg: $2485 | std deviation: 168.54379839094617 apartment count: 167
+downtown manhattan 1 bedroom APT	price avg: $3704 | std deviation: 658.2802568448518 apartment count: 29
+downtown manhattan 2 bedroom APT	price avg: $3882 | std deviation: 988.8344654187575 apartment count: 25
+downtown manhattan 3 bedroom APT	price avg: $6020 | std deviation: 1108.5253718341316 apartment count: 4
+downtown manhattan 4 bedroom APT	price avg: $4700 | std deviation: 0.0 apartment count: 1
+downtown manhattan studio APT	price avg: $2623 | std deviation: 455.66508168463673 apartment count: 12
+downtown new rochelle 3 bedroom APT	price avg: $3631 | std deviation: 0.0 apartment count: 1
+downtown seattle 1 bedroom APT	price avg: $4011 | std deviation: 0.0 apartment count: 1
+downtown studio APT	price avg: $2200 | std deviation: 0.0 apartment count: 1
+dumbo 1 bedroom APT	price avg: $4345 | std deviation: 922.0910165310665 apartment count: 159
+dumbo 2 bedroom APT	price avg: $5418 | std deviation: 738.9394427150306 apartment count: 68
+dumbo 3 bedroom APT	price avg: $5481 | std deviation: 441.1670129705227 apartment count: 15
+dumbo studio APT	price avg: $3248 | std deviation: 330.5461281835606 apartment count: 35
+dunellen nj 3 bedroom APT	price avg: $1700 | std deviation: 0.0 apartment count: 1
+dyker heights 1 bedroom APT	price avg: $3100 | std deviation: 1800.0 apartment count: 2
+dyker heights 2 bedroom APT	price avg: $2157 | std deviation: 277.0496345422603 apartment count: 10
+dyker heights 3 bedroom APT	price avg: $2500 | std deviation: 0.0 apartment count: 8
+dyker heights studio APT	price avg: $3166 | std deviation: 329.9838379880647 apartment count: 3
+east 91st 2 bedroom APT	price avg: $2350 | std deviation: 0.0 apartment count: 1
+east brunswick 1 bedroom APT	price avg: $3800 | std deviation: 0.0 apartment count: 1
+east elmhurst 1 bedroom APT	price avg: $3050 | std deviation: 0.0 apartment count: 1
+east flatbush 1 bedroom APT	price avg: $2234 | std deviation: 849.7782273712863 apartment count: 28
+east flatbush 2 bedroom APT	price avg: $2941 | std deviation: 1074.1496345947337 apartment count: 32
+east flatbush 3 bedroom APT	price avg: $3080 | std deviation: 1180.967497761573 apartment count: 13
+east flatbush 4 bedroom APT	price avg: $5120 | std deviation: 1467.5149062275314 apartment count: 5
+east flatbush 5 bedroom APT	price avg: $6500 | std deviation: 0.0 apartment count: 1
+east flatbush studio APT	price avg: $1886 | std deviation: 423.90122670263645 apartment count: 4
+east harlem 1 bedroom APT	price avg: $2379 | std deviation: 884.4675117898705 apartment count: 340
+east harlem 2 bedroom APT	price avg: $2825 | std deviation: 947.7122625271759 apartment count: 507
+east harlem 3 bedroom APT	price avg: $3243 | std deviation: 753.9984598255853 apartment count: 310
+east harlem 4 bedroom APT	price avg: $3858 | std deviation: 954.8053259834257 apartment count: 38
+east harlem 5 bedroom APT	price avg: $4748 | std deviation: 144.35719587190658 apartment count: 6
+east harlem 9 bedroom APT	price avg: $2300 | std deviation: 0.0 apartment count: 1
+east harlem studio APT	price avg: $2398 | std deviation: 900.923051905403 apartment count: 110
+east new york 2 bedroom APT	price avg: $4212 | std deviation: 1891.5520082725718 apartment count: 4
+east new york 3 bedroom APT	price avg: $2465 | std deviation: 576.3426353596733 apartment count: 6
+east new york 4 bedroom APT	price avg: $2500 | std deviation: 500.0 apartment count: 2
+east orange 1 bedroom APT	price avg: $1975 | std deviation: 0.0 apartment count: 1
+east pikeland 2 bedroom APT	price avg: $3699 | std deviation: 0.0 apartment count: 1
+east village 1 bedroom APT	price avg: $2968 | std deviation: 665.2088602577423 apartment count: 1347
+east village 2 bedroom APT	price avg: $3647 | std deviation: 709.5274211687951 apartment count: 1611
+east village 3 bedroom APT	price avg: $5047 | std deviation: 796.7888838744166 apartment count: 805
+east village 4 bedroom APT	price avg: $6312 | std deviation: 1284.0136119043113 apartment count: 135
+east village 5 bedroom APT	price avg: $6065 | std deviation: 883.3199684523535 apartment count: 12
+east village 6 bedroom APT	price avg: $7999 | std deviation: 0.0 apartment count: 2
+east village 8 bedroom APT	price avg: $4300 | std deviation: 700.0 apartment count: 2
+east village 9 bedroom APT	price avg: $3666 | std deviation: 1472.3947161002718 apartment count: 5
+east village studio APT	price avg: $2544 | std deviation: 504.40179566466713 apartment count: 694
+eastside 1 bedroom APT	price avg: $2895 | std deviation: 0.0 apartment count: 1
+eatontown 1 bedroom APT	price avg: $3980 | std deviation: 0.0 apartment count: 1
+edgewater 1 bedroom APT	price avg: $1850 | std deviation: 0.0 apartment count: 1
+edgewater 2 bedroom APT	price avg: $2033 | std deviation: 209.1522571397848 apartment count: 3
+edgewater studio APT	price avg: $2300 | std deviation: 0.0 apartment count: 1
+edison 3 bedroom APT	price avg: $4299 | std deviation: 0.0 apartment count: 1
+elizabeth 1 bedroom APT	price avg: $2517 | std deviation: 649.4116018146185 apartment count: 7
+elizabeth 2 bedroom APT	price avg: $2695 | std deviation: 0.0 apartment count: 1
+elizabeth 3 bedroom APT	price avg: $4447 | std deviation: 1752.0 apartment count: 2
+ellis island 1 bedroom APT	price avg: $2995 | std deviation: 0.0 apartment count: 1
+elmhurst 1 bedroom APT	price avg: $1886 | std deviation: 188.070731375193 apartment count: 25
+elmhurst 2 bedroom APT	price avg: $2605 | std deviation: 497.02223290311673 apartment count: 20
+elmhurst 3 bedroom APT	price avg: $3325 | std deviation: 303.10889132455355 apartment count: 4
+elmhurst studio APT	price avg: $1866 | std deviation: 517.5280454021577 apartment count: 18
+exchange place north studio APT	price avg: $4975 | std deviation: 0.0 apartment count: 1
+fairview 1 bedroom APT	price avg: $2312 | std deviation: 137.50090908790386 apartment count: 2
+falls city studio APT	price avg: $2300 | std deviation: 0.0 apartment count: 1
+fantastic 3 bedroom APT	price avg: $7975 | std deviation: 0.0 apartment count: 1
+fanwood 1 bedroom APT	price avg: $1950 | std deviation: 0.0 apartment count: 1
+far rockaway 2 bedroom APT	price avg: $1658 | std deviation: 0.0 apartment count: 4
+far rockaway 3 bedroom APT	price avg: $1825 | std deviation: 0.0 apartment count: 5
+far rockaway 4 bedroom APT	price avg: $2100 | std deviation: 0.0 apartment count: 5
+far rockaway 5 bedroom APT	price avg: $2350 | std deviation: 0.0 apartment count: 4
+far rockaway studio APT	price avg: $7000 | std deviation: 0.0 apartment count: 1
+fidi 1 bedroom APT	price avg: $2595 | std deviation: 0.0 apartment count: 1
+financial district 1 bedroom APT	price avg: $3447 | std deviation: 618.4348088939224 apartment count: 3128
+financial district 2 bedroom APT	price avg: $3937 | std deviation: 1119.7149215678376 apartment count: 3404
+financial district 3 bedroom APT	price avg: $4253 | std deviation: 895.4429600361029 apartment count: 1616
+financial district 4 bedroom APT	price avg: $5738 | std deviation: 753.5523206785313 apartment count: 220
+financial district 5 bedroom APT	price avg: $7988 | std deviation: 2471.671335818679 apartment count: 26
+financial district 8 bedroom APT	price avg: $2366 | std deviation: 148.6674140489435 apartment count: 3
+financial district 9 bedroom APT	price avg: $5306 | std deviation: 1943.0759120528462 apartment count: 5
+financial district studio APT	price avg: $2826 | std deviation: 495.09617463917414 apartment count: 2782
+flat iron 1 bedroom APT	price avg: $2650 | std deviation: 0.0 apartment count: 1
+flatbush 1 bedroom APT	price avg: $1858 | std deviation: 295.56714416331994 apartment count: 79
+flatbush 2 bedroom APT	price avg: $2347 | std deviation: 564.1061226817689 apartment count: 85
+flatbush 3 bedroom APT	price avg: $3010 | std deviation: 901.7442205771337 apartment count: 61
+flatbush 4 bedroom APT	price avg: $3158 | std deviation: 250.57264415733815 apartment count: 20
+flatbush studio APT	price avg: $1602 | std deviation: 187.1800014456044 apartment count: 17
+flatiron 1 bedroom APT	price avg: $3853 | std deviation: 1302.5707146510958 apartment count: 30
+flatiron 2 bedroom APT	price avg: $6282 | std deviation: 4350.027766742251 apartment count: 28
+flatiron 3 bedroom APT	price avg: $14076 | std deviation: 10145.255122469815 apartment count: 6
+flatiron 4 bedroom APT	price avg: $23198 | std deviation: 12340.472245825928 apartment count: 4
+flatiron 6 bedroom APT	price avg: $12000 | std deviation: 0.0 apartment count: 1
+flatiron district 1 bedroom APT	price avg: $4032 | std deviation: 715.5097008954327 apartment count: 212
+flatiron district 2 bedroom APT	price avg: $5007 | std deviation: 1274.7431863620493 apartment count: 136
+flatiron district 3 bedroom APT	price avg: $5389 | std deviation: 884.2767020080794 apartment count: 70
+flatiron district 4 bedroom APT	price avg: $6191 | std deviation: 689.4792418920239 apartment count: 24
+flatiron district studio APT	price avg: $2843 | std deviation: 555.9076020967562 apartment count: 145
+flatlands 1 bedroom APT	price avg: $1750 | std deviation: 74.35948717771885 apartment count: 6
+flatlands 2 bedroom APT	price avg: $2566 | std deviation: 1102.444375013996 apartment count: 5
+flatlands 3 bedroom APT	price avg: $2270 | std deviation: 146.8843082156838 apartment count: 7
+flatlands studio APT	price avg: $1870 | std deviation: 505.0 apartment count: 2
+floyd bennett airfield 2 bedroom APT	price avg: $2150 | std deviation: 0.0 apartment count: 2
+floyd bennett airfield 3 bedroom APT	price avg: $2295 | std deviation: 0.0 apartment count: 1
+flushing 1 bedroom APT	price avg: $1846 | std deviation: 143.80078812950458 apartment count: 18
+flushing 2 bedroom APT	price avg: $2709 | std deviation: 1480.3132631787291 apartment count: 14
+flushing 3 bedroom APT	price avg: $2750 | std deviation: 250.0 apartment count: 2
+flushing meadows-corona park 1 bedroom APT	price avg: $1850 | std deviation: 0.0 apartment count: 1
+flushing meadows-corona park 2 bedroom APT	price avg: $2300 | std deviation: 0.0 apartment count: 2
+flushing studio APT	price avg: $1528 | std deviation: 84.4748483277715 apartment count: 5
+fordham heights 2 bedroom APT	price avg: $1550 | std deviation: 0.0 apartment count: 2
+fordham heights 3 bedroom APT	price avg: $2000 | std deviation: 0.0 apartment count: 3
+fordham heights 4 bedroom APT	price avg: $2500 | std deviation: 0.0 apartment count: 2
+fordham manor 1 bedroom APT	price avg: $1308 | std deviation: 65.61757894548279 apartment count: 3
+fordham manor 2 bedroom APT	price avg: $1741 | std deviation: 317.76196541856086 apartment count: 3
+forest hills 1 bedroom APT	price avg: $2195 | std deviation: 293.07280096704073 apartment count: 78
+forest hills 2 bedroom APT	price avg: $2581 | std deviation: 277.30800704132355 apartment count: 52
+forest hills 3 bedroom APT	price avg: $3576 | std deviation: 520.4676035218614 apartment count: 19
+forest hills 4 bedroom APT	price avg: $4840 | std deviation: 696.3606693504321 apartment count: 11
+forest hills studio APT	price avg: $1711 | std deviation: 124.07977944317385 apartment count: 24
+fort george 1 bedroom APT	price avg: $1553 | std deviation: 288.3616150818822 apartment count: 19
+fort george 2 bedroom APT	price avg: $2044 | std deviation: 322.2483514310042 apartment count: 10
+fort george 3 bedroom APT	price avg: $2847 | std deviation: 647.5001930501643 apartment count: 4
+fort george 4 bedroom APT	price avg: $3200 | std deviation: 0.0 apartment count: 1
+fort greene 1 bedroom APT	price avg: $2991 | std deviation: 430.2525066890315 apartment count: 41
+fort greene 2 bedroom APT	price avg: $4619 | std deviation: 954.9269605577172 apartment count: 38
+fort greene 3 bedroom APT	price avg: $4333 | std deviation: 552.0983349264617 apartment count: 7
+fort greene 4 bedroom APT	price avg: $4250 | std deviation: 0.0 apartment count: 2
+fort greene studio APT	price avg: $2381 | std deviation: 335.2827587304286 apartment count: 53
+fort hamilton 1 bedroom APT	price avg: $1450 | std deviation: 0.0 apartment count: 2
+fort lee 1 bedroom APT	price avg: $1750 | std deviation: 0.0 apartment count: 1
+fort lee 2 bedroom APT	price avg: $2272 | std deviation: 122.50102040391337 apartment count: 2
+fort lee 3 bedroom APT	price avg: $2775 | std deviation: 0.0 apartment count: 1
+fort wadsworth 1 bedroom APT	price avg: $3815 | std deviation: 534.5002338633726 apartment count: 2
+foxborough 1 bedroom APT	price avg: $1931 | std deviation: 0.0 apartment count: 2
+foxborough 2 bedroom APT	price avg: $2494 | std deviation: 0.0 apartment count: 3
+foxhurst 2 bedroom APT	price avg: $1600 | std deviation: 0.0 apartment count: 2
+franklin center 2 bedroom APT	price avg: $2499 | std deviation: 0.0 apartment count: 1
+fulton/seaport 1 bedroom APT	price avg: $3792 | std deviation: 893.127923188771 apartment count: 39
+fulton/seaport 2 bedroom APT	price avg: $5901 | std deviation: 1467.4106872310833 apartment count: 8
+fulton/seaport 3 bedroom APT	price avg: $5622 | std deviation: 1372.5000910746783 apartment count: 2
+garfield 1 bedroom APT	price avg: $2495 | std deviation: 0.0 apartment count: 1
+garment district 1 bedroom APT	price avg: $3324 | std deviation: 723.0682156231488 apartment count: 180
+garment district 2 bedroom APT	price avg: $4267 | std deviation: 927.832887043281 apartment count: 172
+garment district 3 bedroom APT	price avg: $4814 | std deviation: 754.1534607145235 apartment count: 52
+garment district studio APT	price avg: $2966 | std deviation: 598.6239892917386 apartment count: 72
+glen oaks 2 bedroom APT	price avg: $1900 | std deviation: 0.0 apartment count: 5
+glendale 2 bedroom APT	price avg: $1890 | std deviation: 320.0 apartment count: 5
+glendale 3 bedroom APT	price avg: $2622 | std deviation: 868.0758415407415 apartment count: 9
+glendale studio APT	price avg: $2200 | std deviation: 0.0 apartment count: 1
+governors island 1 bedroom APT	price avg: $2722 | std deviation: 72.50172411743047 apartment count: 2
+governors island 2 bedroom APT	price avg: $3728 | std deviation: 242.77355704441948 apartment count: 3
+gowanus 1 bedroom APT	price avg: $3034 | std deviation: 1011.7090274629361 apartment count: 32
+gowanus 2 bedroom APT	price avg: $3870 | std deviation: 1217.5008555780703 apartment count: 36
+gowanus 3 bedroom APT	price avg: $3930 | std deviation: 495.5804677345547 apartment count: 5
+gowanus 4 bedroom APT	price avg: $4033 | std deviation: 188.562102944008 apartment count: 3
+gowanus studio APT	price avg: $2590 | std deviation: 243.52974529224403 apartment count: 19
+gramercy 1 bedroom APT	price avg: $2611 | std deviation: 1479.2209972214057 apartment count: 29
+gramercy 2 bedroom APT	price avg: $3292 | std deviation: 866.5526018452116 apartment count: 17
+gramercy 3 bedroom APT	price avg: $5366 | std deviation: 938.8115587577429 apartment count: 14
+gramercy 4 bedroom APT	price avg: $7800 | std deviation: 0.0 apartment count: 1
+gramercy 8 bedroom APT	price avg: $2299 | std deviation: 0.0 apartment count: 1
+gramercy park 1 bedroom APT	price avg: $3658 | std deviation: 903.3486175515047 apartment count: 298
+gramercy park 2 bedroom APT	price avg: $4350 | std deviation: 1175.4593388632684 apartment count: 321
+gramercy park 3 bedroom APT	price avg: $5023 | std deviation: 1063.141052234634 apartment count: 262
+gramercy park 4 bedroom APT	price avg: $6076 | std deviation: 596.1271361882464 apartment count: 48
+gramercy park 5 bedroom APT	price avg: $7500 | std deviation: 0.0 apartment count: 1
+gramercy park studio APT	price avg: $2764 | std deviation: 288.73338939106736 apartment count: 268
+gravesend 1 bedroom APT	price avg: $1694 | std deviation: 122.245654319489 apartment count: 5
+gravesend 2 bedroom APT	price avg: $3387 | std deviation: 2085.7777925752303 apartment count: 4
+gravesend 3 bedroom APT	price avg: $2208 | std deviation: 542.499462365325 apartment count: 3
+gravesend studio APT	price avg: $1950 | std deviation: 0.0 apartment count: 3
+great neck estates 3 bedroom APT	price avg: $4500 | std deviation: 0.0 apartment count: 1
+greenpoint 1 bedroom APT	price avg: $2520 | std deviation: 374.4799400371081 apartment count: 102
+greenpoint 2 bedroom APT	price avg: $2936 | std deviation: 663.6741704288197 apartment count: 89
+greenpoint 3 bedroom APT	price avg: $3572 | std deviation: 673.7411156439028 apartment count: 33
+greenpoint 4 bedroom APT	price avg: $5000 | std deviation: 0.0 apartment count: 1
+greenpoint studio APT	price avg: $3089 | std deviation: 1571.4863982866666 apartment count: 38
+greenville 1 bedroom APT	price avg: $3500 | std deviation: 0.0 apartment count: 1
+greenville 2 bedroom APT	price avg: $5785 | std deviation: 1485.0 apartment count: 2
+greenwich village 1 bedroom APT	price avg: $3807 | std deviation: 1140.7409934907537 apartment count: 773
+greenwich village 2 bedroom APT	price avg: $4889 | std deviation: 2249.519750053854 apartment count: 255
+greenwich village 3 bedroom APT	price avg: $6342 | std deviation: 3534.1827280936614 apartment count: 45
+greenwich village 4 bedroom APT	price avg: $6748 | std deviation: 542.3765604571545 apartment count: 3
+greenwich village 9 bedroom APT	price avg: $2871 | std deviation: 1352.8757025930604 apartment count: 3
+greenwich village studio APT	price avg: $3020 | std deviation: 810.1673639034385 apartment count: 438
+greenwood heights 1 bedroom APT	price avg: $2450 | std deviation: 1235.142324795001 apartment count: 16
+greenwood heights 2 bedroom APT	price avg: $2283 | std deviation: 263.52334916579133 apartment count: 18
+greenwood heights 3 bedroom APT	price avg: $2525 | std deviation: 25.0 apartment count: 2
+hackensack river waterfront 1 bedroom APT	price avg: $4175 | std deviation: 129.9038105676658 apartment count: 4
+hackensack river waterfront 2 bedroom APT	price avg: $3495 | std deviation: 0.0 apartment count: 1
+hamilton heights 1 bedroom APT	price avg: $1394 | std deviation: 415.3012050417033 apartment count: 11
+hamilton heights 2 bedroom APT	price avg: $2490 | std deviation: 571.2978645155257 apartment count: 20
+hamilton heights 3 bedroom APT	price avg: $2984 | std deviation: 319.1084937278085 apartment count: 13
+hamilton heights 4 bedroom APT	price avg: $3523 | std deviation: 491.13541920737094 apartment count: 6
+harbor point 1 bedroom APT	price avg: $2256 | std deviation: 0.0 apartment count: 6
+harbor point 2 bedroom APT	price avg: $2960 | std deviation: 524.6498832554906 apartment count: 4
+harford 2 bedroom APT	price avg: $4750 | std deviation: 0.0 apartment count: 1
+harlem  1 bedroom APT	price avg: $2407 | std deviation: 946.4994906043456 apartment count: 35
+harlem  2 bedroom APT	price avg: $2485 | std deviation: 384.0915461051879 apartment count: 19
+harlem  3 bedroom APT	price avg: $3424 | std deviation: 792.7817322567416 apartment count: 8
+harlem  4 bedroom APT	price avg: $5891 | std deviation: 1380.4578950478715 apartment count: 5
+harlem  9 bedroom APT	price avg: $2600 | std deviation: 0.0 apartment count: 1
+harlem 1 bedroom APT	price avg: $1550 | std deviation: 679.470948040289 apartment count: 13
+harlem 2 bedroom APT	price avg: $1514 | std deviation: 570.5896073361308 apartment count: 10
+harrison 1 bedroom APT	price avg: $2095 | std deviation: 0.0 apartment count: 1
+harrison 2 bedroom APT	price avg: $2875 | std deviation: 0.0 apartment count: 1
+harsimus 1 bedroom APT	price avg: $2495 | std deviation: 0.0 apartment count: 1
+harsimus 2 bedroom APT	price avg: $2950 | std deviation: 0.0 apartment count: 1
+heathcote 2 bedroom APT	price avg: $2950 | std deviation: 0.0 apartment count: 1
+hell's kitchen 1 bedroom APT	price avg: $3109 | std deviation: 638.2142650610541 apartment count: 2323
+hell's kitchen 2 bedroom APT	price avg: $3949 | std deviation: 1077.5043667882562 apartment count: 1876
+hell's kitchen 3 bedroom APT	price avg: $4844 | std deviation: 853.6158212464891 apartment count: 673
+hell's kitchen 4 bedroom APT	price avg: $5796 | std deviation: 775.2664220834564 apartment count: 119
+hell's kitchen 5 bedroom APT	price avg: $5850 | std deviation: 0.0 apartment count: 1
+hell's kitchen studio APT	price avg: $2493 | std deviation: 470.7290109560588 apartment count: 1367
+hells kitchen 1 bedroom APT	price avg: $1750 | std deviation: 0.0 apartment count: 1
+hells kitchen 2 bedroom APT	price avg: $3200 | std deviation: 0.0 apartment count: 1
+hempstead 1 bedroom APT	price avg: $2021 | std deviation: 513.2928710089119 apartment count: 14
+hempstead 2 bedroom APT	price avg: $2268 | std deviation: 122.97967311714567 apartment count: 11
+hempstead studio APT	price avg: $1725 | std deviation: 0.0 apartment count: 1
+henderson county 3 bedroom APT	price avg: $4757 | std deviation: 0.0 apartment count: 1
+highbridge 1 bedroom APT	price avg: $1862 | std deviation: 383.03916248864164 apartment count: 4
+highbridge 2 bedroom APT	price avg: $1906 | std deviation: 25.11971337416094 apartment count: 4
+highbridge 4 bedroom APT	price avg: $1900 | std deviation: 0.0 apartment count: 1
+hillside studio APT	price avg: $2150 | std deviation: 0.0 apartment count: 1
+historic downtown 2 bedroom APT	price avg: $5757 | std deviation: 0.0 apartment count: 1
+historic downtown studio APT	price avg: $2250 | std deviation: 0.0 apartment count: 1
+hoboken 1 bedroom APT	price avg: $3457 | std deviation: 702.9391470422205 apartment count: 9
+hoboken 2 bedroom APT	price avg: $3503 | std deviation: 316.03876344524576 apartment count: 8
+hoboken 3 bedroom APT	price avg: $4947 | std deviation: 452.5002762430096 apartment count: 2
+hoboken 5 bedroom APT	price avg: $6500 | std deviation: 0.0 apartment count: 1
+hoboken studio APT	price avg: $2410 | std deviation: 502.9839531663581 apartment count: 7
+hollis 2 bedroom APT	price avg: $1725 | std deviation: 0.0 apartment count: 1
+hopewell studio APT	price avg: $3175 | std deviation: 0.0 apartment count: 1
+howard beach 1 bedroom APT	price avg: $3295 | std deviation: 0.0 apartment count: 1
+howard beach 2 bedroom APT	price avg: $4300 | std deviation: 0.0 apartment count: 1
+howard beach studio APT	price avg: $2500 | std deviation: 0.0 apartment count: 1
+hudson exchange 1 bedroom APT	price avg: $2875 | std deviation: 0.0 apartment count: 2
+hudson heights 1 bedroom APT	price avg: $2112 | std deviation: 113.88151737661384 apartment count: 4
+hudson heights 2 bedroom APT	price avg: $2603 | std deviation: 338.33581690385665 apartment count: 8
+hudson heights 3 bedroom APT	price avg: $2725 | std deviation: 225.0 apartment count: 2
+hudson heights 4 bedroom APT	price avg: $4060 | std deviation: 85.79821287960101 apartment count: 3
+hunts point 1 bedroom APT	price avg: $1460 | std deviation: 135.0 apartment count: 2
+in`wood 1 bedroom APT	price avg: $887 | std deviation: 112.50111110562419 apartment count: 2
+in`wood 2 bedroom APT	price avg: $1360 | std deviation: 0.0 apartment count: 1
+inwood  1 bedroom APT	price avg: $2149 | std deviation: 808.5446564899563 apartment count: 26
+inwood  2 bedroom APT	price avg: $2077 | std deviation: 423.8712068541575 apartment count: 15
+inwood  3 bedroom APT	price avg: $2812 | std deviation: 467.0903285232954 apartment count: 16
+inwood  4 bedroom APT	price avg: $3528 | std deviation: 434.426058150291 apartment count: 5
+inwood  5 bedroom APT	price avg: $4397 | std deviation: 402.5003105588864 apartment count: 2
+inwood  8 bedroom APT	price avg: $2995 | std deviation: 0.0 apartment count: 1
+inwood  9 bedroom APT	price avg: $1995 | std deviation: 0.0 apartment count: 2
+inwood 1 bedroom APT	price avg: $1685 | std deviation: 246.12031717498616 apartment count: 114
+inwood 2 bedroom APT	price avg: $2226 | std deviation: 280.3914790126301 apartment count: 173
+inwood 3 bedroom APT	price avg: $2725 | std deviation: 393.14521222410536 apartment count: 19
+inwood 4 bedroom APT	price avg: $4700 | std deviation: 0.0 apartment count: 2
+inwood 9 bedroom APT	price avg: $1500 | std deviation: 0.0 apartment count: 1
+inwood studio APT	price avg: $1555 | std deviation: 89.73174306947188 apartment count: 14
+iselin studio APT	price avg: $2495 | std deviation: 0.0 apartment count: 1
+jackson 2 bedroom APT	price avg: $4195 | std deviation: 0.0 apartment count: 1
+jackson heights 1 bedroom APT	price avg: $1873 | std deviation: 145.02573207180498 apartment count: 54
+jackson heights 2 bedroom APT	price avg: $2287 | std deviation: 224.20218341403157 apartment count: 21
+jackson heights studio APT	price avg: $1866 | std deviation: 519.4695824192438 apartment count: 17
+jamaica 1 bedroom APT	price avg: $1500 | std deviation: 0.0 apartment count: 2
+jamaica 2 bedroom APT	price avg: $1992 | std deviation: 293.2936120292136 apartment count: 7
+jamaica 3 bedroom APT	price avg: $3999 | std deviation: 816.4969891759145 apartment count: 3
+jamaica estates 1 bedroom APT	price avg: $1875 | std deviation: 0.0 apartment count: 1
+jamaica estates 2 bedroom APT	price avg: $2250 | std deviation: 0.0 apartment count: 1
+jamaica estates studio APT	price avg: $1361 | std deviation: 76.70630445313569 apartment count: 7
+jamaica hills 3 bedroom APT	price avg: $3725 | std deviation: 0.0 apartment count: 1
+jersey city 1 bedroom APT	price avg: $2955 | std deviation: 970.074739388672 apartment count: 15
+jersey city 2 bedroom APT	price avg: $4210 | std deviation: 1578.5864774115691 apartment count: 15
+jersey city 3 bedroom APT	price avg: $4700 | std deviation: 1384.1965178398623 apartment count: 5
+jersey city 4 bedroom APT	price avg: $5247 | std deviation: 747.5001672240616 apartment count: 2
+jersey city studio APT	price avg: $2410 | std deviation: 358.03980225667647 apartment count: 10
+john f kennedy international airport 1 bedroom APT	price avg: $3557 | std deviation: 654.8809052033812 apartment count: 4
+journal square 1 bedroom APT	price avg: $2499 | std deviation: 0.0 apartment count: 1
+keansburg 2 bedroom APT	price avg: $2100 | std deviation: 0.0 apartment count: 1
+kearny 1 bedroom APT	price avg: $2934 | std deviation: 378.1597986742289 apartment count: 6
+kearny 2 bedroom APT	price avg: $2895 | std deviation: 0.0 apartment count: 1
+kendall park 2 bedroom APT	price avg: $2100 | std deviation: 0.0 apartment count: 1
+kensington 1 bedroom APT	price avg: $1941 | std deviation: 215.75835248413134 apartment count: 15
+kensington 2 bedroom APT	price avg: $2381 | std deviation: 329.69542622559095 apartment count: 27
+kensington 3 bedroom APT	price avg: $2881 | std deviation: 380.2150707165617 apartment count: 14
+kensington 4 bedroom APT	price avg: $3800 | std deviation: 0.0 apartment count: 1
+kensington studio APT	price avg: $1655 | std deviation: 91.37833441248533 apartment count: 5
+kent county 3 bedroom APT	price avg: $4800 | std deviation: 0.0 apartment count: 1
+kew gardens 1 bedroom APT	price avg: $1816 | std deviation: 135.92116604959543 apartment count: 71
+kew gardens 2 bedroom APT	price avg: $2034 | std deviation: 193.63668729521962 apartment count: 24
+kew gardens 3 bedroom APT	price avg: $2250 | std deviation: 0.0 apartment count: 1
+kew gardens hills 1 bedroom APT	price avg: $2017 | std deviation: 350.29487578324637 apartment count: 6
+kew gardens hills 2 bedroom APT	price avg: $2117 | std deviation: 301.53938382904477 apartment count: 12
+kew gardens hills 3 bedroom APT	price avg: $3900 | std deviation: 1838.4776310850236 apartment count: 3
+kew gardens hills studio APT	price avg: $1677 | std deviation: 73.0 apartment count: 2
+kew gardens studio APT	price avg: $1439 | std deviation: 96.00162759036952 apartment count: 16
+kings point 2 bedroom APT	price avg: $3600 | std deviation: 600.0 apartment count: 2
+kingsbridge 1 bedroom APT	price avg: $1486 | std deviation: 215.14181369506022 apartment count: 8
+kingsbridge 2 bedroom APT	price avg: $2350 | std deviation: 843.8855711190097 apartment count: 7
+kingsbridge 3 bedroom APT	price avg: $2600 | std deviation: 424.26406871192853 apartment count: 3
+kingsbridge studio APT	price avg: $1295 | std deviation: 0.0 apartment count: 3
+kips bay 1 bedroom APT	price avg: $3129 | std deviation: 546.8302018017822 apartment count: 931
+kips bay 2 bedroom APT	price avg: $3552 | std deviation: 708.1684416207463 apartment count: 1019
+kips bay 3 bedroom APT	price avg: $5078 | std deviation: 774.3308078592767 apartment count: 410
+kips bay 4 bedroom APT	price avg: $6381 | std deviation: 681.1668469481577 apartment count: 139
+kips bay 5 bedroom APT	price avg: $6500 | std deviation: 0.0 apartment count: 1
+kips bay studio APT	price avg: $2492 | std deviation: 545.9987160972066 apartment count: 495
+knowlton 1 bedroom APT	price avg: $2595 | std deviation: 0.0 apartment count: 1
+koreatown 1 bedroom APT	price avg: $3332 | std deviation: 565.6120255215886 apartment count: 82
+koreatown 2 bedroom APT	price avg: $4062 | std deviation: 1409.0908681227288 apartment count: 67
+koreatown 3 bedroom APT	price avg: $4303 | std deviation: 665.6304208364106 apartment count: 35
+koreatown studio APT	price avg: $2670 | std deviation: 254.08174797388605 apartment count: 101
+laguardia airport 2 bedroom APT	price avg: $2200 | std deviation: 0.0 apartment count: 1
+lake union 1 bedroom APT	price avg: $2778 | std deviation: 0.0 apartment count: 1
+las vegas 2 bedroom APT	price avg: $1595 | std deviation: 0.0 apartment count: 1
+laurelton 3 bedroom APT	price avg: $2100 | std deviation: 0.0 apartment count: 3
+lawrence studio APT	price avg: $3500 | std deviation: 0.0 apartment count: 1
+lenox hill 1 bedroom APT	price avg: $3389 | std deviation: 1189.9053687863866 apartment count: 75
+lenox hill 2 bedroom APT	price avg: $7283 | std deviation: 3762.1104407964954 apartment count: 32
+lenox hill 3 bedroom APT	price avg: $10856 | std deviation: 4290.310003784275 apartment count: 14
+lenox hill 5 bedroom APT	price avg: $45000 | std deviation: 0.0 apartment count: 2
+liberty state park 1 bedroom APT	price avg: $3282 | std deviation: 333.45097923916126 apartment count: 9
+liberty state park 2 bedroom APT	price avg: $4759 | std deviation: 813.9946764772687 apartment count: 3
+liberty state park 3 bedroom APT	price avg: $3395 | std deviation: 0.0 apartment count: 1
+liberty state park studio APT	price avg: $3075 | std deviation: 825.0 apartment count: 2
+lincoln park 3 bedroom APT	price avg: $6200 | std deviation: 0.0 apartment count: 1
+lincoln square 1 bedroom APT	price avg: $3813 | std deviation: 1450.7261140768496 apartment count: 93
+lincoln square 2 bedroom APT	price avg: $7222 | std deviation: 2698.9855880581235 apartment count: 44
+lincoln square 3 bedroom APT	price avg: $9048 | std deviation: 4649.51044017898 apartment count: 12
+lincoln square 5 bedroom APT	price avg: $35000 | std deviation: 0.0 apartment count: 1
+linden 1 bedroom APT	price avg: $3220 | std deviation: 476.31397208144125 apartment count: 4
+linden 2 bedroom APT	price avg: $4011 | std deviation: 1276.7429916262188 apartment count: 3
+little ferry 1 bedroom APT	price avg: $2341 | std deviation: 483.1900937174381 apartment count: 3
+little italy 1 bedroom APT	price avg: $2787 | std deviation: 567.4631636549311 apartment count: 95
+little italy 2 bedroom APT	price avg: $3936 | std deviation: 830.0188394304818 apartment count: 84
+little italy 3 bedroom APT	price avg: $5038 | std deviation: 602.5498758950802 apartment count: 51
+little italy 5 bedroom APT	price avg: $6414 | std deviation: 98.97474425326898 apartment count: 14
+little italy studio APT	price avg: $2573 | std deviation: 656.288046516162 apartment count: 6
+little neck 1 bedroom APT	price avg: $4450 | std deviation: 0.0 apartment count: 1
+long island city 1 bedroom APT	price avg: $2860 | std deviation: 515.8820572860651 apartment count: 606
+long island city 2 bedroom APT	price avg: $3891 | std deviation: 774.8900859791905 apartment count: 344
+long island city 3 bedroom APT	price avg: $4511 | std deviation: 1144.9217727301905 apartment count: 67
+long island city 4 bedroom APT	price avg: $4967 | std deviation: 576.9466362261172 apartment count: 19
+long island city studio APT	price avg: $2407 | std deviation: 264.13782034308 apartment count: 236
+lower east side 1 bedroom APT	price avg: $2892 | std deviation: 865.8211284560086 apartment count: 287
+lower east side 2 bedroom APT	price avg: $3869 | std deviation: 988.3797592448201 apartment count: 330
+lower east side 3 bedroom APT	price avg: $4727 | std deviation: 782.0890597853274 apartment count: 195
+lower east side 4 bedroom APT	price avg: $6726 | std deviation: 599.9316324685369 apartment count: 55
+lower east side 8 bedroom APT	price avg: $5520 | std deviation: 0.0 apartment count: 1
+lower east side 9 bedroom APT	price avg: $4399 | std deviation: 823.5314201656182 apartment count: 5
+lower east side studio APT	price avg: $2516 | std deviation: 624.7585239396851 apartment count: 136
+lower heidelberg 1 bedroom APT	price avg: $2299 | std deviation: 0.0 apartment count: 1
+lower southampton 1 bedroom APT	price avg: $2500 | std deviation: 0.0 apartment count: 1
+lyndhurst 2 bedroom APT	price avg: $3425 | std deviation: 225.0 apartment count: 2
+manhasset 1 bedroom APT	price avg: $2300 | std deviation: 0.0 apartment count: 1
+manhasset 2 bedroom APT	price avg: $4295 | std deviation: 0.0 apartment count: 1
+manhattan  2 bedroom APT	price avg: $1124 | std deviation: 0.0 apartment count: 1
+manhattan 1 bedroom APT	price avg: $3089 | std deviation: 852.2173375824916 apartment count: 105
+manhattan 2 bedroom APT	price avg: $4026 | std deviation: 1108.9020309683422 apartment count: 105
+manhattan 3 bedroom APT	price avg: $4907 | std deviation: 1138.1718856918362 apartment count: 29
+manhattan 4 bedroom APT	price avg: $6500 | std deviation: 0.0 apartment count: 1
+manhattan ny 2 bedroom APT	price avg: $1825 | std deviation: 0.0 apartment count: 1
+manhattan studio APT	price avg: $2542 | std deviation: 442.89741099566913 apartment count: 60
+manhattan valley 1 bedroom APT	price avg: $2273 | std deviation: 279.8647229607453 apartment count: 19
+manhattan valley 2 bedroom APT	price avg: $3028 | std deviation: 228.37999267149385 apartment count: 19
+manhattan valley 3 bedroom APT	price avg: $3927 | std deviation: 1888.7113122583428 apartment count: 19
+manhattan valley 5 bedroom APT	price avg: $5300 | std deviation: 0.0 apartment count: 1
+mansfield 1 bedroom APT	price avg: $3100 | std deviation: 0.0 apartment count: 1
+manville 2 bedroom APT	price avg: $2100 | std deviation: 0.0 apartment count: 2
+mapleton studio APT	price avg: $2000 | std deviation: 0.0 apartment count: 1
+marine park 2 bedroom APT	price avg: $1800 | std deviation: 0.0 apartment count: 1
+marlboro 3 bedroom APT	price avg: $4895 | std deviation: 0.0 apartment count: 1
+martinsville studio APT	price avg: $4180 | std deviation: 0.0 apartment count: 1
+maspeth 1 bedroom APT	price avg: $2660 | std deviation: 598.7874652758094 apartment count: 7
+maspeth 2 bedroom APT	price avg: $3292 | std deviation: 1708.196542723181 apartment count: 7
+maspeth 3 bedroom APT	price avg: $2995 | std deviation: 0.0 apartment count: 1
+maspeth 4 bedroom APT	price avg: $2895 | std deviation: 897.6218580226308 apartment count: 10
+maspeth studio APT	price avg: $3017 | std deviation: 160.0174990430734 apartment count: 5
+matawan studio APT	price avg: $2900 | std deviation: 0.0 apartment count: 1
+mcginley square 1 bedroom APT	price avg: $2850 | std deviation: 0.0 apartment count: 1
+meat packing 1 bedroom APT	price avg: $3150 | std deviation: 0.0 apartment count: 1
+meatpacking district studio APT	price avg: $2200 | std deviation: 0.0 apartment count: 2
+melrose 3 bedroom APT	price avg: $1750 | std deviation: 0.0 apartment count: 3
+melrose studio APT	price avg: $1075 | std deviation: 0.0 apartment count: 1
+meridian kessler 2 bedroom APT	price avg: $3000 | std deviation: 0.0 apartment count: 2
+meridian kessler studio APT	price avg: $2766 | std deviation: 164.9929291414231 apartment count: 9
+middle village 1 bedroom APT	price avg: $3090 | std deviation: 0.0 apartment count: 1
+middle village 2 bedroom APT	price avg: $2000 | std deviation: 0.0 apartment count: 1
+middle village studio APT	price avg: $1924 | std deviation: 775.5001611863147 apartment count: 2
+midtown 1 bedroom APT	price avg: $3376 | std deviation: 1348.5276943050492 apartment count: 52
+midtown 2 bedroom APT	price avg: $6602 | std deviation: 3746.902863254753 apartment count: 30
+midtown 3 bedroom APT	price avg: $15966 | std deviation: 24177.917848731307 apartment count: 6
+midtown 590 bedroom APT	price avg: $2650 | std deviation: 0.0 apartment count: 1
+midtown 6 bedroom APT	price avg: $120000 | std deviation: 0.0 apartment count: 1
+midtown center 1 bedroom APT	price avg: $2529 | std deviation: 362.49524134807615 apartment count: 5
+midtown east  1 bedroom APT	price avg: $2190 | std deviation: 0.0 apartment count: 1
+midtown east 1 bedroom APT	price avg: $3190 | std deviation: 827.3591779996701 apartment count: 1380
+midtown east 2 bedroom APT	price avg: $4031 | std deviation: 1361.7250648930276 apartment count: 827
+midtown east 3 bedroom APT	price avg: $5033 | std deviation: 1250.9008174051587 apartment count: 331
+midtown east 4 bedroom APT	price avg: $6292 | std deviation: 786.0400406965482 apartment count: 147
+midtown east 5 bedroom APT	price avg: $7061 | std deviation: 610.5104421711393 apartment count: 28
+midtown east 8 bedroom APT	price avg: $3020 | std deviation: 0.0 apartment count: 1
+midtown east 9 bedroom APT	price avg: $4828 | std deviation: 1826.252720737193 apartment count: 4
+midtown east studio APT	price avg: $2467 | std deviation: 445.63473101309535 apartment count: 1142
+midtown manhattan 1 bedroom APT	price avg: $2949 | std deviation: 432.1241003406754 apartment count: 21
+midtown manhattan 2 bedroom APT	price avg: $3932 | std deviation: 940.3322760990841 apartment count: 38
+midtown manhattan 3 bedroom APT	price avg: $5173 | std deviation: 790.9810891123336 apartment count: 12
+midtown manhattan studio APT	price avg: $2345 | std deviation: 258.3597670512366 apartment count: 26
+midtown south 1 bedroom APT	price avg: $3669 | std deviation: 940.8905356097488 apartment count: 40
+midtown south 2 bedroom APT	price avg: $7918 | std deviation: 1239.1349517189112 apartment count: 7
+midtown south 3 bedroom APT	price avg: $5730 | std deviation: 894.4924072716697 apartment count: 3
+midtown south studio APT	price avg: $11025 | std deviation: 3975.0 apartment count: 2
+midtown west 1 bedroom APT	price avg: $3020 | std deviation: 982.1137359991698 apartment count: 251
+midtown west 2 bedroom APT	price avg: $4571 | std deviation: 1871.2396514966579 apartment count: 102
+midtown west 3 bedroom APT	price avg: $5420 | std deviation: 2375.544173447423 apartment count: 25
+midtown west 4 bedroom APT	price avg: $9533 | std deviation: 5845.416067312916 apartment count: 3
+midtown west 8 bedroom APT	price avg: $2797 | std deviation: 202.50061728300977 apartment count: 2
+midtown west 9 bedroom APT	price avg: $4025 | std deviation: 828.0662211844332 apartment count: 3
+midwood 1 bedroom APT	price avg: $1625 | std deviation: 25.0 apartment count: 2
+midwood 2 bedroom APT	price avg: $2085 | std deviation: 283.7441000015935 apartment count: 7
+midwood 3 bedroom APT	price avg: $2650 | std deviation: 0.0 apartment count: 3
+mine hill 1 bedroom APT	price avg: $3595 | std deviation: 0.0 apartment count: 1
+monmouth beach studio APT	price avg: $1950 | std deviation: 0.0 apartment count: 1
+morning side 3 bedroom APT	price avg: $2895 | std deviation: 0.0 apartment count: 2
+morningside heights 1 bedroom APT	price avg: $2397 | std deviation: 610.1732677417675 apartment count: 12
+morningside heights 2 bedroom APT	price avg: $3328 | std deviation: 760.4930144320854 apartment count: 8
+morningside heights 3 bedroom APT	price avg: $3811 | std deviation: 1216.9063234283894 apartment count: 13
+morningside heights 4 bedroom APT	price avg: $4159 | std deviation: 499.4049459106307 apartment count: 10
+morris heights 3 bedroom APT	price avg: $2272 | std deviation: 122.75280037538859 apartment count: 4
+morris park 1 bedroom APT	price avg: $1500 | std deviation: 0.0 apartment count: 3
+morrisania 1 bedroom APT	price avg: $1341 | std deviation: 409.0 apartment count: 2
+mott haven 1 bedroom APT	price avg: $2550 | std deviation: 0.0 apartment count: 1
+mott haven 2 bedroom APT	price avg: $1691 | std deviation: 322.5945597805394 apartment count: 4
+mott haven 3 bedroom APT	price avg: $2850 | std deviation: 1175.4431788336972 apartment count: 3
+mount eden 1 bedroom APT	price avg: $1095 | std deviation: 0.0 apartment count: 1
+mount pleasant - lower broadway 2 bedroom APT	price avg: $1250 | std deviation: 0.0 apartment count: 1
+mount pleasant - lower broadway 3 bedroom APT	price avg: $1300 | std deviation: 0.0 apartment count: 1
+murray hill 1 bedroom APT	price avg: $3199 | std deviation: 765.0963225016046 apartment count: 1168
+murray hill 2 bedroom APT	price avg: $3928 | std deviation: 1170.0285565374922 apartment count: 848
+murray hill 3 bedroom APT	price avg: $5143 | std deviation: 1145.143863247089 apartment count: 308
+murray hill 4 bedroom APT	price avg: $6178 | std deviation: 306.1917820703348 apartment count: 108
+murray hill 5 bedroom APT	price avg: $7800 | std deviation: 0.0 apartment count: 1
+murray hill 8 bedroom APT	price avg: $15097 | std deviation: 9902.500012623075 apartment count: 2
+murray hill studio APT	price avg: $2526 | std deviation: 419.68289759166754 apartment count: 1002
+needham 1 bedroom APT	price avg: $2872 | std deviation: 25.0 apartment count: 2
+needham 2 bedroom APT	price avg: $3845 | std deviation: 0.0 apartment count: 1
+new dorp 2 bedroom APT	price avg: $2990 | std deviation: 0.0 apartment count: 1
+new providence 3 bedroom APT	price avg: $5400 | std deviation: 0.0 apartment count: 1
+new springville 2 bedroom APT	price avg: $5895 | std deviation: 0.0 apartment count: 1
+new york, 2 bedroom APT	price avg: $1825 | std deviation: 0.0 apartment count: 1
+newark 1 bedroom APT	price avg: $2975 | std deviation: 475.0 apartment count: 2
+newark 2 bedroom APT	price avg: $3550 | std deviation: 0.0 apartment count: 1
+newark airport and port newark 1 bedroom APT	price avg: $3500 | std deviation: 0.0 apartment count: 1
+newark airport and port newark studio APT	price avg: $2340 | std deviation: 213.07275752662517 apartment count: 5
+newark studio APT	price avg: $3100 | std deviation: 0.0 apartment count: 1
+newport 1 bedroom APT	price avg: $3000 | std deviation: 0.0 apartment count: 1
+newport 2 bedroom APT	price avg: $2750 | std deviation: 0.0 apartment count: 1
+newport 3 bedroom APT	price avg: $5995 | std deviation: 0.0 apartment count: 1
+noho 1 bedroom APT	price avg: $4170 | std deviation: 1002.1239943240557 apartment count: 210
+noho 2 bedroom APT	price avg: $6047 | std deviation: 3854.0077015538463 apartment count: 44
+noho 3 bedroom APT	price avg: $5570 | std deviation: 3115.424967363638 apartment count: 11
+noho studio APT	price avg: $3294 | std deviation: 720.7361869385987 apartment count: 86
+nolita  1 bedroom APT	price avg: $2986 | std deviation: 741.7758132635879 apartment count: 14
+nolita  2 bedroom APT	price avg: $3223 | std deviation: 316.1372328594024 apartment count: 4
+nolita  3 bedroom APT	price avg: $6197 | std deviation: 453.34203423022666 apartment count: 4
+nolita  9 bedroom APT	price avg: $3195 | std deviation: 0.0 apartment count: 1
+nolita 1 bedroom APT	price avg: $3470 | std deviation: 698.0810791514887 apartment count: 404
+nolita 2 bedroom APT	price avg: $4694 | std deviation: 2348.2637799488753 apartment count: 182
+nolita 3 bedroom APT	price avg: $6076 | std deviation: 479.7945393603391 apartment count: 55
+nolita 4 bedroom APT	price avg: $6747 | std deviation: 247.50050504998975 apartment count: 2
+nolita studio APT	price avg: $3193 | std deviation: 474.4209389062916 apartment count: 22
+nomad 1 bedroom APT	price avg: $4551 | std deviation: 1151.7352847854577 apartment count: 373
+nomad 2 bedroom APT	price avg: $6236 | std deviation: 1523.6859743356229 apartment count: 155
+nomad 3 bedroom APT	price avg: $7356 | std deviation: 4216.954285009557 apartment count: 43
+nomad 4 bedroom APT	price avg: $7049 | std deviation: 416.9024973632232 apartment count: 26
+nomad 5 bedroom APT	price avg: $7495 | std deviation: 0.0 apartment count: 1
+nomad studio APT	price avg: $3688 | std deviation: 566.5227535616114 apartment count: 99
+north arlington 1 bedroom APT	price avg: $3603 | std deviation: 0.0 apartment count: 1
+north arlington 3 bedroom APT	price avg: $4000 | std deviation: 0.0 apartment count: 2
+north bergen 1 bedroom APT	price avg: $4225 | std deviation: 1532.1553446044563 apartment count: 5
+north bergen 2 bedroom APT	price avg: $4222 | std deviation: 1474.2952553677978 apartment count: 6
+north bergen 3 bedroom APT	price avg: $4650 | std deviation: 0.0 apartment count: 1
+north braintree 1 bedroom APT	price avg: $2124 | std deviation: 0.0 apartment count: 2
+north braintree 2 bedroom APT	price avg: $2374 | std deviation: 0.0 apartment count: 1
+north brunswick studio APT	price avg: $3600 | std deviation: 0.0 apartment count: 1
+north hempstead 1 bedroom APT	price avg: $2200 | std deviation: 0.0 apartment count: 3
+north ironbound 1 bedroom APT	price avg: $3800 | std deviation: 1050.0 apartment count: 2
+north valley stream 3 bedroom APT	price avg: $2295 | std deviation: 0.0 apartment count: 1
+northeast philadelphia 2 bedroom APT	price avg: $4995 | std deviation: 0.0 apartment count: 1
+northwest yonkers 2 bedroom APT	price avg: $1950 | std deviation: 0.0 apartment count: 1
+northwestern brooklyn 2 bedroom APT	price avg: $3295 | std deviation: 0.0 apartment count: 1
+northwestern queens 3 bedroom APT	price avg: $5295 | std deviation: 0.0 apartment count: 1
+norwood 2 bedroom APT	price avg: $1675 | std deviation: 75.0 apartment count: 2
+norwood 3 bedroom APT	price avg: $2188 | std deviation: 19.131126469708992 apartment count: 5
+norwood studio APT	price avg: $1295 | std deviation: 0.0 apartment count: 1
+ocean hill 1 bedroom APT	price avg: $1901 | std deviation: 291.4135091812549 apartment count: 18
+ocean hill 2 bedroom APT	price avg: $2242 | std deviation: 268.0302571539266 apartment count: 32
+ocean hill 3 bedroom APT	price avg: $2575 | std deviation: 297.48293018255686 apartment count: 32
+ocean hill 4 bedroom APT	price avg: $2672 | std deviation: 77.50161288644256 apartment count: 2
+ocean hill 5 bedroom APT	price avg: $3571 | std deviation: 495.3665309646989 apartment count: 7
+ocean hill studio APT	price avg: $1350 | std deviation: 0.0 apartment count: 1
+oyster bay 1 bedroom APT	price avg: $2650 | std deviation: 0.0 apartment count: 1
+oyster bay 2 bedroom APT	price avg: $4300 | std deviation: 0.0 apartment count: 1
+ozone park 1 bedroom APT	price avg: $1700 | std deviation: 0.0 apartment count: 1
+ozone park 3 bedroom APT	price avg: $2200 | std deviation: 0.0 apartment count: 3
+park avenue 2 bedroom APT	price avg: $7333 | std deviation: 0.0 apartment count: 1
+park slope 1 bedroom APT	price avg: $2453 | std deviation: 481.0812991770834 apartment count: 134
+park slope 2 bedroom APT	price avg: $3143 | std deviation: 649.2434632202018 apartment count: 161
+park slope 3 bedroom APT	price avg: $4108 | std deviation: 865.2965047288071 apartment count: 73
+park slope 4 bedroom APT	price avg: $4975 | std deviation: 25.0 apartment count: 2
+park slope studio APT	price avg: $2081 | std deviation: 203.78734831518204 apartment count: 60
+parkchester 2 bedroom APT	price avg: $2000 | std deviation: 0.0 apartment count: 1
+parkchester 3 bedroom APT	price avg: $2450 | std deviation: 0.0 apartment count: 6
+paulus hook 1 bedroom APT	price avg: $5367 | std deviation: 17.507141400011598 apartment count: 2
+paulus hook 2 bedroom APT	price avg: $4700 | std deviation: 0.0 apartment count: 1
+pelham bay 1 bedroom APT	price avg: $1375 | std deviation: 0.0 apartment count: 1
+pelham bay 2 bedroom APT	price avg: $2800 | std deviation: 0.0 apartment count: 5
+pelham parkway 1 bedroom APT	price avg: $1415 | std deviation: 22.411441882947365 apartment count: 11
+pelham parkway 3 bedroom APT	price avg: $2050 | std deviation: 250.0 apartment count: 2
+pelham parkway studio APT	price avg: $1295 | std deviation: 0.0 apartment count: 3
+pittstown 1 bedroom APT	price avg: $1964 | std deviation: 303.59602344982295 apartment count: 11
+pittstown 2 bedroom APT	price avg: $2075 | std deviation: 125.0 apartment count: 2
+pittstown studio APT	price avg: $2475 | std deviation: 0.0 apartment count: 1
+pomonok 2 bedroom APT	price avg: $2260 | std deviation: 0.0 apartment count: 3
+port morris 3 bedroom APT	price avg: $2900 | std deviation: 0.0 apartment count: 1
+port republic 2 bedroom APT	price avg: $6950 | std deviation: 0.0 apartment count: 2
+port washington 1 bedroom APT	price avg: $2350 | std deviation: 0.0 apartment count: 1
+prospect heights 1 bedroom APT	price avg: $2625 | std deviation: 363.4368771002244 apartment count: 22
+prospect heights 2 bedroom APT	price avg: $3149 | std deviation: 510.64758449987363 apartment count: 45
+prospect heights 3 bedroom APT	price avg: $3833 | std deviation: 606.3239263823453 apartment count: 27
+prospect heights 4 bedroom APT	price avg: $5750 | std deviation: 0.0 apartment count: 1
+prospect heights studio APT	price avg: $3075 | std deviation: 1782.604434929009 apartment count: 7
+prospect park 2 bedroom APT	price avg: $2750 | std deviation: 0.0 apartment count: 1
+prudential - st. botolph 1 bedroom APT	price avg: $4385 | std deviation: 444.5291047839275 apartment count: 8
+prudential - st. botolph 2 bedroom APT	price avg: $4747 | std deviation: 431.86108877739844 apartment count: 4
+queens 1 bedroom APT	price avg: $2330 | std deviation: 827.3193156212419 apartment count: 8
+queens 2 bedroom APT	price avg: $3242 | std deviation: 543.9454629525525 apartment count: 6
+queens 3 bedroom APT	price avg: $4497 | std deviation: 297.5004201677705 apartment count: 2
+queens 4 bedroom APT	price avg: $2600 | std deviation: 0.0 apartment count: 1
+queens studio APT	price avg: $2000 | std deviation: 0.0 apartment count: 1
+rahway 1 bedroom APT	price avg: $3410 | std deviation: 0.0 apartment count: 1
+raleigh 2 bedroom APT	price avg: $5830 | std deviation: 0.0 apartment count: 1
+randalls-wards island 2 bedroom APT	price avg: $3927 | std deviation: 1427.0 apartment count: 2
+randalls-wards island 3 bedroom APT	price avg: $3610 | std deviation: 0.0 apartment count: 2
+red hook 1 bedroom APT	price avg: $2778 | std deviation: 546.3238181570654 apartment count: 7
+red hook 2 bedroom APT	price avg: $2447 | std deviation: 552.5002262442976 apartment count: 2
+red hook 3 bedroom APT	price avg: $4149 | std deviation: 449.97305474883717 apartment count: 4
+red hook studio APT	price avg: $5000 | std deviation: 2500.0 apartment count: 2
+rego park 1 bedroom APT	price avg: $2064 | std deviation: 347.35663665391934 apartment count: 109
+rego park 2 bedroom APT	price avg: $2545 | std deviation: 436.7811068419943 apartment count: 102
+rego park 3 bedroom APT	price avg: $2941 | std deviation: 285.5206501580344 apartment count: 24
+rego park 4 bedroom APT	price avg: $4250 | std deviation: 0.0 apartment count: 2
+rego park studio APT	price avg: $1756 | std deviation: 290.1870262504539 apartment count: 49
+richmond hill 2 bedroom APT	price avg: $2125 | std deviation: 275.0 apartment count: 2
+richmond hill 3 bedroom APT	price avg: $2750 | std deviation: 0.0 apartment count: 2
+ridgefield 1 bedroom APT	price avg: $2125 | std deviation: 275.0 apartment count: 2
+ridgefield 3 bedroom APT	price avg: $2800 | std deviation: 0.0 apartment count: 1
+ridgewood 1 bedroom APT	price avg: $1937 | std deviation: 430.596775804619 apartment count: 12
+ridgewood 2 bedroom APT	price avg: $2124 | std deviation: 232.41632903047065 apartment count: 20
+ridgewood 3 bedroom APT	price avg: $2742 | std deviation: 490.4620088680235 apartment count: 56
+ridgewood 4 bedroom APT	price avg: $3682 | std deviation: 419.23554768703053 apartment count: 9
+ridgewood studio APT	price avg: $3047 | std deviation: 839.4977665247239 apartment count: 4
+rikers island 1 bedroom APT	price avg: $3050 | std deviation: 0.0 apartment count: 1
+rikers island 2 bedroom APT	price avg: $4000 | std deviation: 0.0 apartment count: 1
+riverdale 1 bedroom APT	price avg: $1978 | std deviation: 371.1383389878586 apartment count: 30
+riverdale 2 bedroom APT	price avg: $2713 | std deviation: 421.1526511320516 apartment count: 18
+riverdale 3 bedroom APT	price avg: $3322 | std deviation: 1262.6825940565323 apartment count: 9
+riverdale 4 bedroom APT	price avg: $3533 | std deviation: 2066.5322805769733 apartment count: 6
+riverdale studio APT	price avg: $1570 | std deviation: 127.32453990310925 apartment count: 13
+riverside park 1 bedroom APT	price avg: $5729 | std deviation: 0.0 apartment count: 1
+riverside park 2 bedroom APT	price avg: $7837 | std deviation: 0.0 apartment count: 1
+rockaway 2 bedroom APT	price avg: $4425 | std deviation: 0.0 apartment count: 1
+rockaway beach 2 bedroom APT	price avg: $1725 | std deviation: 0.0 apartment count: 1
+rockingham county studio APT	price avg: $3795 | std deviation: 0.0 apartment count: 1
+roosevelt island 1 bedroom APT	price avg: $2823 | std deviation: 442.63361657076894 apartment count: 54
+roosevelt island 2 bedroom APT	price avg: $3687 | std deviation: 1124.9095436885054 apartment count: 54
+roosevelt island 3 bedroom APT	price avg: $5097 | std deviation: 1010.6497128606247 apartment count: 38
+roosevelt island 4 bedroom APT	price avg: $4506 | std deviation: 561.7624052924866 apartment count: 4
+roosevelt island studio APT	price avg: $2231 | std deviation: 396.75977088091184 apartment count: 19
+roselle 2 bedroom APT	price avg: $5500 | std deviation: 0.0 apartment count: 1
+rutherford 1 bedroom APT	price avg: $2675 | std deviation: 0.0 apartment count: 1
+ryan studio APT	price avg: $1995 | std deviation: 0.0 apartment count: 1
+sag harbor 3 bedroom APT	price avg: $3500 | std deviation: 0.0 apartment count: 1
+sayreville 1 bedroom APT	price avg: $4395 | std deviation: 0.0 apartment count: 1
+scotch plains 1 bedroom APT	price avg: $3000 | std deviation: 0.0 apartment count: 1
+secaucus 1 bedroom APT	price avg: $2983 | std deviation: 732.9545233732673 apartment count: 3
+secaucus 3 bedroom APT	price avg: $3000 | std deviation: 0.0 apartment count: 1
+secaucus studio APT	price avg: $2550 | std deviation: 0.0 apartment count: 1
+sheepshead bay 1 bedroom APT	price avg: $1681 | std deviation: 227.3318059577234 apartment count: 4
+sheepshead bay 2 bedroom APT	price avg: $2275 | std deviation: 325.192250830182 apartment count: 10
+sheepshead bay 3 bedroom APT	price avg: $2466 | std deviation: 201.38520303140447 apartment count: 3
+sheepshead bay 4 bedroom APT	price avg: $3000 | std deviation: 0.0 apartment count: 1
+sheepshead bay studio APT	price avg: $1425 | std deviation: 0.0 apartment count: 2
+soho 1 bedroom APT	price avg: $3770 | std deviation: 1724.8514501254883 apartment count: 240
+soho 2 bedroom APT	price avg: $4790 | std deviation: 2642.140429916977 apartment count: 214
+soho 3 bedroom APT	price avg: $4558 | std deviation: 1481.434162832742 apartment count: 151
+soho 4 bedroom APT	price avg: $11617 | std deviation: 11521.513040829317 apartment count: 8
+soho 8 bedroom APT	price avg: $3000 | std deviation: 0.0 apartment count: 1
+soho studio APT	price avg: $2689 | std deviation: 870.2797977178313 apartment count: 95
+somerset studio APT	price avg: $2875 | std deviation: 0.0 apartment count: 1
+south braintree 1 bedroom APT	price avg: $2249 | std deviation: 31.096623610932426 apartment count: 3
+south braintree 2 bedroom APT	price avg: $2941 | std deviation: 332.14635328421116 apartment count: 5
+south broad street 2 bedroom APT	price avg: $4100 | std deviation: 0.0 apartment count: 1
+south brooklyn 2 bedroom APT	price avg: $4500 | std deviation: 0.0 apartment count: 1
+south brooklyn 4 bedroom APT	price avg: $4400 | std deviation: 0.0 apartment count: 1
+south harlem 1 bedroom APT	price avg: $2219 | std deviation: 424.0749794968976 apartment count: 17
+south harlem 2 bedroom APT	price avg: $2808 | std deviation: 421.1961663243337 apartment count: 19
+south harlem 3 bedroom APT	price avg: $4522 | std deviation: 1374.2838348840203 apartment count: 17
+south harlem 4 bedroom APT	price avg: $5699 | std deviation: 1299.500096190839 apartment count: 2
+south kearny 1 bedroom APT	price avg: $1877 | std deviation: 0.0 apartment count: 2
+south kearny 3 bedroom APT	price avg: $4314 | std deviation: 0.0 apartment count: 1
+south kearny studio APT	price avg: $2766 | std deviation: 17.09532099727876 apartment count: 4
+south orange village 1 bedroom APT	price avg: $2418 | std deviation: 203.5006142496872 apartment count: 2
+springfield - belmont 2 bedroom APT	price avg: $1795 | std deviation: 0.0 apartment count: 1
+springfield 2 bedroom APT	price avg: $3675 | std deviation: 0.0 apartment count: 1
+springfield gardens studio APT	price avg: $4250 | std deviation: 0.0 apartment count: 1
+st. george 2 bedroom APT	price avg: $4200 | std deviation: 0.0 apartment count: 1
+stapleton 1 bedroom APT	price avg: $2705 | std deviation: 795.0 apartment count: 2
+stapleton 2 bedroom APT	price avg: $2925 | std deviation: 0.0 apartment count: 1
+staten island 1 bedroom APT	price avg: $2995 | std deviation: 0.0 apartment count: 2
+staten island 2 bedroom APT	price avg: $3130 | std deviation: 1355.0 apartment count: 2
+stroud 2 bedroom APT	price avg: $2800 | std deviation: 0.0 apartment count: 2
+stuyvesant town/pcv 1 bedroom APT	price avg: $3653 | std deviation: 278.1566555018952 apartment count: 8
+stuyvesant town/pcv 2 bedroom APT	price avg: $4868 | std deviation: 435.3801294763659 apartment count: 7
+stuyvesant town/pcv 3 bedroom APT	price avg: $6652 | std deviation: 0.0 apartment count: 1
+stuyvesant town/pcv 5 bedroom APT	price avg: $8099 | std deviation: 0.0 apartment count: 1
+sunnyside 2 bedroom APT	price avg: $2800 | std deviation: 0.0 apartment count: 1
+sunset park 1 bedroom APT	price avg: $1835 | std deviation: 515.9836519040676 apartment count: 31
+sunset park 2 bedroom APT	price avg: $2134 | std deviation: 538.7149130808962 apartment count: 33
+sunset park 3 bedroom APT	price avg: $2242 | std deviation: 70.98513146348951 apartment count: 9
+sunset park 4 bedroom APT	price avg: $2800 | std deviation: 0.0 apartment count: 1
+sunset park studio APT	price avg: $2323 | std deviation: 298.87232502636755 apartment count: 3
+sutton place 1 bedroom APT	price avg: $2973 | std deviation: 946.1063787968031 apartment count: 25
+sutton place 2 bedroom APT	price avg: $6213 | std deviation: 1806.5649329993255 apartment count: 7
+sutton place 3 bedroom APT	price avg: $5995 | std deviation: 0.0 apartment count: 1
+the heights 1 bedroom APT	price avg: $4312 | std deviation: 0.0 apartment count: 1
+the heights 2 bedroom APT	price avg: $3300 | std deviation: 0.0 apartment count: 1
+the heights studio APT	price avg: $2316 | std deviation: 131.23515789096558 apartment count: 3
+the village studio APT	price avg: $1900 | std deviation: 0.0 apartment count: 1
+the waterfront 1 bedroom APT	price avg: $2847 | std deviation: 247.50050504998975 apartment count: 2
+the waterfront 2 bedroom APT	price avg: $3825 | std deviation: 212.13203435596427 apartment count: 3
+the waterfront studio APT	price avg: $2600 | std deviation: 212.13203435596427 apartment count: 3
+theater district - times square 1 bedroom APT	price avg: $2808 | std deviation: 198.25656777687507 apartment count: 6
+theater district 1 bedroom APT	price avg: $3377 | std deviation: 648.796002510468 apartment count: 783
+theater district 2 bedroom APT	price avg: $4278 | std deviation: 1163.709027763685 apartment count: 539
+theater district 3 bedroom APT	price avg: $5306 | std deviation: 1064.4353002100847 apartment count: 120
+theater district 4 bedroom APT	price avg: $5340 | std deviation: 460.0 apartment count: 2
+theater district studio APT	price avg: $2588 | std deviation: 496.9547263081417 apartment count: 376
+throgs neck 1 bedroom APT	price avg: $1600 | std deviation: 0.0 apartment count: 2
+throgs neck 2 bedroom APT	price avg: $3532 | std deviation: 1837.5000680272096 apartment count: 2
+throgs neck 3 bedroom APT	price avg: $2350 | std deviation: 0.0 apartment count: 1
+tribeca 1 bedroom APT	price avg: $4322 | std deviation: 980.2499981799847 apartment count: 543
+tribeca 2 bedroom APT	price avg: $5973 | std deviation: 1678.12112906355 apartment count: 504
+tribeca 3 bedroom APT	price avg: $6940 | std deviation: 3387.2592574852247 apartment count: 155
+tribeca 4 bedroom APT	price avg: $7710 | std deviation: 4884.292329043744 apartment count: 36
+tribeca 5 bedroom APT	price avg: $18283 | std deviation: 14481.386524316884 apartment count: 6
+tribeca 6 bedroom APT	price avg: $8890 | std deviation: 0.0 apartment count: 1
+tribeca studio APT	price avg: $3479 | std deviation: 781.2461527710151 apartment count: 205
+tudor city 1 bedroom APT	price avg: $2525 | std deviation: 0.0 apartment count: 1
+turtle bay 1 bedroom APT	price avg: $3184 | std deviation: 838.7103681442438 apartment count: 49
+turtle bay 2 bedroom APT	price avg: $6239 | std deviation: 2506.6396829221385 apartment count: 10
+turtle bay 3 bedroom APT	price avg: $5000 | std deviation: 0.0 apartment count: 1
+turtle bay 4 bedroom APT	price avg: $12920 | std deviation: 8220.93187134727 apartment count: 6
+two bridges 1 bedroom APT	price avg: $2516 | std deviation: 424.2500245531323 apartment count: 12
+two bridges 2 bedroom APT	price avg: $3173 | std deviation: 632.8334694056565 apartment count: 50
+two bridges 3 bedroom APT	price avg: $4303 | std deviation: 498.0875648138811 apartment count: 18
+two bridges 4 bedroom APT	price avg: $5477 | std deviation: 335.916821715006 apartment count: 9
+two bridges studio APT	price avg: $2500 | std deviation: 173.20508075688772 apartment count: 13
+union 2 bedroom APT	price avg: $7200 | std deviation: 0.0 apartment count: 2
+union 3 bedroom APT	price avg: $5910 | std deviation: 0.0 apartment count: 3
+union city 1 bedroom APT	price avg: $2528 | std deviation: 388.3367095704448 apartment count: 5
+union city 3 bedroom APT	price avg: $3700 | std deviation: 400.0 apartment count: 4
+union city studio APT	price avg: $1950 | std deviation: 0.0 apartment count: 1
+union square 1 bedroom APT	price avg: $2743 | std deviation: 1031.2287438886788 apartment count: 18
+union square 2 bedroom APT	price avg: $3076 | std deviation: 1403.92224381077 apartment count: 6
+union square 3 bedroom APT	price avg: $6249 | std deviation: 750.5001665556111 apartment count: 2
+union square 4 bedroom APT	price avg: $13500 | std deviation: 0.0 apartment count: 1
+union square 5 bedroom APT	price avg: $12500 | std deviation: 0.0 apartment count: 1
+unionport 1 bedroom APT	price avg: $1450 | std deviation: 0.0 apartment count: 1
+unionport 3 bedroom APT	price avg: $2350 | std deviation: 0.0 apartment count: 1
+unionport studio APT	price avg: $1295 | std deviation: 0.0 apartment count: 1
+university heights 1 bedroom APT	price avg: $1327 | std deviation: 150.1723252557783 apartment count: 11
+university heights 2 bedroom APT	price avg: $1700 | std deviation: 0.0 apartment count: 1
+upper carnegie hill 2 bedroom APT	price avg: $5281 | std deviation: 2172.9793679032787 apartment count: 3
+upper carnegie hill 3 bedroom APT	price avg: $7997 | std deviation: 2.5495097567963922 apartment count: 2
+upper east side 1 bedroom APT	price avg: $2816 | std deviation: 788.4168360861353 apartment count: 5334
+upper east side 2 bedroom APT	price avg: $3785 | std deviation: 1418.3950227908888 apartment count: 3540
+upper east side 3 bedroom APT	price avg: $5102 | std deviation: 1568.3552916557223 apartment count: 1203
+upper east side 4 bedroom APT	price avg: $6004 | std deviation: 2951.1928849948868 apartment count: 180
+upper east side 5 bedroom APT	price avg: $11231 | std deviation: 11846.62696016606 apartment count: 21
+upper east side 6 bedroom APT	price avg: $10600 | std deviation: 5959.446283003145 apartment count: 5
+upper east side 7 bedroom APT	price avg: $57000 | std deviation: 0.0 apartment count: 1
+upper east side 8 bedroom APT	price avg: $3295 | std deviation: 800.0 apartment count: 2
+upper east side 9 bedroom APT	price avg: $3523 | std deviation: 1174.9699996170116 apartment count: 4
+upper east side studio APT	price avg: $2149 | std deviation: 435.61880933425067 apartment count: 2708
+upper manhattan 1 bedroom APT	price avg: $2651 | std deviation: 638.3997129920933 apartment count: 31
+upper manhattan 2 bedroom APT	price avg: $3237 | std deviation: 664.5880302864324 apartment count: 24
+upper manhattan 3 bedroom APT	price avg: $4070 | std deviation: 565.998596963549 apartment count: 17
+upper manhattan 4 bedroom APT	price avg: $5228 | std deviation: 456.40004382120736 apartment count: 10
+upper manhattan 5 bedroom APT	price avg: $5831 | std deviation: 1176.1544683132965 apartment count: 3
+upper manhattan studio APT	price avg: $2089 | std deviation: 291.4680709162435 apartment count: 11
+upper roseville 4 bedroom APT	price avg: $6195 | std deviation: 0.0 apartment count: 1
+upper west side 1 bedroom APT	price avg: $3281 | std deviation: 879.811760625146 apartment count: 3246
+upper west side 2 bedroom APT	price avg: $4405 | std deviation: 1524.9996987592308 apartment count: 2007
+upper west side 3 bedroom APT	price avg: $4916 | std deviation: 1748.8874519569836 apartment count: 826
+upper west side 4 bedroom APT	price avg: $5883 | std deviation: 2186.6350838088165 apartment count: 195
+upper west side 5 bedroom APT	price avg: $6596 | std deviation: 953.2963113024498 apartment count: 28
+upper west side 6 bedroom APT	price avg: $7889 | std deviation: 202.3064421903666 apartment count: 29
+upper west side 9 bedroom APT	price avg: $3198 | std deviation: 689.4075717599858 apartment count: 5
+upper west side studio APT	price avg: $2441 | std deviation: 617.6989212677397 apartment count: 1336
+uptown 1 bedroom APT	price avg: $1290 | std deviation: 7.0710678118654755 apartment count: 6
+usa 1 bedroom APT	price avg: $3137 | std deviation: 522.2459908893509 apartment count: 8
+usa 3 bedroom APT	price avg: $2802 | std deviation: 89.09545442950498 apartment count: 3
+usa studio APT	price avg: $2992 | std deviation: 342.5003649633092 apartment count: 2
+valley stream studio APT	price avg: $2050 | std deviation: 0.0 apartment count: 1
+van nest 1 bedroom APT	price avg: $1400 | std deviation: 0.0 apartment count: 1
+van nest 2 bedroom APT	price avg: $2450 | std deviation: 0.0 apartment count: 3
+van vorst park 2 bedroom APT	price avg: $7450 | std deviation: 0.0 apartment count: 1
+van vorst park 3 bedroom APT	price avg: $6200 | std deviation: 0.0 apartment count: 1
+vinegar hill 2 bedroom APT	price avg: $4600 | std deviation: 0.0 apartment count: 1
+vinegar hill studio APT	price avg: $2400 | std deviation: 0.0 apartment count: 1
+w. 185th street 2 bedroom APT	price avg: $2000 | std deviation: 0.0 apartment count: 1
+wakefield 1 bedroom APT	price avg: $1380 | std deviation: 67.82329983125268 apartment count: 5
+wakefield 3 bedroom APT	price avg: $2000 | std deviation: 0.0 apartment count: 2
+wakefield studio APT	price avg: $1150 | std deviation: 0.0 apartment count: 2
+warwick 2 bedroom APT	price avg: $3150 | std deviation: 0.0 apartment count: 1
+washington heights 1 bedroom APT	price avg: $1815 | std deviation: 256.90626011060584 apartment count: 219
+washington heights 2 bedroom APT	price avg: $2251 | std deviation: 314.1739636121439 apartment count: 340
+washington heights 3 bedroom APT	price avg: $2882 | std deviation: 374.75502669477737 apartment count: 303
+washington heights 4 bedroom APT	price avg: $3679 | std deviation: 539.5204136876697 apartment count: 112
+washington heights 5 bedroom APT	price avg: $4750 | std deviation: 433.0127018922193 apartment count: 4
+washington heights 6 bedroom APT	price avg: $5200 | std deviation: 0.0 apartment count: 1
+washington heights studio APT	price avg: $1691 | std deviation: 199.26297531988558 apartment count: 45
+wayne 2 bedroom APT	price avg: $7375 | std deviation: 0.0 apartment count: 1
+weehawken 1 bedroom APT	price avg: $3389 | std deviation: 606.5344178197969 apartment count: 5
+weehawken 2 bedroom APT	price avg: $3074 | std deviation: 226.76015229018228 apartment count: 6
+weehawken 3 bedroom APT	price avg: $8000 | std deviation: 0.0 apartment count: 1
+weehawken studio APT	price avg: $1700 | std deviation: 0.0 apartment count: 1
+west amwell studio APT	price avg: $2975 | std deviation: 0.0 apartment count: 1
+west brighton 1 bedroom APT	price avg: $5645 | std deviation: 0.0 apartment count: 2
+west chelsea 1 bedroom APT	price avg: $3987 | std deviation: 994.2471833193501 apartment count: 26
+west chelsea 2 bedroom APT	price avg: $9255 | std deviation: 3397.202721848276 apartment count: 12
+west chelsea 3 bedroom APT	price avg: $11635 | std deviation: 4740.0 apartment count: 2
+west chelsea 4 bedroom APT	price avg: $14497 | std deviation: 10502.500011901928 apartment count: 2
+west harlem 1 bedroom APT	price avg: $2219 | std deviation: 736.4913676284298 apartment count: 159
+west harlem 2 bedroom APT	price avg: $2716 | std deviation: 760.595037924572 apartment count: 239
+west harlem 3 bedroom APT	price avg: $3150 | std deviation: 523.3852238959298 apartment count: 216
+west harlem 4 bedroom APT	price avg: $3784 | std deviation: 538.1755566955466 apartment count: 114
+west harlem 5 bedroom APT	price avg: $5238 | std deviation: 1660.835769889803 apartment count: 11
+west harlem 6 bedroom APT	price avg: $6000 | std deviation: 0.0 apartment count: 1
+west harlem studio APT	price avg: $1844 | std deviation: 469.7117835167307 apartment count: 94
+west new york 1 bedroom APT	price avg: $3005 | std deviation: 729.038560175127 apartment count: 9
+west new york 2 bedroom APT	price avg: $4795 | std deviation: 600.0 apartment count: 2
+west new york 3 bedroom APT	price avg: $3888 | std deviation: 662.7580898897318 apartment count: 7
+west new york studio APT	price avg: $1725 | std deviation: 25.0 apartment count: 2
+west orange 1 bedroom APT	price avg: $3550 | std deviation: 0.0 apartment count: 1
+west orange studio APT	price avg: $2450 | std deviation: 0.0 apartment count: 1
+west side 1 bedroom APT	price avg: $5595 | std deviation: 0.0 apartment count: 1
+west side 2 bedroom APT	price avg: $3400 | std deviation: 0.0 apartment count: 1
+west side studio APT	price avg: $1850 | std deviation: 0.0 apartment count: 1
+west village 1 bedroom APT	price avg: $3958 | std deviation: 1019.6794024430467 apartment count: 1731
+west village 2 bedroom APT	price avg: $4608 | std deviation: 1299.8920512210182 apartment count: 696
+west village 3 bedroom APT	price avg: $6247 | std deviation: 2023.8206207511018 apartment count: 221
+west village 4 bedroom APT	price avg: $10981 | std deviation: 5569.171631999383 apartment count: 6
+west village 5 bedroom APT	price avg: $39000 | std deviation: 0.0 apartment count: 1
+west village 8 bedroom APT	price avg: $7725 | std deviation: 5275.0 apartment count: 2
+west village 9 bedroom APT	price avg: $4057 | std deviation: 107.50116278440899 apartment count: 2
+west village studio APT	price avg: $2979 | std deviation: 1057.4765704755246 apartment count: 898
+westfield 2 bedroom APT	price avg: $2995 | std deviation: 0.0 apartment count: 1
+whitestone 1 bedroom APT	price avg: $1900 | std deviation: 0.0 apartment count: 1
+whitestone 2 bedroom APT	price avg: $4375 | std deviation: 0.0 apartment count: 1
+whitestone 3 bedroom APT	price avg: $2400 | std deviation: 0.0 apartment count: 1
+williamsbridge 3 bedroom APT	price avg: $2050 | std deviation: 86.60254037844386 apartment count: 4
+williamsburg 1 bedroom APT	price avg: $3168 | std deviation: 692.4041222536546 apartment count: 397
+williamsburg 2 bedroom APT	price avg: $3759 | std deviation: 1023.6693992996469 apartment count: 384
+williamsburg 3 bedroom APT	price avg: $4432 | std deviation: 1227.8583232388428 apartment count: 113
+williamsburg 4 bedroom APT	price avg: $4430 | std deviation: 505.3897011218175 apartment count: 8
+williamsburg 5 bedroom APT	price avg: $8000 | std deviation: 0.0 apartment count: 1
+williamsburg studio APT	price avg: $2820 | std deviation: 707.3517612083164 apartment count: 142
+windsor terrace 1 bedroom APT	price avg: $2462 | std deviation: 449.8110158722216 apartment count: 20
+windsor terrace 2 bedroom APT	price avg: $3411 | std deviation: 586.6113420883256 apartment count: 15
+windsor terrace 3 bedroom APT	price avg: $3764 | std deviation: 1049.4372698419536 apartment count: 12
+windsor terrace studio APT	price avg: $1949 | std deviation: 577.8630893213374 apartment count: 4
+woodbridge studio APT	price avg: $2991 | std deviation: 0.0 apartment count: 1
+woodhaven 1 bedroom APT	price avg: $1632 | std deviation: 72.16103024288307 apartment count: 14
+woodhaven 2 bedroom APT	price avg: $2216 | std deviation: 23.57965224510319 apartment count: 3
+woodhaven 3 bedroom APT	price avg: $2350 | std deviation: 600.0 apartment count: 2
+woodland park 2 bedroom APT	price avg: $2795 | std deviation: 0.0 apartment count: 1
+woodmere 1 bedroom APT	price avg: $2900 | std deviation: 0.0 apartment count: 1
+woodmere studio APT	price avg: $2750 | std deviation: 0.0 apartment count: 1
+woodside 1 bedroom APT	price avg: $2050 | std deviation: 606.9047152011042 apartment count: 6
+woodside 2 bedroom APT	price avg: $2365 | std deviation: 343.5476677260377 apartment count: 10
+woodside 3 bedroom APT	price avg: $2700 | std deviation: 100.0 apartment count: 2
+woodside studio APT	price avg: $1535 | std deviation: 0.0 apartment count: 1
+woodstock 1 bedroom APT	price avg: $1850 | std deviation: 0.0 apartment count: 1
+yonkers 1 bedroom APT	price avg: $1600 | std deviation: 0.0 apartment count: 1
+yorkville 1 bedroom APT	price avg: $2652 | std deviation: 753.5048084095391 apartment count: 135
+yorkville 2 bedroom APT	price avg: $3736 | std deviation: 1172.1411154466632 apartment count: 73
+yorkville 3 bedroom APT	price avg: $7906 | std deviation: 4721.750284587274 apartment count: 20
+yorkville 4 bedroom APT	price avg: $9276 | std deviation: 4281.7461131853415 apartment count: 9
+yorkville 5 bedroom APT	price avg: $17500 | std deviation: 2500.0 apartment count: 2
+yorkville 570 bedroom APT	price avg: $2775 | std deviation: 0.0 apartment count: 1
+yorkville studio APT	price avg: $3450 | std deviation: 1550.0 apartment count: 2
