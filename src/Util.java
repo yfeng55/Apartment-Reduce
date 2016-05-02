@@ -4,23 +4,25 @@ import java.util.HashSet;
 public class Util {
 	
 	public static final double PRICE_MIN = 200;				// minimum price for a listing to not be considered spam
-	public static final double SPAM_SCORE_THRESHOLD = 0.5;	// threshold score for a listing to be considered spam 
+	public static final double SPAM_SCORE_THRESHOLD =9.0;	// threshold score for a listing to be considered spam 
 	
 	
 	public static boolean isSpam(Listing listing){
 		
 		// (1) check if the neighborhood is valid //
-		if(!isValidNeighborhood(listing.neighborhood)){
+		/*if(!isValidNeighborhood(listing.neighborhood)){
+			System.out.println("inavlid neighborhood");
 			return true;
 		}
 		
 		// (2) check that the price is above the minimum //
-		else if(listing.price < PRICE_MIN){
+		else*/
+			if(listing.price < PRICE_MIN){
 			return true;
 		}
 		
 		// (3) assign a score for the title from 0 - 1 and check if it exceeds the spam_score threshold
-		else if(spamScore(listing) > SPAM_SCORE_THRESHOLD){
+		else if(spamScore(listing) < SPAM_SCORE_THRESHOLD){
 			return true;
 		}
 		
@@ -32,12 +34,12 @@ public class Util {
 	// variables: # of pictures, price, price std, keywords in text, presence of location
 	public static double spamScore(Listing listing){
 		
-		int score = 0;
+		double score = 0;
+		
+		score=Math.max(0,(2.5*Math.log(listing.num_images+1)/1.39794000867)+(4.5*Math.log(listing.zscore+6))+(listing.description.length()/150)+2*listing.has_map);
 		
 		
-		
-		
-		return 0;
+		return score;
 	}
 	
 	
@@ -86,8 +88,8 @@ public class Util {
 		
 		// check if the neighborhood name is contained in the known neighborhood list
 		for(String n : neighborhood_set){
-			if(neighborhood.toLowerCase().replaceAll("[\\W]", "").equals(n.toLowerCase().replaceAll("[\\W]", "")) || 
-					neighborhood.toLowerCase().replaceAll("[\\W]", "").contains(n.toLowerCase().replaceAll("[\\W]", ""))){
+			if(neighborhood.toLowerCase().replaceAll("[\\s+]", "").equals(n.toLowerCase().replaceAll("[\\s+]", "")) || 
+					neighborhood.toLowerCase().replaceAll("[\\s+]", "").contains(n.toLowerCase().replaceAll("[\\s+]", ""))){
 				
 				return true;
 			}

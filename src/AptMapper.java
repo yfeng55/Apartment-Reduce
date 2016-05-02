@@ -40,6 +40,7 @@ public class AptMapper extends Mapper<LongWritable, Text, Text, Text> {
 				for(int i=4; i<line_array.length; i++){
 					description_pics_info += line_array[i] + "\t";
 				}
+				//System.out.println(description_pics_info);
 			}
 			catch(Exception e)
 			{
@@ -57,8 +58,10 @@ public class AptMapper extends Mapper<LongWritable, Text, Text, Text> {
 			{
 				reducer_key=region+" "+bedrooms+" bedroom APT";
 			}
+			String Value=price+"\t"+description_pics_info;
+	
 			
-			context.write(new Text(reducer_key),new Text(price + description_pics_info));
+			context.write(new Text(reducer_key),new Text(Value));
 		}
 		
 		sc.close();
