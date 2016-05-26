@@ -1,0 +1,415 @@
+(PRICE)
+
++----------------------------------+-------+--------+------------+--+
+|           neighborhood           |  min  |  max   |    avg     |
++----------------------------------+-------+--------+------------+--+
+| NULL                             | NULL  | NULL   | NULL       |
+|   Harlem                         | 800   | 800    | 800        |
+|  Hamilton Heights                | 800   | 800    | 800        |
+|  Harlem                          | 1000  | 1000   | 1000       |
+|  Harlem                          | 1000  | 1000   | 1000       |
+|  In`wood                         | 1000  | 1000   | 1000       |
+|  Inwood                          | 1000  | 1500   | 1339       |
+|  Inwood                          | 775   | 1335   | 1030       |
+|  Manhattan                       | 125   | 1825   | 1009.625   |
+|  Manhattan                       | 1124  | 1124   | 1124       |
+|  New York cty                    | 1825  | 1825   | 1825       |
+|  Washington Heights              | 890   | 1350   | 1110       |
+|  uptown                          | 1285  | 1300   | 1295       |
+|  uptown                          | 1300  | 1300   | 1300       |
+| 214 W.96th St. 3A                | 2350  | 2350   | 2350       |
+| 257 W. 10th St. 1W               | 2895  | 2895   | 2895       |
+| 56 Beaver St.,102                | 2555  | 2555   | 2555       |
+| Astoria                          | 2250  | 2250   | 2250       |
+| Battery Park                     | 665   | 4095   | 1735.7692  |
+| Battery Park City                | 2175  | 5300   | 2831       |
+| Bowery                           | 700   | 1335   | 915        |
+| COLUMBUS CIRCLE                  | 2145  | 2145   | 2145       |
+| Central Park                     | 3750  | 4000   | 3875       |
+| Chelsea                          | 0     | 17500  | 4036.9286  |
+| Chinatown                        | 50    | 2750   | 1349       |
+| Chinatown                        | 1895  | 8000   | 3124.1667  |
+| Civic Center                     | 2470  | 2470   | 2470       |
+| Clinton                          | 1599  | 3200   | 2217.75    |
+| Columbus circle                  | 2745  | 2745   | 2745       |
+| Downtown                         | 2     | 14500  | 3581.7     |
+| EAST 91ST                        | 2350  | 2350   | 2350       |
+| East Harlem                      | 0     | 4495   | 1894.5981  |
+| East Village                     | 0     | 6795   | 3508.7267  |
+| FLAT IRON                        | 2650  | 2650   | 2650       |
+| Financial District               | 695   | 9795   | 3734.9375  |
+| Flatiron                         | 650   | 12000  | 4320.9643  |
+| Flatiron District                | 6650  | 6650   | 6650       |
+| Fort George                      | 1025  | 2075   | 1415       |
+| Garment District                 | 1456  | 2720   | 2088       |
+| Gramercy                         | 0     | 7800   | 3498.7097  |
+| Gramercy Park                    | 2625  | 2645   | 2635       |
+| Greenwich Village                | 550   | 15000  | 3274.0385  |
+| Hamilton Heights                 | 795   | 2400   | 1363       |
+| Harlem                           | 200   | 2800   | 1534.5652  |
+| Harlem                           | 1100  | 6995   | 2807.9853  |
+| Hell's Kitchen                   | 1975  | 2890   | 2462.5     |
+| Hells Kitchen                    | 3200  | 3200   | 3200       |
+| In`wood                          | 775   | 1360   | 1045       |
+| Inwood                           | 775   | 2250   | 1331.5     |
+| Inwood                           | 900   | 5000   | 2469.7164  |
+| Kips Bay                         | 1675  | 2800   | 2390       |
+| Koreatown                        | 2600  | 2775   | 2687.5     |
+| Las Vegas                        | 1595  | 1595   | 1595       |
+| Little Italy                     | 1896  | 2700   | 2298       |
+| Lower East Side                  | 1     | 6500   | 3020.5068  |
+| MANHATTAN                        | 3000  | 3000   | 3000       |
+| MORNING SIDE                     | 2895  | 2895   | 2895       |
+| Manhattan                        | 800   | 1825   | 1483.3333  |
+| Manhattan                        | 1124  | 1124   | 1124       |
+| Manhattan ny                     | 1825  | 1825   | 1825       |
+| Midtown                          | 0     | 5215   | 3044.8966  |
+| Midtown Center                   | 2175  | 3024   | 2529.8     |
+| Midtown East                     | 0     | 7230   | 3330.4128  |
+| Midtown West                     | 60    | 8990   | 3366.1354  |
+| Midtown east                     | 2190  | 2190   | 2190       |
+| Morningside Heights              | 2925  | 2925   | 2925       |
+| Murray Hill                      | 765   | 12000  | 3325.2258  |
+| New York,                        | 1825  | 1825   | 1825       |
+| NoLita                           | 1925  | 2470   | 2196.6667  |
+| Nolita                           | 850   | 6600   | 3595.4348  |
+| RIVERDALE                        | 2295  | 2295   | 2295       |
+| Roosevelt Island                 | 2450  | 2500   | 2475       |
+| SoHo                             | 2450  | 15000  | 6382.92    |
+| Soho                             | 6850  | 6850   | 6850       |
+| Sutton Place                     | 1975  | 2675   | 2281.6667  |
+| Theater District - Times Square  | 2450  | 3000   | 2808.3333  |
+| TriBeCa                          | 555   | 15850  | 5464.4444  |
+| Tribeca                          | 2320  | 3000   | 2660       |
+| Tudor City                       | 2525  | 2525   | 2525       |
+| Union Square                     | 0     | 13500  | 3798       |
+| Upper East Side                  | 0     | 14650  | 3067.2447  |
+| Upper Manhattan                  | 1795  | 5000   | 3876.5714  |
+| Upper West Side                  | 0     | 9850   | 3244.3775  |
+| Upper east side                  | 3375  | 3375   | 3375       |
+| Upper west side                  | 1745  | 1745   | 1745       |
+| W. 185th Street                  | 2000  | 2000   | 2000       |
+| Washington Heights               | 2     | 2650   | 1553.7     |
+| West Village                     | 0     | 18000  | 4460.8854  |
+| Yonkers                          | 1600  | 1600   | 1600       |
+| _Inwood_                         | 1335  | 1335   | 1335       |
+| dunellen nj                      | 1700  | 1700   | 1700       |
+| murray hill                      | 2299  | 2299   | 2299       |
+| upper east side                  | 2350  | 2795   | 2572.5     |
+| upper west side                  | 1900  | 2795   | 2347.5     |
+| uptown                           | 1285  | 1300   | 1290       |
+| west village                     | 3900  | 3900   | 3900       |
++----------------------------------+-------+--------+------------+--+
+
+
+(BEDS)
+
++----------------------------------+-----------+-----------+---------------------+--+
+|           neighborhood           | min_beds  | max_beds  |      avg_beds       |
++----------------------------------+-----------+-----------+---------------------+--+
+| NULL                             | NULL      | NULL      | NULL                |
+|   Harlem                         | 1         | 1         | 1.0                 |
+|  Hamilton Heights                | 1         | 1         | 1.0                 |
+|  Harlem                          | 1         | 1         | 1.0                 |
+|  Harlem                          | 1         | 1         | 1.0                 |
+|  In`wood                         | 1         | 1         | 1.0                 |
+|  Inwood                          | 1         | 9         | 4.4                 |
+|  Inwood                          | 1         | 2         | 1.2                 |
+|  Manhattan                       | 1         | 2         | 1.375               |
+|  Manhattan                       | 2         | 2         | 2.0                 |
+|  New York cty                    | 2         | 2         | 2.0                 |
+|  Washington Heights              | 1         | 2         | 1.25                |
+|  uptown                          | 1         | 1         | 1.0                 |
+|  uptown                          | 1         | 1         | 1.0                 |
+| 214 W.96th St. 3A                | 1         | 1         | 1.0                 |
+| 257 W. 10th St. 1W               | 1         | 1         | 1.0                 |
+| 56 Beaver St.,102                | 1         | 1         | 1.0                 |
+| Astoria                          | 1         | 1         | 1.0                 |
+| Battery Park                     | 1         | 2         | 1.2307692307692308  |
+| Battery Park City                | 1         | 2         | 1.1                 |
+| Bowery                           | 1         | 2         | 1.25                |
+| COLUMBUS CIRCLE                  | 2         | 2         | 2.0                 |
+| Central Park                     | 3         | 3         | 3.0                 |
+| Chelsea                          | 1         | 9         | 1.7738095238095237  |
+| Chinatown                        | 1         | 3         | 1.8                 |
+| Chinatown                        | 1         | 9         | 2.0                 |
+| Civic Center                     | 1         | 1         | 1.0                 |
+| Clinton                          | 1         | 8         | 1.625               |
+| Columbus circle                  | 2         | 2         | 2.0                 |
+| Downtown                         | 1         | 8         | 1.9                 |
+| EAST 91ST                        | 2         | 2         | 2.0                 |
+| East Harlem                      | 1         | 9         | 1.719626168224299   |
+| East Village                     | 1         | 9         | 1.9875776397515528  |
+| FLAT IRON                        | 1         | 1         | 1.0                 |
+| Financial District               | 1         | 9         | 1.9791666666666667  |
+| Flatiron                         | 1         | 6         | 1.9285714285714286  |
+| Flatiron District                | 2         | 2         | 2.0                 |
+| Fort George                      | 1         | 2         | 1.4                 |
+| Garment District                 | 1         | 1         | 1.0                 |
+| Gramercy                         | 1         | 8         | 1.8870967741935485  |
+| Gramercy Park                    | 1         | 1         | 1.0                 |
+| Greenwich Village                | 1         | 9         | 1.8653846153846154  |
+| Hamilton Heights                 | 1         | 3         | 1.6                 |
+| Harlem                           | 1         | 2         | 1.434782608695652   |
+| Harlem                           | 1         | 9         | 1.8529411764705883  |
+| Hell's Kitchen                   | 1         | 1         | 1.0                 |
+| Hells Kitchen                    | 2         | 2         | 2.0                 |
+| In`wood                          | 1         | 2         | 1.3333333333333333  |
+| Inwood                           | 1         | 9         | 2.3                 |
+| Inwood                           | 1         | 9         | 2.388059701492537   |
+| Kips Bay                         | 1         | 2         | 1.2727272727272727  |
+| Koreatown                        | 1         | 1         | 1.0                 |
+| Las Vegas                        | 2         | 2         | 2.0                 |
+| Little Italy                     | 1         | 2         | 1.5                 |
+| Lower East Side                  | 1         | 9         | 2.0                 |
+| MANHATTAN                        | 3         | 3         | 3.0                 |
+| MORNING SIDE                     | 3         | 3         | 3.0                 |
+| Manhattan                        | 1         | 1         | 1.0                 |
+| Manhattan                        | 2         | 2         | 2.0                 |
+| Manhattan ny                     | 2         | 2         | 2.0                 |
+| Midtown                          | 1         | 3         | 1.3103448275862069  |
+| Midtown Center                   | 1         | 1         | 1.0                 |
+| Midtown East                     | 1         | 9         | 1.889908256880734   |
+| Midtown West                     | 1         | 9         | 1.6041666666666667  |
+| Midtown east                     | 1         | 1         | 1.0                 |
+| Morningside Heights              | 4         | 4         | 4.0                 |
+| Murray Hill                      | 1         | 8         | 1.7419354838709677  |
+| New York,                        | 2         | 2         | 2.0                 |
+| NoLita                           | 1         | 1         | 1.0                 |
+| Nolita                           | 1         | 9         | 1.8695652173913044  |
+| RIVERDALE                        | 2         | 2         | 2.0                 |
+| Roosevelt Island                 | 1         | 1         | 1.0                 |
+| SoHo                             | 1         | 8         | 1.8                 |
+| Soho                             | 2         | 2         | 2.0                 |
+| Sutton Place                     | 1         | 1         | 1.0                 |
+| Theater District - Times Square  | 1         | 1         | 1.0                 |
+| TriBeCa                          | 1         | 6         | 2.1481481481481484  |
+| Tribeca                          | 1         | 1         | 1.0                 |
+| Tudor City                       | 1         | 1         | 1.0                 |
+| Union Square                     | 1         | 5         | 1.6071428571428572  |
+| Upper East Side                  | 1         | 9         | 1.6105263157894736  |
+| Upper Manhattan                  | 1         | 5         | 2.942857142857143   |
+| Upper West Side                  | 1         | 9         | 1.7911646586345382  |
+| Upper east side                  | 2         | 2         | 2.0                 |
+| Upper west side                  | 1         | 1         | 1.0                 |
+| W. 185th Street                  | 2         | 2         | 2.0                 |
+| Washington Heights               | 1         | 3         | 1.8                 |
+| West Village                     | 1         | 9         | 1.6875              |
+| Yonkers                          | 1         | 1         | 1.0                 |
+| _Inwood_                         | 1         | 1         | 1.0                 |
+| dunellen nj                      | 3         | 3         | 3.0                 |
+| murray hill                      | 1         | 1         | 1.0                 |
+| upper east side                  | 1         | 1         | 1.0                 |
+| upper west side                  | 1         | 1         | 1.0                 |
+| uptown                           | 1         | 1         | 1.0                 |
+| west village                     | 2         | 2         | 2.0                 |
++----------------------------------+-----------+-----------+---------------------+--+
+
+
+
+(IMAGES)
+
++----------------------------------+-------+-------+---------------------+--+
+|           neighborhood           |  min  |  max  |         avg         |
++----------------------------------+-------+-------+---------------------+--+
+| NULL                             | NULL  | NULL  | NULL                |
+|   Harlem                         | 0     | 0     | 0.0                 |
+|  Hamilton Heights                | 0     | 0     | 0.0                 |
+|  Harlem                          | 0     | 0     | 0.0                 |
+|  Harlem                          | 0     | 0     | 0.0                 |
+|  In`wood                         | 0     | 0     | 0.0                 |
+|  Inwood                          | 0     | 0     | 0.0                 |
+|  Inwood                          | 0     | 0     | 0.0                 |
+|  Manhattan                       | 0     | 0     | 0.0                 |
+|  Manhattan                       | 0     | 0     | 0.0                 |
+|  New York cty                    | 0     | 0     | 0.0                 |
+|  Washington Heights              | 0     | 0     | 0.0                 |
+|  uptown                          | 0     | 0     | 0.0                 |
+|  uptown                          | 0     | 0     | 0.0                 |
+| 214 W.96th St. 3A                | 9     | 9     | 9.0                 |
+| 257 W. 10th St. 1W               | 9     | 9     | 9.0                 |
+| 56 Beaver St.,102                | 0     | 0     | 0.0                 |
+| Astoria                          | 4     | 4     | 4.0                 |
+| Battery Park                     | 0     | 14    | 4.6923076923076925  |
+| Battery Park City                | 3     | 8     | 6.0                 |
+| Bowery                           | 0     | 4     | 3.0                 |
+| COLUMBUS CIRCLE                  | 5     | 5     | 5.0                 |
+| Central Park                     | 7     | 7     | 7.0                 |
+| Chelsea                          | 0     | 24    | 5.892857142857143   |
+| Chinatown                        | 4     | 8     | 5.6                 |
+| Chinatown                        | 0     | 8     | 6.666666666666667   |
+| Civic Center                     | 4     | 4     | 4.0                 |
+| Clinton                          | 3     | 8     | 6.0                 |
+| Columbus circle                  | 13    | 13    | 13.0                |
+| Downtown                         | 0     | 11    | 6.5                 |
+| EAST 91ST                        | 6     | 6     | 6.0                 |
+| East Harlem                      | 0     | 20    | 6.383177570093458   |
+| East Village                     | 0     | 20    | 6.372670807453416   |
+| FLAT IRON                        | 6     | 6     | 6.0                 |
+| Financial District               | 0     | 15    | 5.958333333333333   |
+| Flatiron                         | 0     | 8     | 4.285714285714286   |
+| Flatiron District                | 9     | 9     | 9.0                 |
+| Fort George                      | 5     | 8     | 6.6                 |
+| Garment District                 | 4     | 6     | 5.0                 |
+| Gramercy                         | 0     | 15    | 6.419354838709677   |
+| Gramercy Park                    | 8     | 8     | 8.0                 |
+| Greenwich Village                | 0     | 15    | 3.8076923076923075  |
+| Hamilton Heights                 | 0     | 7     | 2.0                 |
+| Harlem                           | 3     | 8     | 5.782608695652174   |
+| Harlem                           | 0     | 17    | 7.338235294117647   |
+| Hell's Kitchen                   | 3     | 8     | 6.5                 |
+| Hells Kitchen                    | 4     | 4     | 4.0                 |
+| In`wood                          | 0     | 0     | 0.0                 |
+| Inwood                           | 0     | 8     | 3.8                 |
+| Inwood                           | 0     | 20    | 8.35820895522388    |
+| Kips Bay                         | 4     | 6     | 4.909090909090909   |
+| Koreatown                        | 4     | 8     | 6.0                 |
+| Las Vegas                        | 9     | 9     | 9.0                 |
+| Little Italy                     | 3     | 5     | 4.0                 |
+| Lower East Side                  | 0     | 19    | 5.794520547945205   |
+| MANHATTAN                        | 0     | 0     | 0.0                 |
+| MORNING SIDE                     | 8     | 8     | 8.0                 |
+| Manhattan                        | 0     | 0     | 0.0                 |
+| Manhattan                        | 0     | 0     | 0.0                 |
+| Manhattan ny                     | 0     | 0     | 0.0                 |
+| Midtown                          | 0     | 12    | 5.793103448275862   |
+| Midtown Center                   | 4     | 8     | 7.2                 |
+| Midtown East                     | 0     | 22    | 5.110091743119266   |
+| Midtown West                     | 0     | 24    | 6.822916666666667   |
+| Midtown east                     | 13    | 13    | 13.0                |
+| Morningside Heights              | 4     | 4     | 4.0                 |
+| Murray Hill                      | 0     | 17    | 4.591397849462366   |
+| New York,                        | 0     | 0     | 0.0                 |
+| NoLita                           | 3     | 5     | 4.0                 |
+| Nolita                           | 0     | 17    | 7.565217391304348   |
+| RIVERDALE                        | 8     | 8     | 8.0                 |
+| Roosevelt Island                 | 0     | 5     | 2.5                 |
+| SoHo                             | 3     | 17    | 6.56                |
+| Soho                             | 6     | 6     | 6.0                 |
+| Sutton Place                     | 3     | 7     | 4.666666666666667   |
+| Theater District - Times Square  | 6     | 8     | 6.833333333333333   |
+| TriBeCa                          | 3     | 13    | 5.37037037037037    |
+| Tribeca                          | 5     | 8     | 6.5                 |
+| Tudor City                       | 5     | 5     | 5.0                 |
+| Union Square                     | 0     | 14    | 4.321428571428571   |
+| Upper East Side                  | 0     | 24    | 6.176315789473684   |
+| Upper Manhattan                  | 6     | 24    | 8.457142857142857   |
+| Upper West Side                  | 0     | 18    | 6.333333333333333   |
+| Upper east side                  | 5     | 5     | 5.0                 |
+| Upper west side                  | 0     | 0     | 0.0                 |
+| W. 185th Street                  | 0     | 0     | 0.0                 |
+| Washington Heights               | 0     | 8     | 5.0                 |
+| West Village                     | 0     | 15    | 4.635416666666667   |
+| Yonkers                          | 14    | 14    | 14.0                |
+| _Inwood_                         | 0     | 0     | 0.0                 |
+| dunellen nj                      | 24    | 24    | 24.0                |
+| murray hill                      | 4     | 4     | 4.0                 |
+| upper east side                  | 4     | 5     | 4.5                 |
+| upper west side                  | 3     | 5     | 4.0                 |
+| uptown                           | 0     | 0     | 0.0                 |
+| west village                     | 5     | 5     | 5.0                 |
++----------------------------------+-------+-------+---------------------+--+
+
+
+(TEXT LENGTH)
+
++----------------------------------+-------+-------+---------------------+--+
+|           neighborhood           |  min  |  max  |         avg         |
++----------------------------------+-------+-------+---------------------+--+
+| NULL                             | NULL  | NULL  | NULL                |
+|   Harlem                         | 73    | 73    | 73.0                |
+|  Hamilton Heights                | 83    | 83    | 83.0                |
+|  Harlem                          | 70    | 70    | 70.0                |
+|  Harlem                          | 63    | 63    | 63.0                |
+|  In`wood                         | 69    | 69    | 69.0                |
+|  Inwood                          | 65    | 77    | 71.8                |
+|  Inwood                          | 62    | 78    | 74.2                |
+|  Manhattan                       | 59    | 85    | 71.625              |
+|  Manhattan                       | 96    | 96    | 96.0                |
+|  New York cty                    | 71    | 77    | 73.0                |
+|  Washington Heights              | 74    | 88    | 82.0                |
+|  uptown                          | 66    | 81    | 70.5                |
+|  uptown                          | 76    | 76    | 76.0                |
+| 214 W.96th St. 3A                | 64    | 64    | 64.0                |
+| 257 W. 10th St. 1W               | 60    | 60    | 60.0                |
+| 56 Beaver St.,102                | 68    | 68    | 68.0                |
+| Astoria                          | 80    | 86    | 83.0                |
+| Battery Park                     | 13    | 123   | 86.07692307692308   |
+| Battery Park City                | 67    | 130   | 98.0                |
+| Bowery                           | 55    | 82    | 70.5                |
+| COLUMBUS CIRCLE                  | 101   | 101   | 101.0               |
+| Central Park                     | 57    | 57    | 57.0                |
+| Chelsea                          | 12    | 111   | 83.80952380952381   |
+| Chinatown                        | 69    | 106   | 81.6                |
+| Chinatown                        | 66    | 115   | 103.41666666666667  |
+| Civic Center                     | 67    | 67    | 67.0                |
+| Clinton                          | 35    | 111   | 80.125              |
+| Columbus circle                  | 110   | 110   | 110.0               |
+| Downtown                         | 69    | 103   | 87.2                |
+| EAST 91ST                        | 12    | 12    | 12.0                |
+| East Harlem                      | 12    | 124   | 84.29906542056075   |
+| East Village                     | 12    | 116   | 87.88819875776397   |
+| FLAT IRON                        | 69    | 69    | 69.0                |
+| Financial District               | 12    | 131   | 99.35416666666667   |
+| Flatiron                         | 12    | 122   | 83.67857142857143   |
+| Flatiron District                | 98    | 98    | 98.0                |
+| Fort George                      | 12    | 109   | 75.8                |
+| Garment District                 | 69    | 76    | 72.5                |
+| Gramercy                         | 12    | 111   | 82.08064516129032   |
+| Gramercy Park                    | 90    | 98    | 94.0                |
+| Greenwich Village                | 12    | 121   | 90.4423076923077    |
+| Hamilton Heights                 | 71    | 120   | 83.4                |
+| Harlem                           | 65    | 114   | 82.78260869565217   |
+| Harlem                           | 12    | 124   | 98.41176470588235   |
+| Hell's Kitchen                   | 90    | 105   | 95.0                |
+| Hells Kitchen                    | 75    | 75    | 75.0                |
+| In`wood                          | 66    | 77    | 70.0                |
+| Inwood                           | 51    | 83    | 68.4                |
+| Inwood                           | 13    | 121   | 93.8955223880597    |
+| Kips Bay                         | 40    | 114   | 78.0909090909091    |
+| Koreatown                        | 83    | 117   | 100.0               |
+| Las Vegas                        | 113   | 113   | 113.0               |
+| Little Italy                     | 56    | 87    | 71.5                |
+| Lower East Side                  | 12    | 119   | 95.1917808219178    |
+| MANHATTAN                        | 65    | 65    | 65.0                |
+| MORNING SIDE                     | 97    | 97    | 97.0                |
+| Manhattan                        | 58    | 84    | 75.33333333333333   |
+| Manhattan                        | 68    | 68    | 68.0                |
+| Manhattan ny                     | 83    | 83    | 83.0                |
+| Midtown                          | 40    | 111   | 85.93103448275862   |
+| Midtown Center                   | 74    | 91    | 80.8                |
+| Midtown East                     | 12    | 125   | 89.63302752293578   |
+| Midtown West                     | 12    | 122   | 90.50520833333333   |
+| Midtown east                     | 105   | 105   | 105.0               |
+| Morningside Heights              | 82    | 82    | 82.0                |
+| Murray Hill                      | 12    | 124   | 92.88172043010752   |
+| New York,                        | 74    | 74    | 74.0                |
+| NoLita                           | 56    | 78    | 63.666666666666664  |
+| Nolita                           | 12    | 112   | 87.8695652173913    |
+| RIVERDALE                        | 81    | 81    | 81.0                |
+| Roosevelt Island                 | 100   | 120   | 110.0               |
+| SoHo                             | 12    | 109   | 79.88               |
+| Soho                             | 73    | 73    | 73.0                |
+| Sutton Place                     | 71    | 112   | 94.66666666666667   |
+| Theater District - Times Square  | 12    | 144   | 90.33333333333333   |
+| TriBeCa                          | 59    | 121   | 92.29629629629629   |
+| Tribeca                          | 60    | 86    | 73.0                |
+| Tudor City                       | 66    | 66    | 66.0                |
+| Union Square                     | 74    | 115   | 98.39285714285714   |
+| Upper East Side                  | 12    | 128   | 91.70526315789473   |
+| Upper Manhattan                  | 12    | 113   | 64.94285714285714   |
+| Upper West Side                  | 12    | 128   | 90.20080321285141   |
+| Upper east side                  | 115   | 115   | 115.0               |
+| Upper west side                  | 95    | 95    | 95.0                |
+| W. 185th Street                  | 70    | 70    | 70.0                |
+| Washington Heights               | 49    | 122   | 95.6                |
+| West Village                     | 50    | 125   | 93.5625             |
+| Yonkers                          | 94    | 94    | 94.0                |
+| _Inwood_                         | 75    | 75    | 75.0                |
+| dunellen nj                      | 106   | 106   | 106.0               |
+| murray hill                      | 96    | 96    | 96.0                |
+| upper east side                  | 74    | 95    | 84.5                |
+| upper west side                  | 89    | 113   | 101.0               |
+| uptown                           | 65    | 80    | 74.5                |
+| west village                     | 114   | 114   | 114.0               |
++----------------------------------+-------+-------+---------------------+--+
